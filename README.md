@@ -1,7 +1,7 @@
-# Generated From Strava - Last Refreshed - 18 December, 2021 at 19:24:27
+# Generated From Strava - Last Refreshed - 18 December, 2021 at 20:03:53
 The Latest Activity was a EBikeRide called Have gravel bike,  will get muddy!! which happened on 2021-12-18T11:51:38Z 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 12 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6398458092 
 
