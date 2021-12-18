@@ -1,2 +1,72 @@
-# StravaBike
-Based originally on https://github.com/c-wilkinson/StravaDataAnalysis - this repo will update on a schedule and gather Strava information and generate some Bike related data that I am interested in.
+# Generated From Strava - Last Refreshed - 18 December, 2021 at 17:54:18
+The Latest Activity was a EBikeRide called Have gravel bike,  will get muddy!! which happened on 2021-12-18T11:51:38Z 
+
+Which is 0 years, 0 months, 0 days, 6 hours and 2 minutes since the last refresh! 
+
+You can see it here https://www.strava.com/activities/6398458092 
+
+## Average Bike Speed Outside
+How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
+
+![Average Bike Speed Outside](AverageSpeedOutSide.png?raw=true "Average Bike Speed Outside")
+
+## Average Bike Speed Wherever
+How does my average bike speed vary for rides by distance, by year, and by type of ride?
+
+![AverageSpeed](AverageSpeed.png?raw=true "Average Bike Speed per Distance")
+
+## Average Cadence
+How does my average bike cadence vary for rides by distance, by year, and by type of ride?
+
+![AverageCadence](AverageCadence.png?raw=true "Average Cadence per Distance")
+
+## Average Power
+How does my average bike power vary for rides by distance, by year, and by type of ride?
+
+![AverageCadence](AveragePower.png?raw=true "Average Power per Distance")
+
+## Outside Rides Distance by day
+How far do I ride each day on average?
+
+![DistanceByDayRide](DistanceByDayRide.png?raw=true "DistanceByDayRide")
+
+## Cadence by day
+Does my cadence change by the day of the week?
+
+![CadenceByDay](CadenceByDay.png?raw=true "CadenceByDay")
+
+## Rides by day
+How far do I ride each day by Ride Type, by year, and by type of ride?
+
+![DistanceByDay](DistanceByDay.png?raw=true "DistanceByDay")
+
+# StravaDataAnalysis
+Simple data extract from the Strava API which I forked from here https://github.com/c-wilkinson/StravaDataAnalysis and altered to match what I was interested in as I do Bike Rides and Craig does Running
+
+He said
+
+As I'm sure is obvious, I'm teaching myself python as I go so the code quality is not likely to be great.  Do with it as you wish.
+
+I say - My Python knowledge is even more worserer than my spelling 
+
+1.To use, create an Application on Strava.  This can be done here: https://www.strava.com/settings/api
+Give it a name, a website and an "Authorization Callback Domain".  The "Authorization Callback Domain" should be "local host".
+
+2.Copy and paste the following link into your browser, replacing {CLIENTIDHERE} with your numeric Client ID found on your Strava application settings page.
+> http://www.strava.com/oauth/authorize?client_id={CLIENTIDHERE}&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=profile:read_all,activity:read_all
+
+Click authorise when you visit the above link
+
+3.You will go to a 404 not found page with a link that looks like this: -
+> http://localhost/exchange_token?state=&code={LONGCODEHERE}&scope=read,activity:read_all,profile:read_all
+
+Copy the code after "&code=" to save for step 4.
+
+4.Open "getTokens.py", paste your code from step 3 to the variable "copied_code".  Add the client_id from your Application on Strava to the client_id variable.  Add the client_secret from your Application on Strava to the client_secret variable.  Save the changes.
+
+5.Run "getTokens.py".  This will create the initial tokens required for the script.
+
+6.Open "refreshTokens.py", add the client_id from your Application on Strava to the client_id variable.  Add the client_secret from your Application on Strava to the client_secret variable.  Save the changes.
+
+Once this has been completed, you can run "getData.py" which uses the tokens to get the data points.  If the access_token has expired, it will use the refresh_token to get a new token.
+
