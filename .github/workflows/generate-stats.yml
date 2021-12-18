@@ -44,7 +44,7 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.TOKEN_GITHUB }}@github.com/${{ github.repository }}
           #git diff-index --quiet HEAD || git commit --allow-empty -am "Automated changes"
           git add .
-          git commit -m 'number two'
+          git commit -m 'I am AutoBot and I Auto'
           git push
 #      - name: Create status check
 #        env:
