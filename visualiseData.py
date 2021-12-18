@@ -174,7 +174,7 @@ def produceAverageSpeedOutside():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance', y = 'average_speed', data = AllOutsideRides, hue = 'type', col = 'Year')
+    seaborn.relplot(x='distance', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year')
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeedOutSide.png')
 
@@ -195,7 +195,7 @@ def produceAverageSpeed():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance', y = 'average_speed', data = AllRides, hue = 'type', col = 'Year')
+    seaborn.relplot(x='distance', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeed.png')
 
@@ -257,11 +257,11 @@ def produceDistanceByDay():
     AllOutsideRides = pandas.concat(frames)
     day_of_week_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ]
     
-    g = seaborn.catplot(x='start_date_day_of_week', y='distance', kind='strip', data=AllRides, 
+    g = seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=AllRides, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
                     palette='pastel')
     
-    (g.set_axis_labels("Week day", "Distance (m)")
+    (g.set_axis_labels("Week day", "Distance (miles)")
       .set_titles("Activity type: {col_name}")
       .set_xticklabels(rotation=30));
     # Saving the Seaborn Figure:
@@ -273,11 +273,11 @@ def produceDistanceByDayRide():
 
     day_of_week_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ]
     
-    g = seaborn.catplot(x='start_date_day_of_week', y='distance', kind='strip', data=Ride, 
+    g = seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=Ride, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
                     palette='pastel')
     
-    (g.set_axis_labels("Week day", "Distance (m)")
+    (g.set_axis_labels("Week day", "Distance (miles)")
       .set_titles("Activity type: {col_name}")
       .set_xticklabels(rotation=30));
     # Saving the Seaborn Figure:
