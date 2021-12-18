@@ -262,4 +262,12 @@ def getActivities():
     storedActivities['start_date_day'] = storedActivities['start_date_local'].dt.day
     storedActivities['start_date_day_of_week'] = storedActivities['start_date_local'].dt.day_name()
     storedActivities['Year'] = storedActivities['start_date_local'].dt.year
+    storedActivities['distance_km'] = storedActivities['distance']/1000
+    storedActivities['distance_miles'] = storedActivities['distance_km']*0.621371
+    # Max km/h speed original value is m/s
+    # divide by 3600/1000
+    storedActivities['max_speed_km_hr'] = storedActivities['max_speed'] *3.6
+    storedActivities['average_speed_km_hr'] = storedActivities['average_speed'] *3.6
+    storedActivities['average_speed_miles_hr'] = storedActivities['average_speed'] *3.6*0.621371
+    storedActivities['max_speed_miles_hr'] = storedActivities['max_speed'] *3.6*0.621371
     return storedActivities
