@@ -174,7 +174,7 @@ def produceAverageSpeedOutside():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year')
+    seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year')
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeedOutSide.png')
 
@@ -195,7 +195,7 @@ def produceAverageSpeed():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
+    seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeed.png')
 
