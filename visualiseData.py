@@ -146,7 +146,7 @@ def produceTimePace():
 def produceElapsedTimeDistance():
     splits = databaseAccess.getSplits()
     splits = pandas.merge(splits, splits.groupby(['activity_id'])[['elapsed_time']].agg('sum'), on=["activity_id", "activity_id"])
-    splits['total_distance'] = splits['total_distance'] / 1000
+    splits['total_distance'] = splits['total_distance']* 0.000621371
     base = datetime.datetime(1970, 1, 1, 0, 0, 0)
     times = [base + datetime.timedelta(seconds=x) for x in splits['elapsed_time_y']]
     y = matplotlib.dates.date2num(times)
@@ -162,12 +162,12 @@ def produceElapsedTimeDistance():
     axes.set_xlim(xlim)
     ylim = [0,max_time]
     axes.set_ylim(ylim)
-    matplotlib.pyplot.plot( splits['total_distance'], y, linestyle='', marker='o', markersize=2, alpha=0.1, color="blue")
+    matplotlib.pyplot.plot( splits['total_distance'], y, linestyle='', marker='o', markersize=2, alpha=0.1, color="orange")
     seaborn.regplot(x = splits['total_distance'], y = y, scatter=None, data = splits ,order = 2, ax = axes, truncate = False)
     matplotlib.pyplot.title('Time Taken Over Distances', fontsize=18, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=16)
     matplotlib.pyplot.yticks(fontsize=16)
-    matplotlib.pyplot.xlabel('Total Distance (km)', fontsize=18)
+    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Time Taken (hh:mm:ss)', fontsize=18)
     matplotlib.pyplot.grid()
     matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M:%S'))
