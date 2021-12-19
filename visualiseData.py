@@ -162,7 +162,7 @@ def produceElapsedTimeDistance():
     axes.set_xlim(xlim)
     ylim = [0,max_time]
     axes.set_ylim(ylim)
-    matplotlib.pyplot.plot( splits['total_distance'], y, linestyle='', marker='o', markersize=2, alpha=0.1, color="orange")
+    matplotlib.pyplot.plot( splits['total_distance'], y, linestyle='', marker='o', markersize=3, alpha=0.1, color="orange")
     seaborn.regplot(x = splits['total_distance'], y = y, scatter=None, data = splits ,order = 2, ax = axes, truncate = False)
     matplotlib.pyplot.title('Time Taken Over Distances', fontsize=18, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=16)
