@@ -99,6 +99,25 @@ def produceActivtyHistogram():
     matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
     matplotlib.pyplot.clf()
 
+def produceActivtyTypeHistogram():
+    AllActivities = databaseAccess.getActivityTypeDistances()
+    NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
+    Walk = AllActivities[AllActivities['type'] == 'Walk']
+    Run = AllActivities[AllActivities['type'] == 'Run']
+    EBikeRide = AllActivities[AllActivities['type'] == 'EBikeRide']
+    VirtualRide = AllActivities[AllActivities['type'] == 'VirtualRide']
+    Ride = AllActivities[AllActivities['type'] == 'Ride']
+
+    frames = [EBikeRide, VirtualRide, Ride]
+    AllRides = pandas.concat(frames)
+    g = seaborn.catplot(x="nearest_5miles", y="cnt", hue="type", data=AllRides, kind = "bar")
+    (g.set_axis_labels("Distance (miles)", "Count of Activities")
+      .set_titles("Activity type: {col_name}")
+      .set_xticklabels(rotation=45));
+    matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.savefig('Number_of_Activities_and_Type_per_Distance.png')
+    matplotlib.pyplot.clf()
+
 # py -c 'import visualiseData; visualiseData.produceTimePace()'
 def produceTimePace():
     splits = databaseAccess.getMonthSplits()

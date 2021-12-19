@@ -214,7 +214,22 @@ def getActivityDistances():
     result = cur.fetchone()
     activityCount = pandas.DataFrame()
     if result is not None:
-       activityCount = pandas.read_sql_query("SELECT COUNT(*) AS cnt, CAST(CAST(nearest_5miles AS INT) AS VARCHAR(1000)) || ' < ' || CAST(CAST(nearest_5miles + 5 AS INT) AS VARCHAR(1000)) AS nearest_5miles FROM (SELECT id, ROUND((distance* 0.000621371)/5,0)*5 AS nearest_5miles FROM activities) a GROUP BY nearest_5miles", conn)
+       activityCount = pandas.read_sql_query("SELECT COUNT(*) AS cnt, CAST(CAST(nearest_5miles AS INT) AS VARCHAR(1000)) || ' < ' || CAST(CAST(nearest_5miles + 5 AS INT) AS VARCHAR(1000)) AS nearest_5miles FROM (SELECT id,  ROUND((distance* 0.000621371)/5,0)*5 AS nearest_5miles FROM activities) a GROUP BY nearest_5miles", conn)
+    conn.commit()
+    conn.close()
+    encryptDatabase()
+    return activityCount
+
+def getActivityTypeDistances():
+    decryptDatabase()
+    conn = sqlite3.connect('strava_temp.sqlite')
+    conn.row_factory = sqlite3.Row
+    cur = conn.cursor()
+    cur.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='activities';")
+    result = cur.fetchone()
+    activityCount = pandas.DataFrame()
+    if result is not None:
+       activityCount = pandas.read_sql_query("SELECT COUNT(*) AS cnt, type, CAST(CAST(nearest_5miles AS INT) AS VARCHAR(1000)) || ' < ' || CAST(CAST(nearest_5miles + 5 AS INT) AS VARCHAR(1000)) AS nearest_5miles FROM (SELECT id,type, ROUND((distance* 0.000621371)/5,0)*5 AS nearest_5miles FROM activities) a GROUP BY nearest_5miles,type", conn)
     conn.commit()
     conn.close()
     encryptDatabase()
