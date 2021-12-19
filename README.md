@@ -1,7 +1,11 @@
-# Generated From Strava - Last Refreshed - 19 December, 2021 at 12:04:03
-The Latest Activity was a EBikeRide called Have gravel bike,  will get muddy!! which happened on 2021-12-18T11:51:38Z 
+# Last Refreshed - 19 December, 2021 at 13:03:19
+The Latest Activity was a EBikeRide 
 
-Which is 0 years, 0 months, 1 days, 0 hours and 12 minutes since the last refresh! 
+*Have gravel bike,  will get muddy!!* 
+
+which happened on 18 December, 2021 at 11:51:38 
+
+Which is 0 years, 0 months, 1 days, 1 hours and 11 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6398458092 
 
@@ -44,6 +48,16 @@ How far do I ride each day by Ride Type, by year, and by type of ride?
 How far do I ride and how long does it take??
 
 ![Time_Taken_Distance](Time_Taken_Distance.png?raw=true "Time_Taken_Distance")
+
+## Rides in 5 mile buckets by Type ?
+How many times do I ride in each 5 mile bucket by type of ride??
+
+![Number_of_Activities_and_Type_per_Distance](Number_of_Activities_and_Type_per_Distance.png?raw=true "Number_of_Activities_and_Type_per_Distance")
+
+## Rides in 5 mile buckets  ?
+How many times do I ride in each 5 mile bucket e??
+
+![Number_of_Activities_per_Distance](Number_of_Activities_per_Distance.png?raw=true "Number_of_Activities_per_Distance")
 
 # StravaDataAnalysis
 Simple data extract from the Strava API which I forked from here https://github.com/c-wilkinson/StravaDataAnalysis and altered to match what I was interested in as I do Bike Rides and Craig does Running
