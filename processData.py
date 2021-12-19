@@ -17,6 +17,7 @@ def generateReadme():
     visualiseData.produceCadenceByDay()
     visualiseData.produceElapsedTimeDistance()
     visualiseData.produceActivtyTypeHistogram()
+    visualiseData.produceActivtyHistogram()
     lastActivity = databaseAccess.getlastActivity()
     lastActivityDate = datetime.strptime(lastActivity[0], "%Y-%m-%dT%H:%M:%SZ")
     lastActivityDateFormat = lastActivityDate.strftime("%d %B, %Y at %H:%M:%S")
