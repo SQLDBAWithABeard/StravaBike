@@ -193,6 +193,8 @@ def produceAverageSpeedOutside():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year')
+    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
+    matplotlib.pyplot.ylabel('Average Speed (mph)', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeedOutSide.png')
 
@@ -214,6 +216,8 @@ def produceAverageSpeed():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
+    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
+    matplotlib.pyplot.ylabel('Average Speed (mph)', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeed.png')
 
@@ -234,7 +238,9 @@ def produceAveragePower():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year')
+    seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year')
+    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
+    matplotlib.pyplot.ylabel('Average Power (watts)', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('AveragePower.png')
 
@@ -255,7 +261,9 @@ def produceAverageCadence():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance', y = 'average_cadence', data = AllRidesSince20, hue = 'type', col = 'Year')
+    seaborn.relplot(x='distance_miles', y = 'average_cadence', data = AllRidesSince20, hue = 'type', col = 'Year')
+    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
+    matplotlib.pyplot.ylabel('Average Cadence', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('AverageCadence.png')
 
@@ -297,7 +305,7 @@ def produceDistanceByDayRide():
     
     (g.set_axis_labels("Week day", "Distance (miles)")
       .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=30));
+      .set_xticklabels(rotation=45));
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDayRide.png')
 
@@ -320,7 +328,7 @@ def produceCadenceByDay():
 
     (g.set_axis_labels("Week day", "Average Cadence")
       .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=30));
+      .set_xticklabels(rotation=45));
 
       # Saving the Seaborn Figure:
     plt.savefig('CadenceByDay.png')
