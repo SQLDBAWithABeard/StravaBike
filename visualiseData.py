@@ -152,11 +152,11 @@ def produceElapsedTimeDistance():
     y = matplotlib.dates.date2num(times)
     max_distance = int(round(splits['total_distance'].max()))
     max_time = max(times)
-    if max_distance < 42.195:
-        # Assume we want to extend for a marathon
-        max_distance = 42.195
-        # Since we haven't run that far, assume we can finish a marathon in under 5 hours
-        max_time = datetime.datetime(1970, 1, 1, 5, 0, 0)
+    if max_distance < 100:
+        # Assume we want to extend for a century
+        max_distance = 100
+        # Since we haven't been that far, assume we can finish  in under 8 hours
+        max_time = datetime.datetime(1970, 1, 1, 10, 0, 0)
     _, axes = matplotlib.pyplot.subplots()
     xlim = [0,max_distance]
     axes.set_xlim(xlim)
@@ -168,14 +168,13 @@ def produceElapsedTimeDistance():
     matplotlib.pyplot.xticks(fontsize=16)
     matplotlib.pyplot.yticks(fontsize=16)
     matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
-    matplotlib.pyplot.ylabel('Time Taken (hh:mm:ss)', fontsize=18)
+    matplotlib.pyplot.ylabel('Time Taken (hh:mm)', fontsize=18)
     matplotlib.pyplot.grid()
-    matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M:%S'))
-    matplotlib.pyplot.gcf().autofmt_xdate()
+    matplotlib.pyplot.gca().yaxis.set_major_locator(matplotlib.dates.HourLocator(interval = 1))
+    matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M'))
     matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.savefig('Time_Taken_Distance.png')
     matplotlib.pyplot.clf()
-
 def produceAverageSpeedOutside():
     AllActivities = databaseAccess.getActivities()
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
