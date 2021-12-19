@@ -89,14 +89,14 @@ def produceTimeDistance():
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
 def produceActivtyHistogram():
     activities = databaseAccess.getActivityDistances()
-    activities.plot(kind='bar',x='nearest_5k',y='cnt',rot=45,legend=None)
-    matplotlib.pyplot.title('Number of Runs per Distance', fontsize=18, fontweight="bold")
+    activities.plot(kind='bar',x='nearest_5miles',y='cnt',rot=45,legend=None)
+    matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=16)
     matplotlib.pyplot.yticks(fontsize=16)
-    matplotlib.pyplot.xlabel('Distance (k)', fontsize=18)
-    matplotlib.pyplot.ylabel('Count of Runs', fontsize=18)
+    matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
+    matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.savefig('Number_of_Runs_per_Distance.png')
+    matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
     matplotlib.pyplot.clf()
 
 # py -c 'import visualiseData; visualiseData.produceTimePace()'
