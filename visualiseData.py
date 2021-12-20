@@ -88,7 +88,7 @@ def produceTimeDistance():
 
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
 def produceActivtyHistogram():
-    activities = getActivityDistances()
+    activities = databaseAccess.getActivityDistances()
     activities.plot(kind='bar',x='nearest_5miles',y='cnt',rot=45,legend=None)
     matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18 ) #, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=12,rotation=90)
