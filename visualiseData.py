@@ -100,7 +100,7 @@ def produceActivtyHistogram():
     matplotlib.pyplot.clf()
 
 def produceActivtyRideHistogram():
-    Ride = getActivityRideDistances()
+    Ride = databaseAccess.getActivityRideDistances()
     g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
     (g.set_axis_labels("Distance (miles)", "Count of Rides")
       .set_titles("Activity type: {col_name}")
