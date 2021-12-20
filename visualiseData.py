@@ -88,34 +88,26 @@ def produceTimeDistance():
 
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
 def produceActivtyHistogram():
-    activities = databaseAccess.getActivityDistances()
+    activities = getActivityDistances()
     activities.plot(kind='bar',x='nearest_5miles',y='cnt',rot=45,legend=None)
-    matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18, fontweight="bold")
-    matplotlib.pyplot.xticks(fontsize=16)
-    matplotlib.pyplot.yticks(fontsize=16)
+    matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18 ) #, fontweight="bold")
+    matplotlib.pyplot.xticks(fontsize=12,rotation=90)
+    matplotlib.pyplot.yticks(fontsize=12)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
     matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
     matplotlib.pyplot.clf()
 
-def produceActivtyTypeHistogram():
-    AllActivities = databaseAccess.getActivityTypeDistances()
-    NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
-    Walk = AllActivities[AllActivities['type'] == 'Walk']
-    Run = AllActivities[AllActivities['type'] == 'Run']
-    EBikeRide = AllActivities[AllActivities['type'] == 'EBikeRide']
-    VirtualRide = AllActivities[AllActivities['type'] == 'VirtualRide']
-    Ride = AllActivities[AllActivities['type'] == 'Ride']
-
-    frames = [EBikeRide, VirtualRide, Ride]
-    AllRides = pandas.concat(frames)
-    g = seaborn.catplot(x="nearest_5miles", y="cnt", hue="type", data=AllRides, kind = "bar")
-    (g.set_axis_labels("Distance (miles)", "Count of Activities")
+def produceActivtyRideHistogram():
+    Ride = getActivityRideDistances()
+    g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
+    (g.set_axis_labels("Distance (miles)", "Count of Rides")
       .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=45));
+      .set_xticklabels(rotation=90));
+    matplotlib.pyplot.title('Number of Rides per Distance', fontsize=18 ) #, fontweight="bold")
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.savefig('Number_of_Activities_and_Type_per_Distance.png')
+    matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png')
     matplotlib.pyplot.clf()
 
 # py -c 'import visualiseData; visualiseData.produceTimePace()'
