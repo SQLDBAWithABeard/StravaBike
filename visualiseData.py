@@ -344,7 +344,7 @@ def GetRideDistanceByWeek(activities):
     print('Starting the GetRideDistanceByWeek')
     howmany = len(activities.index)
     print('There are {0} activities'.format(howmany))
-    print('There are column names {0}'.format(activities.columns.values))
+    # print('There are column names {0}'.format(activities.columns.values))
     df = activities.groupby([pandas.Grouper(key='start_date_local', freq='W-MON'),'Year']).agg(
 
             Ride=('distance_miles_Ride', 'sum'),

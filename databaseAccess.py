@@ -281,6 +281,9 @@ def getActivities():
     storedActivities['Year'] = storedActivities['start_date_local'].dt.year
     storedActivities['distance_km'] = storedActivities['distance']/1000
     storedActivities['distance_miles'] = storedActivities['distance_km']*0.621371
+    storedActivities['distance_miles_Ride'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'Ride', 0)
+    storedActivities['distance_miles_EBike'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'EBikeRide', 0)
+    storedActivities['distance_miles_VirtualRide'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'VirtualRide', 0)
     # Max km/h speed original value is m/s
     # divide by 3600/1000
     storedActivities['max_speed_km_hr'] = storedActivities['max_speed'] *3.6
