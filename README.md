@@ -1,11 +1,11 @@
-# Last Refreshed - 20 December, 2021 at 16:04:07
+# Last Refreshed - 20 December, 2021 at 18:16:19
 The Latest Activity was a EBikeRide 
 
 *Have gravel bike,  will get muddy!!* 
 
 which happened on 18 December, 2021 at 11:51:38 
 
-Which is 0 years, 0 months, 2 days, 4 hours and 12 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 6 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6398458092 
 
@@ -58,6 +58,21 @@ How far do I go in each 5 mile bucket??
 How many times do I ride in each 5 mile bucket outside??
 
 ![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")
+
+## Each Week Distance for 2021 ?
+How far did I ride each week in 2021 ??
+
+![Distance_per_Week_For_2021](Distance_per_Week_For_2021.png?raw=true "Distance_per_Week_For_2021")
+
+## Each Week Distance for 2020 ?
+How far did I ride each week in 2020 ??
+
+![Distance_per_Week_For_2020](Distance_per_Week_For_2020.png?raw=true "Distance_per_Week_For_2020")
+
+## Each Week Distance for 2019 ?
+How far did I ride each week in 2019 ??
+
+![Distance_per_Week_For_2019](Distance_per_Week_For_2019.png?raw=true "Distance_per_Week_For_2019")
 
 # StravaDataAnalysis
 Simple data extract from the Strava API which I forked from here https://github.com/c-wilkinson/StravaDataAnalysis and altered to match what I was interested in as I do Bike Rides and Craig does Running
