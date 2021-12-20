@@ -90,25 +90,22 @@ def produceTimeDistance():
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
 def produceActivtyHistogram():
     activities = databaseAccess.getActivityDistances()
-    activities.plot(kind='bar',x='nearest_5miles',y='cnt',rot=45,legend=None)
+    g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=activities, kind = "bar")
     matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18 ) #, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=12,rotation=90)
     matplotlib.pyplot.yticks(fontsize=12)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
-    matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
     matplotlib.pyplot.clf()
 
 def produceActivtyRideHistogram():
     Ride = databaseAccess.getActivityRideDistances()
+    matplotlib.pyplot.xticks(fontsize=12,rotation=90)
+    matplotlib.pyplot.yticks(fontsize=12)
     g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
-    (g.set_axis_labels("Distance (miles)", "Count of Rides")
-      .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=90));
     matplotlib.pyplot.title('Number of Rides per Distance', fontsize=18 ) #, fontweight="bold")
-    matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png')
     matplotlib.pyplot.clf()
