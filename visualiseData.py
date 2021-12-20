@@ -83,6 +83,7 @@ def produceTimeDistance():
     matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M:%S'))
     matplotlib.pyplot.gcf().autofmt_xdate()
     matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Running_Pace_vs_Total_Distance.png')
     matplotlib.pyplot.clf()
 
@@ -96,6 +97,7 @@ def produceActivtyHistogram():
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
     matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
     matplotlib.pyplot.clf()
 
@@ -107,6 +109,7 @@ def produceActivtyRideHistogram():
       .set_xticklabels(rotation=90));
     matplotlib.pyplot.title('Number of Rides per Distance', fontsize=18 ) #, fontweight="bold")
     matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png')
     matplotlib.pyplot.clf()
 
@@ -131,6 +134,7 @@ def produceTimePace():
     matplotlib.pyplot.gca().xaxis.set_major_formatter(matplotlib.dates.AutoDateFormatter(loc))
     matplotlib.pyplot.gcf().autofmt_xdate()
     matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Running_Pace_over_Time.png')
     matplotlib.pyplot.clf()
 
@@ -165,6 +169,7 @@ def produceElapsedTimeDistance():
     matplotlib.pyplot.gca().yaxis.set_major_locator(matplotlib.dates.HourLocator(interval = 1))
     matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M'))
     matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     matplotlib.pyplot.savefig('Time_Taken_Distance.png')
     matplotlib.pyplot.clf()
 def produceAverageSpeedOutside():
@@ -187,6 +192,7 @@ def produceAverageSpeedOutside():
     seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year')
     matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Average Speed (mph)', fontsize=18)
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeedOutSide.png')
 
@@ -210,6 +216,7 @@ def produceAverageSpeed():
     seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
     matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Average Speed (mph)', fontsize=18)
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeed.png')
 
@@ -233,6 +240,7 @@ def produceAveragePower():
     seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year')
     matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Average Power (watts)', fontsize=18)
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     # Saving the Seaborn Figure:
     plt.savefig('AveragePower.png')
 
@@ -256,6 +264,7 @@ def produceAverageCadence():
     seaborn.relplot(x='distance_miles', y = 'average_cadence', data = AllRidesSince20, hue = 'type', col = 'Year')
     matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Average Cadence', fontsize=18)
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     # Saving the Seaborn Figure:
     plt.savefig('AverageCadence.png')
 
@@ -282,6 +291,7 @@ def produceDistanceByDay():
     (g.set_axis_labels("Week day", "Distance (miles)")
       .set_titles("Activity type: {col_name}")
       .set_xticklabels(rotation=30));
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDay.png')
 
@@ -298,6 +308,7 @@ def produceDistanceByDayRide():
     (g.set_axis_labels("Week day", "Distance (miles)")
       .set_titles("Activity type: {col_name}")
       .set_xticklabels(rotation=45));
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDayRide.png')
 
@@ -323,4 +334,5 @@ def produceCadenceByDay():
       .set_xticklabels(rotation=45));
 
       # Saving the Seaborn Figure:
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     plt.savefig('CadenceByDay.png')
