@@ -110,7 +110,7 @@ def produceActivtyRideHistogram():
     matplotlib.pyplot.ylabel('Count of Outside Rides', fontsize=18)
     matplotlib.pyplot.xticks(fontsize=12,rotation=90)
     matplotlib.pyplot.yticks(fontsize=12)
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 8.5)
+    matplotlib.pyplot.gcf().set_size_inches(18.5, 12.5)
     matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png')
     matplotlib.pyplot.clf()
 
