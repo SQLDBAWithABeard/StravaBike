@@ -257,6 +257,7 @@ def getlastActivity():
 
 def getActivities():
     decryptDatabase()
+    print('Getting Activities')
     conn = sqlite3.connect('strava_temp.sqlite')
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
@@ -270,6 +271,7 @@ def getActivities():
     conn.commit()
     conn.close()
     encryptDatabase()
+    print('Adding some calulated columns')
     storedActivities['start_date_local'] = pandas.to_datetime(storedActivities['start_date_local'],errors='coerce')
     storedActivities['start_time'] = storedActivities['start_date_local'].dt.time
     storedActivities['start_date'] = storedActivities['start_date_local'].dt.date
@@ -285,4 +287,5 @@ def getActivities():
     storedActivities['average_speed_km_hr'] = storedActivities['average_speed'] *3.6
     storedActivities['average_speed_miles_hr'] = storedActivities['average_speed'] *3.6*0.621371
     storedActivities['max_speed_miles_hr'] = storedActivities['max_speed'] *3.6*0.621371
+    print('Returning Some data')
     return storedActivities

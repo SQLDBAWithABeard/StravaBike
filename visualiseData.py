@@ -341,6 +341,9 @@ def produceCadenceByDay():
     plt.savefig('CadenceByDay.png')
 
 def GetRideDistanceByWeek(activities): 
+    print('Starting the GetRideDistanceByWeek')
+    howmany = len(activities.index)
+    print('There are {0} activities'.format(howmany))
     df = activities.groupby([pandas.Grouper(key='start_date_local', freq='W-MON'),'Year']).agg(
 
             Ride=('distance_miles_Ride', 'sum'),
