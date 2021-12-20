@@ -102,8 +102,10 @@ def produceActivtyHistogram():
 
 def produceActivtyRideHistogram():
     Ride = databaseAccess.getActivityRideDistances()
-    seaborn.set_context("poster")
-    g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
+        # Apply the default theme
+    seaborn.set_theme()
+    seaborn.set(style="darkgrid", context="poster")
+    seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
     matplotlib.pyplot.title('Number of Outside Rides per Distance', fontsize=24 ) #, fontweight="bold")
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Rides', fontsize=18)
