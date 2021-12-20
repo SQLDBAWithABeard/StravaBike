@@ -5,6 +5,7 @@ from dateutil.relativedelta import relativedelta
 # Commenting out for now as we're not using the new version of this yet
 # import dataPredication
 import databaseAccess
+import pandas
 
 # py -c 'import processData; processData.generateReadme()'
 def generateReadme():
