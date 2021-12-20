@@ -8,6 +8,23 @@ import databaseAccess
 
 # py -c 'import processData; processData.generateReadme()'
 def generateReadme():
+    lastActivity = databaseAccess.getlastActivity()
+    lastActivityDate = datetime.strptime(lastActivity[0], "%Y-%m-%dT%H:%M:%SZ")
+    lastActivityDateFormat = lastActivityDate.strftime("%d %B, %Y at %H:%M:%S")
+    AllActivities = databaseAccess.getActivities()
+    NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
+    Walk = AllActivities[AllActivities['type'] == 'Walk']
+    Run = AllActivities[AllActivities['type'] == 'Run']
+    EBikeRide = AllActivities[AllActivities['type'] == 'EBikeRide']
+    VirtualRide = AllActivities[AllActivities['type'] == 'VirtualRide']
+    Ride = AllActivities[AllActivities['type'] == 'Ride']
+    frames = [EBikeRide, VirtualRide, Ride]
+    AllRides = pandas.concat(frames)
+    AllRides19 = AllRides[AllRides['Year'].isin([2019])]
+    AllRides20 = AllRides[AllRides['Year'].isin([2020])]
+    AllRides21 = AllRides[AllRides['Year'].isin([2021])]
+    AllRides22 = AllRides[AllRides['Year'].isin([2022])]
+
     visualiseData.produceAverageSpeedOutside()
     visualiseData.produceAverageSpeed()
     visualiseData.produceAverageCadence()
@@ -18,9 +35,11 @@ def generateReadme():
     visualiseData.produceElapsedTimeDistance()
     visualiseData.produceActivtyRideHistogram()
     visualiseData.produceActivtyHistogram()
-    lastActivity = databaseAccess.getlastActivity()
-    lastActivityDate = datetime.strptime(lastActivity[0], "%Y-%m-%dT%H:%M:%SZ")
-    lastActivityDateFormat = lastActivityDate.strftime("%d %B, %Y at %H:%M:%S")
+    visualiseData.GetRideDistanceByWeek(AllRides19)
+    visualiseData.GetRideDistanceByWeek(AllRides20)
+    visualiseData.GetRideDistanceByWeek(AllRides21)
+    #visualiseData.GetRideDistanceByWeek(AllRides22)
+
     now = datetime.now()
     now_string = now.strftime("%d %B, %Y at %H:%M:%S")
     delta = relativedelta(datetime.now(), lastActivityDate )
@@ -63,6 +82,15 @@ def generateReadme():
         handle.write('## Rides in 5 mile buckets outside ?\n')
         handle.write('How many times do I ride in each 5 mile bucket outside??\n\n')
         handle.write('![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")\n\n')
+        handle.write('## Each Week Distance for 2021 ?\n')
+        handle.write('How far did I ride each week in 2021 ??\n\n')
+        handle.write('![Distance_per_Week_For_2021](Distance_per_Week_For_2021.png?raw=true "Distance_per_Week_For_2021")\n\n')
+        handle.write('## Each Week Distance for 2020 ?\n')
+        handle.write('How far did I ride each week in 2020 ??\n\n')
+        handle.write('![Distance_per_Week_For_2020](Distance_per_Week_For_2020.png?raw=true "Distance_per_Week_For_2020")\n\n')
+        handle.write('## Each Week Distance for 2019 ?\n')
+        handle.write('How far did I ride each week in 2019 ??\n\n')
+        handle.write('![Distance_per_Week_For_2019](Distance_per_Week_For_2019.png?raw=true "Distance_per_Week_For_2019")\n\n')
         handle.write('# StravaDataAnalysis\n')
         handle.write("Simple data extract from the Strava API which I forked from here https://github.com/c-wilkinson/StravaDataAnalysis and altered to match what I was interested in as I do Bike Rides and Craig does Running\n\n")
         handle.write("He said\n\n")

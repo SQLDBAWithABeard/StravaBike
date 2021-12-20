@@ -339,3 +339,27 @@ def produceCadenceByDay():
       # Saving the Seaborn Figure:
     matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
     plt.savefig('CadenceByDay.png')
+
+def GetRideDistanceByWeek(activities): 
+    df = activities.groupby([pandas.Grouper(key='start_date_local', freq='W-MON'),'Year']).agg(
+
+            Ride=('distance_miles_Ride', 'sum'),
+            EBike=('distance_miles_EBike', 'sum'),
+            VirtualRide=('distance_miles_VirtualRide', 'sum')
+    )
+    dfm = pandas.melt(df.reset_index(), id_vars=['start_date_local','Year'], value_name='distance',value_vars =['Ride','EBike','VirtualRide'],var_name='Type Of Ride')
+    Unique_Year = dfm.Year.unique()[0]
+    matplotlib.pyplot.gca().xaxis.set_major_locator(matplotlib.dates.MonthLocator())
+    matplotlib.pyplot.gca().xaxis.set_major_formatter(matplotlib.dates.DateFormatter("%b %Y"))
+    seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride', marker='o')
+    title = 'Distance Per Week for {0}'.format(Unique_Year)
+    matplotlib.pyplot.title(title, fontsize=18 ) #, fontweight="bold")
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(18.5, 10.5)
+    matplotlib.pyplot.xticks(fontsize=12,rotation=90)
+    matplotlib.pyplot.yticks(fontsize=12)
+    matplotlib.pyplot.ylabel('Distance (miles)', fontsize=18)
+    matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
+    image_name = 'Distance_per_Week_For_{0}.png'.format(Unique_Year)
+    matplotlib.pyplot.savefig(image_name)
+    matplotlib.pyplot.clf()
