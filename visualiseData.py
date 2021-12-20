@@ -102,6 +102,7 @@ def produceActivtyHistogram():
 
 def produceActivtyRideHistogram():
     Ride = databaseAccess.getActivityRideDistances()
+    seaborn.set_context("poster")
     g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
     matplotlib.pyplot.figure(figsize=(18.5, 10.5)) # in inches!
     matplotlib.pyplot.xticks(fontsize=12,rotation=90)
