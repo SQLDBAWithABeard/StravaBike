@@ -90,8 +90,10 @@ def produceTimeDistance():
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
 def produceActivtyHistogram():
     activities = databaseAccess.getActivityDistances()
-
-    g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=activities, kind = "bar")
+    # Apply the default theme
+    seaborn.set_theme()
+    seaborn.set(style="darkgrid", context="poster")
+    seaborn.catplot(x="nearest_5miles", y="cnt",  data=activities, kind = "bar")
     matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18 ) #, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=12,rotation=90)
     matplotlib.pyplot.yticks(fontsize=12)
