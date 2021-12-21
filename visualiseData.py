@@ -90,14 +90,15 @@ def produceTimeDistance():
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
 def produceActivtyHistogram():
     activities = databaseAccess.getActivityDistances()
-    figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(8, 4.5)
+
     g = seaborn.catplot(x="nearest_5miles", y="cnt",  data=activities, kind = "bar")
     matplotlib.pyplot.title('Number of Activities per Distance', fontsize=18 ) #, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=12,rotation=90)
     matplotlib.pyplot.yticks(fontsize=12)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(8, 4.5)
     matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png', dpi=100)
     matplotlib.pyplot.clf()
 
