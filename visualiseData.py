@@ -228,12 +228,15 @@ def produceAverageSpeed():
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
-    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
-    matplotlib.pyplot.ylabel('Average Speed (mph)', fontsize=18)
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(18.5, 10.5)
+    howfast = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
+    # Adjust title and axis labels directly
+    howfast.set_titles("{col_name}")  # use this argument literally
+    howfast.set_xlabels('Total Distance (miles)', fontsize=18)
+    howfast.set_ylabels('Average Speed (mph)', fontsize=18)
     # Saving the Seaborn Figure:
-    plt.savefig('AverageSpeed.png')
+    plt.savefig('AverageSpeed.png',dpi=300)
 
 def produceAveragePower():
     AllActivities = databaseAccess.getActivities()
@@ -309,13 +312,14 @@ def produceDistanceByDay():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.tight_layout()
-    g = seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=AllRides, 
+    howfar =  seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=AllRides, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
                     palette='pastel',s=10)
     
-    (g.set_axis_labels("Week day", "Distance (miles)")
-      .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=30));
+    howfar.set_titles("{col_name}")  # use this argument literally
+    howfar.set_xlabels('Week Day', fontsize=18)
+    howfar.set_ylabels('Distance (miles)', fontsize=18)
+    howfar.set_xticklabels(rotation=90)
 
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDay.png',dpi=300)
@@ -336,6 +340,7 @@ def produceDistanceByDayRide():
     howfar.set_titles("{col_name}")  # use this argument literally
     howfar.set_xlabels('Week Day', fontsize=18)
     howfar.set_ylabels('Distance (miles)', fontsize=18)
+    howfar.set_xticklabels(rotation=90)
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDayRide.png', dpi=300)
 
@@ -362,6 +367,7 @@ def produceCadenceByDay():
     cadence.set_titles("{col_name}")  # use this argument literally
     cadence.set_xlabels('Week Day', fontsize=18)
     cadence.set_ylabels('Average Cadence', fontsize=18)
+    cadence.set_xticklabels(rotation=90)
     matplotlib.pyplot.tight_layout()
     plt.savefig('CadenceByDay.png', dpi=300)
 
