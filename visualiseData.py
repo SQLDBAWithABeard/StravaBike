@@ -358,7 +358,7 @@ def GetRideDistanceByWeek(activities):
     dfm = pandas.melt(df.reset_index(), id_vars=['start_date_local','Year'], value_name='distance',value_vars =['Ride','EBike','VirtualRide'],var_name='Type Of Ride')
     Unique_Year = dfm.Year.unique()[0]
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(8, 4)
+    figure.set_size_inches(8, 6)
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.gca().xaxis.set_major_locator(matplotlib.dates.MonthLocator())
@@ -372,7 +372,7 @@ def GetRideDistanceByWeek(activities):
     matplotlib.pyplot.yticks(fontsize=8)
     matplotlib.pyplot.ylabel('Distance (miles)', fontsize=14)
     matplotlib.pyplot.xlabel('', fontsize=14)
-    matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
+    #matplotlib.pyplot.show()
     image_name = 'Distance_per_Week_For_{0}.png'.format(Unique_Year)
     matplotlib.pyplot.savefig(image_name,dpi=300)
     matplotlib.pyplot.clf()
