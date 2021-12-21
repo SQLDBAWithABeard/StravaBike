@@ -96,7 +96,7 @@ def produceActivtyHistogram():
     matplotlib.pyplot.yticks(fontsize=12)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
-    matplotlib.pyplot.gcf().set_size_inches(8.5, 10.5)
+    matplotlib.pyplot.gcf().set_size_inches(8, 6)
     matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
     matplotlib.pyplot.clf()
 
@@ -112,7 +112,7 @@ def produceActivtyRideHistogram():
     matplotlib.pyplot.xticks(fontsize=14,rotation=90)
     matplotlib.pyplot.yticks(fontsize=14)
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(8.5, 8.5)
+    figure.set_size_inches(8, 6)
     matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png', dpi=100)
     matplotlib.pyplot.clf()
 
@@ -354,7 +354,7 @@ def GetRideDistanceByWeek(activities):
     dfm = pandas.melt(df.reset_index(), id_vars=['start_date_local','Year'], value_name='distance',value_vars =['Ride','EBike','VirtualRide'],var_name='Type Of Ride')
     Unique_Year = dfm.Year.unique()[0]
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(12.5, 8.5)
+    figure.set_size_inches(12, 5)
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.gca().xaxis.set_major_locator(matplotlib.dates.MonthLocator())
