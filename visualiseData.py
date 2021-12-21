@@ -69,10 +69,13 @@ def produceTimeElevation():
 
 # py -c 'import visualiseData; visualiseData.produceTimeDistance()'
 def produceTimeDistance():
+    print('Starting the produceTimeDistance')
     splits = databaseAccess.getSplits()
     base = datetime.datetime(1970, 1, 1, 0, 0, 0)
     times = [base + datetime.timedelta(seconds=x) for x in splits['elapsed_time']]
     y = matplotlib.dates.date2num(times)
+    seaborn.set_theme()
+    seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.plot( splits['total_distance'], y, linestyle='', marker='o', markersize=5, alpha=0.1, color="blue")
     seaborn.regplot(x = splits['total_distance'], y = y, scatter=None, order = 2)
     matplotlib.pyplot.title('Running Pace vs. Total Distance', fontsize=18, fontweight="bold")
@@ -83,8 +86,8 @@ def produceTimeDistance():
     matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M:%S'))
     matplotlib.pyplot.gcf().autofmt_xdate()
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
-    matplotlib.pyplot.savefig('Running_Pace_vs_Total_Distance.png')
+    matplotlib.pyplot.gcf().set_size_inches(8,6)
+    matplotlib.pyplot.savefig('Running_Pace_vs_Total_Distance.png',dpi=300)
     matplotlib.pyplot.clf()
 
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
@@ -148,6 +151,10 @@ def produceTimePace():
 # py -c 'import visualiseData; visualiseData.produceElapsedTimeDistance()'
 def produceElapsedTimeDistance():
     splits = databaseAccess.getSplits()
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(8, 6)
+    seaborn.set_theme()
+    seaborn.set(style="darkgrid", context="poster")
     splits = pandas.merge(splits, splits.groupby(['activity_id'])[['elapsed_time']].agg('sum'), on=["activity_id", "activity_id"])
     splits['total_distance'] = splits['total_distance']* 0.000621371
     base = datetime.datetime(1970, 1, 1, 0, 0, 0)
@@ -167,17 +174,16 @@ def produceElapsedTimeDistance():
     axes.set_ylim(ylim)
     matplotlib.pyplot.plot( splits['total_distance'], y, linestyle='', marker='o', markersize=3, alpha=0.1, color="orange")
     seaborn.regplot(x = splits['total_distance'], y = y, scatter=None, data = splits ,order = 2, ax = axes, truncate = False)
-    matplotlib.pyplot.title('Time Taken Over Distances', fontsize=18, fontweight="bold")
+    matplotlib.pyplot.title('Time Taken Over Distances', fontsize=20)
     matplotlib.pyplot.xticks(fontsize=16)
     matplotlib.pyplot.yticks(fontsize=16)
-    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
-    matplotlib.pyplot.ylabel('Time Taken (hh:mm)', fontsize=18)
+    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=14)
+    matplotlib.pyplot.ylabel('Time Taken (hh:mm)', fontsize=14)
     matplotlib.pyplot.grid()
     matplotlib.pyplot.gca().yaxis.set_major_locator(matplotlib.dates.HourLocator(interval = 1))
     matplotlib.pyplot.gca().yaxis.set_major_formatter(matplotlib.dates.DateFormatter('%H:%M'))
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
-    matplotlib.pyplot.savefig('Time_Taken_Distance.png')
+    matplotlib.pyplot.savefig('Time_Taken_Distance.png', dpi=300)
     matplotlib.pyplot.clf()
 def produceAverageSpeedOutside():
     AllActivities = databaseAccess.getActivities()
@@ -358,7 +364,7 @@ def GetRideDistanceByWeek(activities):
     dfm = pandas.melt(df.reset_index(), id_vars=['start_date_local','Year'], value_name='distance',value_vars =['Ride','EBike','VirtualRide'],var_name='Type Of Ride')
     Unique_Year = dfm.Year.unique()[0]
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(8, 6)
+    figure.set_size_inches(9, 6)
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.gca().xaxis.set_major_locator(matplotlib.dates.MonthLocator())
