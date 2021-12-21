@@ -252,9 +252,9 @@ def produceAveragePower():
     figure.set_size_inches(18.5, 10.5 )
     power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year',s=100)
     # Adjust title and axis labels directly
-    cadence.set_titles("{col_name}")  # use this argument literally
-    cadence.set_xlabels('Total Distance (miles)', fontsize=18)
-    cadence.set_ylabels('Average Power (watts)', fontsize=18)
+    power.set_titles("{col_name}")  # use this argument literally
+    power.set_xlabels('Total Distance (miles)', fontsize=18)
+    power.set_ylabels('Average Power (watts)', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('AveragePower.png', dpi=300)
 
