@@ -97,7 +97,7 @@ def produceActivtyHistogram():
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=18)
     matplotlib.pyplot.ylabel('Count of Activities', fontsize=18)
     matplotlib.pyplot.gcf().set_size_inches(8, 6)
-    matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png')
+    matplotlib.pyplot.savefig('Number_of_Activities_per_Distance.png', dpi=100)
     matplotlib.pyplot.clf()
 
 def produceActivtyRideHistogram():
@@ -109,11 +109,11 @@ def produceActivtyRideHistogram():
     matplotlib.pyplot.title('Number of Outside Rides per Distance', fontsize=20 ) #, fontweight="bold")
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=14)
     matplotlib.pyplot.ylabel('Count of Rides', fontsize=14)
-    matplotlib.pyplot.xticks(fontsize=12,rotation=90)
+    matplotlib.pyplot.xticks(fontsize=10,rotation=90)
     matplotlib.pyplot.yticks(fontsize=10)
     figure = matplotlib.pyplot.gcf()
     figure.set_size_inches(8, 4.5)
-    matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png', dpi=100)
+    matplotlib.pyplot.savefig('Number_of_Rides_per_Distance.png', dpi=300)
     matplotlib.pyplot.clf()
 
 # py -c 'import visualiseData; visualiseData.produceTimePace()'
