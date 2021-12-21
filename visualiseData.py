@@ -201,7 +201,7 @@ def produceAverageSpeedOutside():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(18.5, 10.5 )
+    figure.set_size_inches(12,9 )
     matplotlib.pyplot.tight_layout()
     averageoutside = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year', s=30)
     averageoutside.set_titles("{col_name}")  # use this argument literally
@@ -209,7 +209,7 @@ def produceAverageSpeedOutside():
     averageoutside.set_ylabels('Average Speed (mph)', fontsize=18)
 
     # Saving the Seaborn Figure:
-    plt.savefig('AverageSpeedOutSide.png' , dpi=300)
+    plt.savefig('AverageSpeedOutSide.png')# , dpi=300)
 
 def produceAverageSpeed():
     AllActivities = databaseAccess.getActivities()
@@ -252,7 +252,7 @@ def produceAveragePower():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(18.5, 10.5 )
+    figure.set_size_inches(12,9)
     power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRidesSince19, hue = 'type', col = 'Year',s=150)
     # Adjust title and axis labels directly
     power.set_titles("{col_name}")  # use this argument literally
