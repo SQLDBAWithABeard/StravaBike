@@ -241,21 +241,22 @@ def produceAveragePower():
     EBikeRide = AllActivities[AllActivities['type'] == 'EBikeRide']
     VirtualRide = AllActivities[AllActivities['type'] == 'VirtualRide']
     Ride = AllActivities[AllActivities['type'] == 'Ride']
-
     frames = [EBikeRide, VirtualRide, Ride]
     AllRides = pandas.concat(frames)
-
     frames = [EBikeRide, Ride]
     AllOutsideRides = pandas.concat(frames)
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year')
-    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
-    matplotlib.pyplot.ylabel('Average Power (watts)', fontsize=18)
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(18.5, 10.5 )
+    power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year',s=100)
+    # Adjust title and axis labels directly
+    cadence.set_titles("{col_name}")  # use this argument literally
+    cadence.set_xlabels('Total Distance (miles)', fontsize=18)
+    cadence.set_ylabels('Average Power (watts)', fontsize=18)
     # Saving the Seaborn Figure:
-    plt.savefig('AveragePower.png')
+    plt.savefig('AveragePower.png', dpi=300)
 
 def produceAverageCadence():
     AllActivities = databaseAccess.getActivities()
