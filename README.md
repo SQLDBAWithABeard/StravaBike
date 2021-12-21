@@ -1,11 +1,11 @@
-# Last Refreshed - 21 December, 2021 at 09:30:20
+# Last Refreshed - 21 December, 2021 at 09:37:54
 The Latest Activity was a EBikeRide 
 
 *Have gravel bike,  will get muddy!!* 
 
 which happened on 18 December, 2021 at 11:51:38 
 
-Which is 0 years, 0 months, 2 days, 21 hours and 38 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 21 hours and 46 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6398458092 
 
@@ -49,12 +49,12 @@ How far do I ride and how long does it take??
 
 ![Time_Taken_Distance](Time_Taken_Distance.png?raw=true "Time_Taken_Distance")
 
-## Rides in 5 mile buckets?
-How far do I go in each 5 mile bucket??
+## 5 mile buckets
+How many times do I ride in each 5 mile bucket for all activities?
 
 ![Number_of_Activities_per_Distance](Number_of_Activities_per_Distance.png?raw=true "Number_of_Activities_per_Distance")
 
-## Rides in 5 mile buckets outside ?
+## 5 mile buckets outside ?
 How many times do I ride in each 5 mile bucket outside??
 
 ![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")
