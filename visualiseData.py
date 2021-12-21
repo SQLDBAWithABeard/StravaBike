@@ -278,7 +278,8 @@ def produceAverageCadence():
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.tight_layout()
     cadence = seaborn.relplot(x='distance_miles', y = 'average_cadence', data = AllRidesSince20, hue = 'type', col = 'Year',s=100)
-    cadence.set_titles("Year")
+    # Adjust title and axis labels directly
+    cadence.set_titles("{col_name}")  # use this argument literally
     cadence.set_xlabels('Total Distance (miles)', fontsize=18)
     cadence.set_ylabels('Average Cadence', fontsize=18)
     # Saving the Seaborn Figure:
