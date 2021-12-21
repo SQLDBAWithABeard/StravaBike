@@ -277,10 +277,10 @@ def produceAverageCadence():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.tight_layout()
-    seaborn.relplot(x='distance_miles', y = 'average_cadence', data = AllRidesSince20, hue = 'type', col = 'Year',s=50)
-    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
-    matplotlib.pyplot.ylabel('Average Cadence', fontsize=18)
-    #matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='center', title="Type Of Ride", fontsize=6, title_fontsize=8)
+    cadence = seaborn.relplot(x='distance_miles', y = 'average_cadence', data = AllRidesSince20, hue = 'type', col = 'Year',s=100)
+    cadence.set_titles("Year")
+    cadence.set_xlabels('Total Distance (miles)', fontsize=18)
+    cadence.set_ylabels('Average Cadence', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('AverageCadence.png',dpi=300)
 
