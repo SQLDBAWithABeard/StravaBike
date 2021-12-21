@@ -326,6 +326,7 @@ def produceDistanceByDayRide():
     plt.savefig('DistanceByDayRide.png')
 
 def produceCadenceByDay():
+    print('Starting the produceCadenceByDay')
     AllActivities = databaseAccess.getActivities()
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
@@ -337,18 +338,19 @@ def produceCadenceByDay():
     frames = [EBikeRide, VirtualRide, Ride]
     AllRides = pandas.concat(frames)
     day_of_week_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ]
-
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(9, 6)
+    seaborn.set_theme()
+    seaborn.set(style="darkgrid", context="poster")
     g = seaborn.catplot(x='start_date_day_of_week', y='average_cadence', kind='strip', data=AllRides, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
-                    palette='pastel')
+                    palette='pastel',s= 10)
 
     (g.set_axis_labels("Week day", "Average Cadence")
       .set_titles("Activity type: {col_name}")
       .set_xticklabels(rotation=45));
-
-      # Saving the Seaborn Figure:
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
-    plt.savefig('CadenceByDay.png')
+    matplotlib.pyplot.tight_layout()
+    plt.savefig('CadenceByDay.png', dpi=300)
 
 def GetRideDistanceByWeek(activities): 
     print('Starting the GetRideDistanceByWeek')
