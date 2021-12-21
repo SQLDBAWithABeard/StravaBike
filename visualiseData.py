@@ -245,12 +245,13 @@ def produceAveragePower():
     AllRides = pandas.concat(frames)
     frames = [EBikeRide, Ride]
     AllOutsideRides = pandas.concat(frames)
+    AllRidesSince19 = AllRides[AllRides['Year'].isin([2019,2020,2021,2022,2023,2024,2025])]
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     figure = matplotlib.pyplot.gcf()
     figure.set_size_inches(18.5, 10.5 )
-    power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRides, hue = 'type', col = 'Year',s=100)
+    power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRidesSince19, hue = 'type', col = 'Year',s=100)
     # Adjust title and axis labels directly
     power.set_titles("{col_name}")  # use this argument literally
     power.set_xlabels('Total Distance (miles)', fontsize=18)
