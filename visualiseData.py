@@ -340,7 +340,7 @@ def produceDistanceByDayRide():
     howfar.set_titles("{col_name}")  # use this argument literally
     howfar.set_xlabels('Week Day', fontsize=18)
     howfar.set_ylabels('Distance (miles)', fontsize=18)
-    howfar.set_xticklabels(rotation=90)
+    (howfar.set_axis_labels().set_xticklabels(rotation=30))
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDayRide.png', dpi=300)
 
