@@ -330,13 +330,12 @@ def produceDistanceByDayRide():
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     matplotlib.pyplot.tight_layout()
-    g = seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=Ride, 
+    howfar = seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=Ride, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
                     palette='pastel',s=10)
-    
-    (g.set_axis_labels("Week day", "Distance (miles)")
-      .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=45));
+    howfar.set_titles("{col_name}")  # use this argument literally
+    howfar.set_xlabels('Week Day', fontsize=18)
+    howfar.set_ylabels('Distance (miles)', fontsize=18)
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDayRide.png', dpi=300)
 
@@ -357,13 +356,12 @@ def produceCadenceByDay():
     figure.set_size_inches(12,9 )
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    g = seaborn.catplot(x='start_date_day_of_week', y='average_cadence', kind='strip', data=AllRides, 
+    cadence = seaborn.catplot(x='start_date_day_of_week', y='average_cadence', kind='strip', data=AllRides, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
                     palette='pastel',s= 10)
-
-    (g.set_axis_labels("Week day", "Average Cadence")
-      .set_titles("Activity type: {col_name}")
-      .set_xticklabels(rotation=45));
+    cadence.set_titles("{col_name}")  # use this argument literally
+    cadence.set_xlabels('Week Day', fontsize=18)
+    cadence.set_ylabels('Average Cadence', fontsize=18)
     matplotlib.pyplot.tight_layout()
     plt.savefig('CadenceByDay.png', dpi=300)
 
