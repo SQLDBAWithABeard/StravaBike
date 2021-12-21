@@ -102,7 +102,7 @@ def produceActivtyHistogram():
 
 def produceActivtyRideHistogram():
     Ride = databaseAccess.getActivityRideDistances()
-        # Apply the default theme
+    # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     seaborn.catplot(x="nearest_5miles", y="cnt",  data=Ride, kind = "bar")
