@@ -193,21 +193,23 @@ def produceAverageSpeedOutside():
     EBikeRide = AllActivities[AllActivities['type'] == 'EBikeRide']
     VirtualRide = AllActivities[AllActivities['type'] == 'VirtualRide']
     Ride = AllActivities[AllActivities['type'] == 'Ride']
-
     frames = [EBikeRide, VirtualRide, Ride]
     AllRides = pandas.concat(frames)
-
     frames = [EBikeRide, Ride]
     AllOutsideRides = pandas.concat(frames)
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year')
-    matplotlib.pyplot.xlabel('Total Distance (miles)', fontsize=18)
-    matplotlib.pyplot.ylabel('Average Speed (mph)', fontsize=18)
-    matplotlib.pyplot.gcf().set_size_inches(18.5, 10.5)
+    figure = matplotlib.pyplot.gcf()
+    figure.set_size_inches(18.5, 10.5 )
+    matplotlib.pyplot.tight_layout()
+    averageoutside = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year', s=30)
+    averageoutside.set_titles("{col_name}")  # use this argument literally
+    averageoutside.set_xlabels('Total Distance (miles)', fontsize=18)
+    averageoutside.set_ylabels('Average Speed (mph)', fontsize=18)
+
     # Saving the Seaborn Figure:
-    plt.savefig('AverageSpeedOutSide.png')
+    plt.savefig('AverageSpeedOutSide.png' , dpi=300)
 
 def produceAverageSpeed():
     AllActivities = databaseAccess.getActivities()
