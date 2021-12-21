@@ -253,7 +253,7 @@ def produceAveragePower():
     seaborn.set(style="darkgrid", context="poster")
     figure = matplotlib.pyplot.gcf()
     figure.set_size_inches(18.5, 10.5 )
-    power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRidesSince19, hue = 'type', col = 'Year',s=100)
+    power = seaborn.relplot(x='distance_miles', y = 'average_watts', data = AllRidesSince19, hue = 'type', col = 'Year',s=150)
     # Adjust title and axis labels directly
     power.set_titles("{col_name}")  # use this argument literally
     power.set_xlabels('Total Distance (miles)', fontsize=18)
