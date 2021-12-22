@@ -1,13 +1,13 @@
-# Last Refreshed - 22 December, 2021 at 12:04:20
+# Last Refreshed - 22 December, 2021 at 13:09:00
 The Latest Activity was a EBikeRide 
 
-*Up to the Monument and back again* 
+*Birthday ride to Branscombe and Sidmouth* 
 
-which happened on 21 December, 2021 at 13:32:08 
+which happened on 22 December, 2021 at 07:40:09 
 
-Which is 0 years, 0 months, 0 days, 22 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 5 hours and 28 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/6410917877 
+You can see it here https://www.strava.com/activities/6414546839 
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
