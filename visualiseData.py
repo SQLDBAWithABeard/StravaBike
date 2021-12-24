@@ -429,7 +429,7 @@ def GetRideDistanceByYear(activities):
     matplotlib.pyplot.yticks(fontsize=8)
     matplotlib.pyplot.ylabel('Distance (miles)', fontsize=10)
     matplotlib.pyplot.xlabel('', fontsize=14)
-    matplotlib.pyplot.gcf().set_size_inches(8, 5)
+    matplotlib.pyplot.gcf().set_size_inches(8, 6)
     #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
     matplotlib.pyplot.savefig('Number_of_Miles_each_Year.png', dpi=300)
     matplotlib.pyplot.clf()
