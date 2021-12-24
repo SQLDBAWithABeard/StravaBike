@@ -21,6 +21,7 @@ def generateReadme():
     Ride = AllActivities[AllActivities['type'] == 'Ride']
     frames = [EBikeRide, VirtualRide, Ride]
     AllRides = pandas.concat(frames)
+    AllRidesSince19 = AllRides[AllRides['Year'].isin([2019,2020,2021,2022,2023,2024,2025])]
     AllRides19 = AllRides[AllRides['Year'].isin([2019])]
     AllRides20 = AllRides[AllRides['Year'].isin([2020])]
     AllRides21 = AllRides[AllRides['Year'].isin([2021])]
