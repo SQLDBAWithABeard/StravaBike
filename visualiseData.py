@@ -403,3 +403,64 @@ def GetRideDistanceByWeek(activities):
     image_name = 'Distance_per_Week_For_{0}.png'.format(Unique_Year)
     matplotlib.pyplot.savefig(image_name,dpi=300)
     matplotlib.pyplot.clf()
+
+def GetRideDistanceByYear(activities): 
+    print('Starting the GetRideDistanceByYear')
+    howmany = len(activities.index)
+    print('There are {0} activities'.format(howmany))
+    # print('There are column names {0}'.format(activities.columns.values))
+    df = activities.groupby('Year').agg(
+            NoOutsideRides=('IsOutsideRide', 'sum'),
+            Ride_Miles=('distance_miles_Ride', 'sum'),
+            NoEBikes=('IsEBikeRide', 'sum'),
+            EBike_Miles=('distance_miles_EBike', 'sum'),
+            NoVirtual=('IsVirtualRide', 'sum'),
+            VirtualRide_Miles=('distance_miles_VirtualRide', 'sum'),
+            AllMiles=('distance_miles',sum),
+            AllRides=('IsARide',sum)
+            
+    )
+
+    df.reset_index().plot(x='Year', y=['Ride_Miles','VirtualRide_Miles','EBike_Miles'], kind='bar',legend=False,width=1)
+    matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Number of Miles", fontsize=6, title_fontsize=8)
+    matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.title('Number of Miles each Year', fontsize=20 ) #, fontweight="bold")
+    matplotlib.pyplot.xticks(fontsize=14,rotation=0)
+    matplotlib.pyplot.yticks(fontsize=8)
+    matplotlib.pyplot.ylabel('Distance (miles)', fontsize=10)
+    matplotlib.pyplot.xlabel('', fontsize=14)
+    matplotlib.pyplot.gcf().set_size_inches(8, 4)
+    #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
+    matplotlib.pyplot.savefig('Number_of_Miles_each_Year.png', dpi=300)
+    matplotlib.pyplot.clf()
+    df.reset_index().plot(x='Year', y=['NoOutsideRides','NoVirtual','NoEBikes'], kind='bar',legend=False,width=1)
+    matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Number of Rides", fontsize=6, title_fontsize=8)
+    matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.title('Number of Rides each Year', fontsize=20 ) #, fontweight="bold")
+    matplotlib.pyplot.xticks(fontsize=14,rotation=0)
+    matplotlib.pyplot.yticks(fontsize=8)
+    matplotlib.pyplot.xlabel('', fontsize=14)
+    matplotlib.pyplot.gcf().set_size_inches(8, 4)
+    #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
+    matplotlib.pyplot.savefig('Number_of_Rides_each_Year.png', dpi=300)
+    matplotlib.pyplot.clf()
+    df.reset_index().plot(x='Year', y=['AllRides'], kind='bar',legend=False,width=1)
+    matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.title('Number of Rides each Year', fontsize=20 ) #, fontweight="bold")
+    matplotlib.pyplot.xticks(fontsize=14,rotation=0)
+    matplotlib.pyplot.yticks(fontsize=8)
+    matplotlib.pyplot.gcf().set_size_inches(8, 4)
+    #matplotlib.pyplot.show()#avefig('Total_Number_of_Rides_each_Year.png')
+    matplotlib.pyplot.savefig('Total_Number_of_Rides_each_Year.png', dpi=300)
+    matplotlib.pyplot.clf()
+    df.reset_index().plot(x='Year', y=['AllMiles'], kind='bar',legend=False,width=1)
+    matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.title('Number of Miles each Year', fontsize=18 ) #, fontweight="bold")
+    matplotlib.pyplot.xticks(fontsize=14,rotation=0)
+    matplotlib.pyplot.yticks(fontsize=8)
+    matplotlib.pyplot.ylabel('Distance (miles)', fontsize=10)
+    matplotlib.pyplot.xlabel('', fontsize=18)
+    matplotlib.pyplot.gcf().set_size_inches(8, 4)
+    #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
+    matplotlib.pyplot.savefig('Total_Number_of_Miles_each_Year.png', dpi=300)
+    matplotlib.pyplot.clf()
