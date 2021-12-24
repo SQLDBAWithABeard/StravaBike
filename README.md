@@ -1,13 +1,23 @@
-# Last Refreshed - 24 December, 2021 at 13:08:43
+# Last Refreshed - 24 December, 2021 at 13:53:18
 The Latest Activity was a EBikeRide 
 
 *Birthday ride to Branscombe and Sidmouth* 
 
 which happened on 22 December, 2021 at 07:40:09 
 
-Which is 0 years, 0 months, 2 days, 5 hours and 28 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 6 hours and 13 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6414546839 
+
+## Number of Rides
+How many rides have I done each year?
+
+![Number_of_Rides_each_Year](Number_of_Rides_each_Year.png?raw=true "Number_of_Rides_each_Year")
+
+## Distance Travelled
+How many miles have I ridden?
+
+![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
