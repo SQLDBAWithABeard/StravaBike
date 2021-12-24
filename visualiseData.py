@@ -441,6 +441,7 @@ def GetRideDistanceByYear(activities):
     matplotlib.pyplot.xlabel('', fontsize=14)
     matplotlib.pyplot.gcf().set_size_inches(8, 4)
     matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.subplots_adjust(top=0.85)     # Add space at top
     #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
     matplotlib.pyplot.savefig('Number_of_Rides_each_Year.png', dpi=300)
     matplotlib.pyplot.clf()
