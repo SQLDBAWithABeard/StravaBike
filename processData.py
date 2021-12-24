@@ -25,7 +25,7 @@ def generateReadme():
     AllRides20 = AllRides[AllRides['Year'].isin([2020])]
     AllRides21 = AllRides[AllRides['Year'].isin([2021])]
     #AllRides22 = AllRides[AllRides['Year'].isin([2022])]
-
+    visualiseData.GetRideDistanceByYear(AllRidesSince19)
     visualiseData.produceAverageSpeedOutside()
     visualiseData.produceAverageSpeed()
     visualiseData.produceAverageCadence()
