@@ -286,7 +286,7 @@ def getActivities():
     storedActivities['distance_miles_EBike'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'EBikeRide', 0)
     storedActivities['distance_miles_VirtualRide'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'VirtualRide', 0)
     storedActivities['IsVirtualRide'] = numpy.where(storedActivities['type'] == 'VirtualRide',True,False)
-    storedActivities['IsRide'] = numpy.where(storedActivities['type'] == 'Ride',True,False)
+    storedActivities['IsOutsideRide'] = numpy.where(storedActivities['type'] == 'Ride',True,False)
     storedActivities['IsEBikeRide'] = numpy.where(storedActivities['type'] == 'EBikeRide',True,False)
     storedActivities['IsARide'] = numpy.where(storedActivities['type'].isin(['EBikeRide','Ride','VirtualRide']),True,False)
     # Max km/h speed original value is m/s
