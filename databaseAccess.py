@@ -6,6 +6,7 @@ import pandas
 from os import stat
 from datetime import datetime
 import time
+import numpy
 
 # Global variables for use by this file
 bufferSize = 64*1024
@@ -284,6 +285,10 @@ def getActivities():
     storedActivities['distance_miles_Ride'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'Ride', 0)
     storedActivities['distance_miles_EBike'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'EBikeRide', 0)
     storedActivities['distance_miles_VirtualRide'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'VirtualRide', 0)
+    storedActivities['IsVirtualRide'] = numpy.where(storedActivities['type'] == 'VirtualRide',True,False)
+    storedActivities['IsRide'] = numpy.where(storedActivities['type'] == 'Ride',True,False)
+    storedActivities['IsEBikeRide'] = numpy.where(storedActivities['type'] == 'EBikeRide',True,False)
+    storedActivities['IsARide'] = numpy.where(storedActivities['type'].isin(['EBikeRide','Ride','VirtualRide']),True,False)
     # Max km/h speed original value is m/s
     # divide by 3600/1000
     storedActivities['max_speed_km_hr'] = storedActivities['max_speed'] *3.6
