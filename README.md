@@ -1,11 +1,11 @@
-# Last Refreshed - 25 December, 2021 at 01:25:59
+# Last Refreshed - 25 December, 2021 at 02:17:36
 The Latest Activity was a EBikeRide 
 
 *Birthday ride to Branscombe and Sidmouth* 
 
 which happened on 22 December, 2021 at 07:40:09 
 
-Which is 0 years, 0 months, 2 days, 17 hours and 45 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 18 hours and 37 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6414546839 
 
