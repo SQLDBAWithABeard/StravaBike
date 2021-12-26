@@ -1,13 +1,13 @@
-# Last Refreshed - 26 December, 2021 at 14:04:00
+# Last Refreshed - 26 December, 2021 at 15:05:10
 The Latest Activity was a EBikeRide 
 
-*Birthday ride to Branscombe and Sidmouth* 
+*Boxing day ride just before the rain!!* 
 
-which happened on 22 December, 2021 at 07:40:09 
+which happened on 26 December, 2021 at 11:32:56 
 
-Which is 0 years, 0 months, 4 days, 6 hours and 23 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 3 hours and 32 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/6414546839 
+You can see it here https://www.strava.com/activities/6429574761 
 
 ## Number of Rides
 How many rides have I done each year?
