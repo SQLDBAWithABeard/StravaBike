@@ -1,11 +1,11 @@
-# Last Refreshed - 26 December, 2021 at 15:05:10
+# Last Refreshed - 26 December, 2021 at 16:04:12
 The Latest Activity was a EBikeRide 
 
 *Boxing day ride just before the rain!!* 
 
 which happened on 26 December, 2021 at 11:32:56 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 4 hours and 31 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6429574761 
 
