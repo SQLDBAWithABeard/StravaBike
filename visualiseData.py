@@ -465,3 +465,18 @@ def GetRideDistanceByYear(activities):
     #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
     matplotlib.pyplot.savefig('Total_Number_of_Miles_each_Year.png', dpi=300)
     matplotlib.pyplot.clf()
+    miles = df[[
+            'Ride_Miles',
+            'EBike_Miles',
+            'VirtualRide_Miles',
+            'AllMiles'
+    ]]
+    miles.rename(columns={'Ride_Miles' : 'Ride Miles', 'EBike_Miles' : 'E-Bike Miles', 'VirtualRide_Miles' : 'Strava Miles', 'AllMiles' : 'Total Miles'}, inplace=True)
+    rides = df[[
+            'NoOutsideRides',
+            'NoEBikes',
+            'NoVirtual',
+            'AllRides'
+    ]]
+    rides.rename(columns={'NoOutsideRides' : 'Rides', 'NoEBikes' : 'E-Bike', 'NoVirtual' : 'Strava', 'AllRides' : 'Total Rides'}, inplace=True)
+    return miles,rides
