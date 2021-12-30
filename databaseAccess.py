@@ -282,6 +282,7 @@ def getActivities():
     storedActivities['Year'] = storedActivities['start_date_local'].dt.year
     storedActivities['distance_km'] = storedActivities['distance']/1000
     storedActivities['distance_miles'] = storedActivities['distance_km']*0.621371
+    storedActivities['distance_miles'] = storedActivities['distance_miles'].round(2)
     storedActivities['distance_miles_Ride'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'Ride', 0)
     storedActivities['distance_miles_EBike'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'EBikeRide', 0)
     storedActivities['distance_miles_VirtualRide'] = storedActivities['distance_miles'].where(storedActivities['type'] == 'VirtualRide', 0)
