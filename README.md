@@ -1,11 +1,11 @@
-# Last Refreshed - 30 December, 2021 at 17:09:07
+# Last Refreshed - 30 December, 2021 at 18:03:56
 The Latest Activity was a EBikeRide 
 
 *Let it blow,  let it blow, let it blow* 
 
 which happened on 30 December, 2021 at 15:08:42 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 2 hours and 55 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6447406361 
 
