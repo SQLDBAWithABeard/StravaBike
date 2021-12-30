@@ -6,6 +6,7 @@ from dateutil.relativedelta import relativedelta
 # import dataPredication
 import databaseAccess
 import pandas
+from tabulate import tabulate
 
 # py -c 'import processData; processData.generateReadme()'
 def generateReadme():
@@ -57,7 +58,7 @@ def generateReadme():
         handle.write('## Number of Rides\n')
         handle.write('How many rides have I done each year?\n\n')
         handle.write('![Number_of_Rides_each_Year](Number_of_Rides_each_Year.png?raw=true "Number_of_Rides_each_Year")\n\n')
-        handle.write('{0}\n\n'.format( RidesandDistances[1] ))
+        handle.write('{0}\n\n'.format( tabulate(RidesandDistances[1], headers = 'keys', tablefmt = 'pretty' ))
         handle.write('## Distance Travelled\n')
         handle.write('How many miles have I ridden?\n\n')
         handle.write('![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")\n\n')
