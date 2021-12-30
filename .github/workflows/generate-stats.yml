@@ -25,6 +25,7 @@ jobs:
           pip install seaborn
           pip install matplotlib
           pip install requests
+          pip install tabulate
       - name: Get Data
         env:
           BUFFERSIZE: ${{ secrets.BUFFERSIZE }}
