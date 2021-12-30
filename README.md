@@ -1,11 +1,11 @@
-# Last Refreshed - 30 December, 2021 at 19:48:09
+# Last Refreshed - 30 December, 2021 at 19:53:13
 The Latest Activity was a EBikeRide 
 
 *Let it blow,  let it blow, let it blow* 
 
 which happened on 30 December, 2021 at 15:08:42 
 
-Which is 0 years, 0 months, 0 days, 4 hours and 39 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 4 hours and 44 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6447406361 
 
@@ -14,28 +14,20 @@ How many rides have I done each year?
 
 ![Number_of_Rides_each_Year](Number_of_Rides_each_Year.png?raw=true "Number_of_Rides_each_Year")
 
-+------+-------+--------+--------+-------------+
-| Year | Rides | E-Bike | Strava | Total Rides |
-+------+-------+--------+--------+-------------+
-| 2019 |  36   |   0    |   0    |     36      |
-| 2020 |  44   |   0    |  168   |     212     |
-| 2021 |  103  |   16   |   95   |     214     |
-+------+-------+--------+--------+-------------+
-
-## Distance Travelled
+|   Year |   Rides |   E-Bike |   Strava |   Total Rides |
+|-------:|--------:|---------:|---------:|--------------:|
+|   2019 |      36 |        0 |        0 |            36 |
+|   2020 |      44 |        0 |      168 |           212 |
+|   2021 |     103 |       16 |       95 |           214 |## Distance Travelled
 How many miles have I ridden?
 
 ![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
 
-+------+------------+--------------+--------------+-------------+
-| Year | Ride Miles | E-Bike Miles | Strava Miles | Total Miles |
-+------+------------+--------------+--------------+-------------+
-| 2019 |   474.41   |     0.0      |     0.0      |   474.41    |
-| 2020 |   869.54   |     0.0      |   2004.61    |   2874.15   |
-| 2021 |  2317.61   |    314.4     |   1228.45    |   3860.46   |
-+------+------------+--------------+--------------+-------------+
-
-## Average Bike Speed Outside
+|   Year |   Ride Miles |   E-Bike Miles |   Strava Miles |   Total Miles |
+|-------:|-------------:|---------------:|---------------:|--------------:|
+|   2019 |       474.41 |            0   |           0    |        474.41 |
+|   2020 |       869.54 |            0   |        2004.61 |       2874.15 |
+|   2021 |      2317.61 |          314.4 |        1228.45 |       3860.46 |## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
 
 ![Average Bike Speed Outside](AverageSpeedOutSide.png?raw=true "Average Bike Speed Outside")
