@@ -1,13 +1,13 @@
-# Last Refreshed - 31 December, 2021 at 13:08:51
+# Last Refreshed - 31 December, 2021 at 14:04:21
 The Latest Activity was a EBikeRide 
 
-*Let it blow,  let it blow, let it blow* 
+*Getting the grump gone* 
 
-which happened on 30 December, 2021 at 15:08:42 
+which happened on 31 December, 2021 at 12:40:03 
 
-Which is 0 years, 0 months, 0 days, 22 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 1 hours and 24 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/6447406361 
+You can see it here https://www.strava.com/activities/6451281377 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -18,16 +18,16 @@ How many rides have I done each year?
 |-------:|--------:|---------:|---------:|--------------:|
 |   2019 |      36 |        0 |        0 |            36 |
 |   2020 |      44 |        0 |      168 |           212 |
-|   2021 |     103 |       16 |       95 |           214 |## Distance Travelled
+|   2021 |     103 |       17 |       95 |           215 |## Distance Travelled
 How many miles have I ridden?
 
 ![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
 
 |   Year |   Ride Miles |   E-Bike Miles |   Strava Miles |   Total Miles |
 |-------:|-------------:|---------------:|---------------:|--------------:|
-|   2019 |       474.41 |            0   |           0    |        474.41 |
-|   2020 |       869.54 |            0   |        2004.61 |       2874.15 |
-|   2021 |      2317.61 |          314.4 |        1228.45 |       3860.46 |## Average Bike Speed Outside
+|   2019 |       474.41 |           0    |           0    |        474.41 |
+|   2020 |       869.54 |           0    |        2004.61 |       2874.15 |
+|   2021 |      2317.61 |         326.34 |        1228.45 |       3872.4  |## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
 
 ![Average Bike Speed Outside](AverageSpeedOutSide.png?raw=true "Average Bike Speed Outside")
