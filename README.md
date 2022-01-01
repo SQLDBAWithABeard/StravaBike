@@ -1,11 +1,11 @@
-# Last Refreshed - 01 January, 2022 at 07:04:01
+# Last Refreshed - 01 January, 2022 at 08:08:25
 The Latest Activity was a EBikeRide 
 
 *Out for an exploration.  Last ride of 2021.* 
 
 which happened on 31 December, 2021 at 14:06:37 
 
-Which is 0 years, 0 months, 0 days, 16 hours and 57 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6452374221 
 
