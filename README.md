@@ -1,13 +1,13 @@
-# Last Refreshed - 01 January, 2022 at 15:04:05
+# Last Refreshed - 01 January, 2022 at 16:04:12
 The Latest Activity was a EBikeRide 
 
-*Out for an exploration.  Last ride of 2021.* 
+*Happy New Year. * 
 
-which happened on 31 December, 2021 at 14:06:37 
+which happened on 01 January, 2022 at 13:02:10 
 
-Which is 0 years, 0 months, 1 days, 0 hours and 57 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 3 hours and 2 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/6452374221 
+You can see it here https://www.strava.com/activities/6456510119 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -18,7 +18,8 @@ How many rides have I done each year?
 |-------:|--------:|---------:|---------:|--------------:|
 |   2019 |      36 |        0 |        0 |            36 |
 |   2020 |      44 |        0 |      168 |           212 |
-|   2021 |     103 |       18 |       95 |           216 |## Distance Travelled
+|   2021 |     103 |       18 |       95 |           216 |
+|   2022 |       0 |        1 |        0 |             1 |## Distance Travelled
 How many miles have I ridden?
 
 ![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
@@ -27,7 +28,8 @@ How many miles have I ridden?
 |-------:|-------------:|---------------:|---------------:|--------------:|
 |   2019 |       474.41 |           0    |           0    |        474.41 |
 |   2020 |       869.54 |           0    |        2004.61 |       2874.15 |
-|   2021 |      2317.61 |         349.92 |        1228.45 |       3895.98 |## Average Bike Speed Outside
+|   2021 |      2317.61 |         349.92 |        1228.45 |       3895.98 |
+|   2022 |         0    |          31.47 |           0    |         31.47 |## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
 
 ![Average Bike Speed Outside](AverageSpeedOutSide.png?raw=true "Average Bike Speed Outside")
