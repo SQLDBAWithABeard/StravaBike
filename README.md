@@ -1,11 +1,11 @@
-# Last Refreshed - 02 January, 2022 at 12:26:41
+# Last Refreshed - 02 January, 2022 at 12:47:59
 The Latest Activity was a EBikeRide - 
 
 <b>Happy New Year. </b> 
 
 which happened on 01 January, 2022 at 13:02:10 
 
-Which is 0 years, 0 months, 0 days, 23 hours and 24 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 45 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6456510119 
 
@@ -33,6 +33,19 @@ How many miles have I ridden?
 |   2020 |       869.54 |           0    |        2004.61 |       2874.15 |
 |   2021 |      2317.61 |         349.92 |        1228.45 |       3895.98 |
 |   2022 |         0    |          31.47 |           0    |         31.47 |
+
+## Elevation Climbed
+
+How many metres have I climbed?
+
+![Elevation_each_Year](Elevation_each_Year.png?raw=true "Elevation_each_Year")
+
+|   Year |   Ride Elevation |   E-Bike Elevation |   Strava Elevation |   Total Elevation |
+|-------:|-----------------:|-------------------:|-------------------:|------------------:|
+|   2019 |          10362   |                0   |                  0 |           10362   |
+|   2020 |          17818.3 |                0   |              18937 |           36755.3 |
+|   2021 |          43499.4 |             9272.8 |              12630 |           65402.2 |
+|   2022 |              0   |              775   |                  0 |             775   |
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
