@@ -197,13 +197,14 @@ def produceAverageSpeedOutside():
     AllRides = pandas.concat(frames)
     frames = [EBikeRide, Ride]
     AllOutsideRides = pandas.concat(frames)
+    AllRidesSince19 = AllOutsideRides[AllOutsideRides['Year'].isin([2019,2020,2021,2022,2023,2024,2025])]
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     figure = matplotlib.pyplot.gcf()
     figure.set_size_inches(12,9 )
     matplotlib.pyplot.tight_layout()
-    averageoutside = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllOutsideRides, hue = 'type', col = 'Year', s=30)
+    averageoutside = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRidesSince19, hue = 'type', col = 'Year', s=30)
     averageoutside.set_titles("{col_name}")  # use this argument literally
     averageoutside.set_xlabels('Total Distance (miles)', fontsize=18)
     averageoutside.set_ylabels('Average Speed (mph)', fontsize=18)
@@ -222,15 +223,13 @@ def produceAverageSpeed():
 
     frames = [EBikeRide, VirtualRide, Ride]
     AllRides = pandas.concat(frames)
-
-    frames = [EBikeRide, Ride]
-    AllOutsideRides = pandas.concat(frames)
+    AllRidesSince19 = AllRides[AllRides['Year'].isin([2019,2020,2021,2022,2023,2024,2025])]
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     figure = matplotlib.pyplot.gcf()
     figure.set_size_inches(18.5, 10.5)
-    howfast = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRides, hue = 'type', col = 'Year')
+    howfast = seaborn.relplot(x='distance_miles', y = 'average_speed_miles_hr', data = AllRidesSince19, hue = 'type', col = 'Year')
     # Adjust title and axis labels directly
     howfast.set_titles("{col_name}")  # use this argument literally
     howfast.set_xlabels('Total Distance (miles)', fontsize=18)
