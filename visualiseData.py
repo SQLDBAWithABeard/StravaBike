@@ -443,7 +443,7 @@ def GetRideDistanceByYear(activities):
     matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.subplots_adjust(top=0.85)     # Add space at top
     #matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
-    matplotlib.pyplot.savefig('')#Number_of_Rides_each_Year.png', dpi=300)
+    matplotlib.pyplot.savefig('Number_of_Rides_each_Year.png', dpi=300)
     matplotlib.pyplot.clf()
     df.reset_index().plot(x='Year', y=['AllRides'], kind='bar',legend=False,width=1)
     matplotlib.pyplot.title('Number of Rides each Year', fontsize=20 ) #, fontweight="bold")
