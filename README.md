@@ -1,11 +1,11 @@
-# Last Refreshed - 02 January, 2022 at 12:04:48
-The Latest Activity was a EBikeRide 
+# Last Refreshed - 02 January, 2022 at 12:08:34
+The Latest Activity was a EBikeRide - 
 
-*Happy New Year. * 
+<b>Happy New Year. </b> 
 
 which happened on 01 January, 2022 at 13:02:10 
 
-Which is 0 years, 0 months, 0 days, 23 hours and 2 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 6 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6456510119 
 
@@ -19,7 +19,10 @@ How many rides have I done each year?
 |   2019 |      36 |        0 |        0 |            36 |
 |   2020 |      44 |        0 |      168 |           212 |
 |   2021 |     103 |       18 |       95 |           216 |
-|   2022 |       0 |        1 |        0 |             1 |## Distance Travelled
+|   2022 |       0 |        1 |        0 |             1 |
+
+## Distance Travelled
+
 How many miles have I ridden?
 
 ![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
