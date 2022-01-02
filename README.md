@@ -1,11 +1,11 @@
-# Last Refreshed - 02 January, 2022 at 12:14:36
+# Last Refreshed - 02 January, 2022 at 12:26:41
 The Latest Activity was a EBikeRide - 
 
 <b>Happy New Year. </b> 
 
 which happened on 01 January, 2022 at 13:02:10 
 
-Which is 0 years, 0 months, 0 days, 23 hours and 12 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6456510119 
 
@@ -83,6 +83,11 @@ How many times do I ride in each 5 mile bucket for all activities?
 How many times do I ride in each 5 mile bucket outside??
 
 ![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")
+
+## Each Week Distance for 2022 ?
+How far did I ride each week in 2022 ??
+
+![Distance_per_Week_For_2022](Distance_per_Week_For_2022.png?raw=true "Distance_per_Week_For_2022")
 
 ## Each Week Distance for 2021 ?
 How far did I ride each week in 2021 ??
