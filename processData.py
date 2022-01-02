@@ -26,7 +26,7 @@ def generateReadme():
     AllRides19 = AllRides[AllRides['Year'].isin([2019])]
     AllRides20 = AllRides[AllRides['Year'].isin([2020])]
     AllRides21 = AllRides[AllRides['Year'].isin([2021])]
-    #AllRides22 = AllRides[AllRides['Year'].isin([2022])]
+    AllRides22 = AllRides[AllRides['Year'].isin([2022])]
     RidesandDistances = visualiseData.GetRideDistanceByYear(AllRidesSince19)
     visualiseData.produceAverageSpeedOutside()
     visualiseData.produceAverageSpeed()
@@ -41,7 +41,7 @@ def generateReadme():
     visualiseData.GetRideDistanceByWeek(AllRides19)
     visualiseData.GetRideDistanceByWeek(AllRides20)
     visualiseData.GetRideDistanceByWeek(AllRides21)
-    #visualiseData.GetRideDistanceByWeek(AllRides22)
+    visualiseData.GetRideDistanceByWeek(AllRides22)
 
     now = datetime.now()
     now_string = now.strftime("%d %B, %Y at %H:%M:%S")
@@ -95,9 +95,9 @@ def generateReadme():
         handle.write('## 5 mile buckets outside ?\n')
         handle.write('How many times do I ride in each 5 mile bucket outside??\n\n')
         handle.write('![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")\n\n')
-        # handle.write('## Each Week Distance for 2022 ?\n')
-        # handle.write('How far did I ride each week in 2022 ??\n\n')
-        # handle.write('![Distance_per_Week_For_2022](Distance_per_Week_For_2022.png?raw=true "Distance_per_Week_For_2022")\n\n')
+        handle.write('## Each Week Distance for 2022 ?\n')
+        handle.write('How far did I ride each week in 2022 ??\n\n')
+        handle.write('![Distance_per_Week_For_2022](Distance_per_Week_For_2022.png?raw=true "Distance_per_Week_For_2022")\n\n')
         handle.write('## Each Week Distance for 2021 ?\n')
         handle.write('How far did I ride each week in 2021 ??\n\n')
         handle.write('![Distance_per_Week_For_2021](Distance_per_Week_For_2021.png?raw=true "Distance_per_Week_For_2021")\n\n')
