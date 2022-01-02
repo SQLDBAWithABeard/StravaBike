@@ -50,8 +50,8 @@ def generateReadme():
         os.remove('README.md')
     with open('README.md', 'w') as handle:
         handle.write('# Last Refreshed - {0}\n'.format(now_string))
-        handle.write('The Latest Activity was a {0} \n\n'.format( lastActivity[2]))
-        handle.write('*{0}* \n\n'.format( lastActivity[1]))
+        handle.write('The Latest Activity was a {0} - \n\n'.format( lastActivity[2]))
+        handle.write('<b>{0}</b> \n\n'.format( lastActivity[1]))
         handle.write('which happened on {0} \n\n'.format( lastActivityDateFormat))
         handle.write('Which is {0} years, {1} months, {2} days, {3} hours and {4} minutes since the last refresh! \n\n'.format( delta.years, delta.months, delta.days, delta.hours, delta.minutes))    
         handle.write('You can see it here https://www.strava.com/activities/{0} \n\n'.format( lastActivity[3] ))
