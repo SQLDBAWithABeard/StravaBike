@@ -64,6 +64,7 @@ def generateReadme():
         handle.write('How many miles have I ridden?\n\n')
         handle.write('![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")\n\n')
         RidesandDistances[0].to_markdown(buf=handle)
+        handle.write('\n\n')
         handle.write('## Average Bike Speed Outside\n')
         handle.write('How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?\n\n')
         handle.write('![Average Bike Speed Outside](AverageSpeedOutSide.png?raw=true "Average Bike Speed Outside")\n\n')
