@@ -28,6 +28,7 @@ def generateReadme():
     AllRides21 = AllRides[AllRides['Year'].isin([2021])]
     AllRides22 = AllRides[AllRides['Year'].isin([2022])]
     RidesandDistances = visualiseData.GetRideDistanceByYear(AllRidesSince19)
+    Elevation = visualiseData.GetRideElevationByYear(AllRidesSince19)
     visualiseData.produceAverageSpeedOutside()
     visualiseData.produceAverageSpeed()
     visualiseData.produceAverageCadence()
@@ -64,6 +65,11 @@ def generateReadme():
         handle.write('How many miles have I ridden?\n\n')
         handle.write('![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")\n\n')
         RidesandDistances[0].to_markdown(buf=handle)
+        handle.write('\n\n')
+        handle.write('## Elevation Climbed\n\n')
+        handle.write('How many metres have I climbed?\n\n')
+        handle.write('![Elevation_each_Year](Elevation_each_Year.png?raw=true "Elevation_each_Year")\n\n')
+        Elevation.to_markdown(buf=handle)
         handle.write('\n\n')
         handle.write('## Average Bike Speed Outside\n')
         handle.write('How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?\n\n')

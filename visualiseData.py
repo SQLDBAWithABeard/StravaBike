@@ -480,3 +480,39 @@ def GetRideDistanceByYear(activities):
     ]]
     rides.rename(columns={'NoOutsideRides' : 'Rides', 'NoEBikes' : 'E-Bike', 'NoVirtual' : 'Strava', 'AllRides' : 'Total Rides'}, inplace=True)
     return miles,rides
+
+def GetRideElevationByYear(activities): 
+    print('Starting the GetRideElevationByYear')
+    howmany = len(activities.index)
+    print('There are {0} activities'.format(howmany))
+    # print('There are column names {0}'.format(activities.columns.values))
+    df = activities.groupby('Year').agg(
+            Elevation_Ride=('elevation_Ride', 'sum'),
+            Elevation_EBike=('elevation_EBike', 'sum'),
+            Elevation_VirtualRide=('elevation_VirtualRide', 'sum'),
+            AllElevation=('total_elevation_gain',sum),
+    )
+
+    df.reset_index().plot(x='Year', y=['Elevation_Ride','Elevation_EBike','Elevation_VirtualRide'], kind='bar',legend=False,width=1)
+    matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Elevation", fontsize=6, title_fontsize=8)
+    matplotlib.pyplot.title('')#Number of Miles each Year', fontsize=20 ) #, fontweight="bold")
+    matplotlib.pyplot.xticks(fontsize=14,rotation=0)
+    matplotlib.pyplot.yticks(fontsize=8)
+    matplotlib.pyplot.ylabel('Elevation (metres)', fontsize=10)
+    matplotlib.pyplot.xlabel('', fontsize=14)
+    matplotlib.pyplot.gcf().set_size_inches(8, 4)
+    matplotlib.pyplot.tight_layout()
+    matplotlib.pyplot.show()#avefig('Number_of_Activities_and_Type_per_Distance.png')
+    matplotlib.pyplot.savefig('Elevation_each_Year.png', dpi=300)
+    matplotlib.pyplot.clf()
+    
+    elevation = df[[
+            'Elevation_Ride',
+            'Elevation_EBike',
+            'Elevation_VirtualRide',
+            'AllElevation'
+    ]]
+    elevation.rename(columns={'Elevation_Ride' : 'Ride Elevation', 'Elevation_EBike' : 'E-Bike Elevation', 'Elevation_VirtualRide' : 'Strava Elevation', 'AllElevation' : 'Total Elevation'}, inplace=True)
+    
+    return elevation
+
