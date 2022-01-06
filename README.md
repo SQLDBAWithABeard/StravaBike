@@ -1,11 +1,11 @@
-# Last Refreshed - 06 January, 2022 at 05:05:25
+# Last Refreshed - 06 January, 2022 at 06:04:23
 The Latest Activity was a EBikeRide - 
 
 <b>Lunch Blast - who says an e bike is cheating when you can still raise your heart rate 😃😃</b> 
 
 which happened on 05 January, 2022 at 12:19:07 
 
-Which is 0 years, 0 months, 0 days, 16 hours and 46 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 45 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6476131773 
 
