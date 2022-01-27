@@ -1,11 +1,11 @@
-# Last Refreshed - 26 January, 2022 at 23:04:06
+# Last Refreshed - 27 January, 2022 at 00:12:58
 The Latest Activity was a EBikeRide - 
 
 <b>Colder than it looked!!!</b> 
 
 which happened on 23 January, 2022 at 10:50:19 
 
-Which is 0 years, 0 months, 3 days, 12 hours and 13 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 13 hours and 22 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6569128200 
 
