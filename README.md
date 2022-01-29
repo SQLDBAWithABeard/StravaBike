@@ -1,11 +1,11 @@
-# Last Refreshed - 29 January, 2022 at 11:04:37
+# Last Refreshed - 29 January, 2022 at 12:04:52
 The Latest Activity was a EBikeRide - 
 
 <b>When you start early you can finish early</b> 
 
 which happened on 28 January, 2022 at 13:57:19 
 
-Which is 0 years, 0 months, 0 days, 21 hours and 7 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 22 hours and 7 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6594773382 
 
