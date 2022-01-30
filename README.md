@@ -1,11 +1,11 @@
-# Last Refreshed - 30 January, 2022 at 06:04:13
+# Last Refreshed - 30 January, 2022 at 07:03:46
 The Latest Activity was a EBikeRide - 
 
 <b>Misty Windy Moor ride with new lambs!!</b> 
 
 which happened on 29 January, 2022 at 12:23:47 
 
-Which is 0 years, 0 months, 0 days, 17 hours and 40 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 39 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6600128679 
 
