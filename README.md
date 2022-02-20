@@ -1,11 +1,11 @@
-# Last Refreshed - 19 February, 2022 at 23:03:58
+# Last Refreshed - 20 February, 2022 at 00:18:57
 The Latest Activity was a EBikeRide - 
 
 <b>Countryside was windy and smelly</b> 
 
 which happened on 12 February, 2022 at 11:04:04 
 
-Which is 0 years, 0 months, 7 days, 11 hours and 59 minutes since the last refresh! 
+Which is 0 years, 0 months, 7 days, 13 hours and 14 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/6670882809 
 
