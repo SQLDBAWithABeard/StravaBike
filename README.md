@@ -1,13 +1,13 @@
-# Last Refreshed - 22 March, 2022 at 15:04:18
+# Last Refreshed - 22 March, 2022 at 17:08:46
 The Latest Activity was a EBikeRide - 
 
-<b>Out enjoying the sunshine with my lady</b> 
+<b>Sunshine Afternoon ride to clear the brain</b> 
 
-which happened on 20 March, 2022 at 11:52:00 
+which happened on 22 March, 2022 at 14:11:29 
 
-Which is 0 years, 0 months, 2 days, 3 hours and 12 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 2 hours and 57 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/6853526510 
+You can see it here https://www.strava.com/activities/6864670793 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -19,7 +19,7 @@ How many rides have I done each year?
 |   2019 |      36 |        0 |        0 |            36 |
 |   2020 |      44 |        0 |      168 |           212 |
 |   2021 |     103 |       18 |       95 |           216 |
-|   2022 |       0 |       15 |        3 |            18 |
+|   2022 |       0 |       16 |        3 |            19 |
 
 ## Distance Travelled
 
@@ -32,7 +32,7 @@ How many miles have I ridden?
 |   2019 |       474.41 |           0    |           0    |        474.41 |
 |   2020 |       869.54 |           0    |        2004.61 |       2874.15 |
 |   2021 |      2317.61 |         349.92 |        1228.45 |       3895.98 |
-|   2022 |         0    |         326.57 |          44.14 |        370.71 |
+|   2022 |         0    |         345.8  |          44.14 |        389.94 |
 
 ## Elevation Climbed
 
@@ -45,7 +45,7 @@ How many metres have I climbed?
 |   2019 |          10362   |                0   |                  0 |           10362   |
 |   2020 |          17818.3 |                0   |              18937 |           36755.3 |
 |   2021 |          43499.4 |             9272.8 |              12630 |           65402.2 |
-|   2022 |              0   |             8686   |                674 |            9360   |
+|   2022 |              0   |             9076   |                674 |            9750   |
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
