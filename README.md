@@ -1,11 +1,11 @@
-# Last Refreshed - 27 April, 2022 at 00:24:15
+# Last Refreshed - 27 April, 2022 at 01:33:10
 The Latest Activity was a EBikeRide - 
 
 <b>Afternoon Ride</b> 
 
 which happened on 26 April, 2022 at 17:56:06 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 28 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 37 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7045140609 
 
