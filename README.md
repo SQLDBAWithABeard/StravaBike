@@ -1,11 +1,11 @@
-# Last Refreshed - 15 May, 2022 at 00:27:48
+# Last Refreshed - 15 May, 2022 at 01:33:16
 The Latest Activity was a EBikeRide - 
 
 <b>We went to Wimbleball Lake and over the dam.</b> 
 
 which happened on 14 May, 2022 at 11:40:46 
 
-Which is 0 years, 0 months, 0 days, 12 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 13 hours and 52 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7142330860 
 
