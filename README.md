@@ -1,11 +1,11 @@
-# Last Refreshed - 03 June, 2022 at 23:03:59
+# Last Refreshed - 04 June, 2022 at 00:21:11
 The Latest Activity was a EBikeRide - 
 
 <b>Fahrrad fahren, bevor ich nach Deutschland gehe</b> 
 
 which happened on 31 May, 2022 at 15:42:33 
 
-Which is 0 years, 0 months, 3 days, 7 hours and 21 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 8 hours and 38 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7232948391 
 
