@@ -1,11 +1,11 @@
-# Last Refreshed - 13 June, 2022 at 17:07:53
+# Last Refreshed - 13 June, 2022 at 18:04:10
 The Latest Activity was a Ride - 
 
 <b>Nearly too warm but not quite</b> 
 
 which happened on 13 June, 2022 at 16:16:41 
 
-Which is 0 years, 0 months, 0 days, 0 hours and 51 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 1 hours and 47 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7302577369 
 
