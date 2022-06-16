@@ -1,11 +1,11 @@
-# Last Refreshed - 16 June, 2022 at 17:07:06
+# Last Refreshed - 16 June, 2022 at 18:03:59
 The Latest Activity was a EBikeRide - 
 
 <b>Hot and humid (for Rob) but fun</b> 
 
 which happened on 16 June, 2022 at 15:14:23 
 
-Which is 0 years, 0 months, 0 days, 1 hours and 52 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 2 hours and 49 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7319483195 
 
