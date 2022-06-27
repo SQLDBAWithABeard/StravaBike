@@ -1,11 +1,11 @@
-# Last Refreshed - 27 June, 2022 at 04:23:18
+# Last Refreshed - 27 June, 2022 at 05:12:49
 The Latest Activity was a Ride - 
 
 <b>PsConfEU ride in Vienna da dum dum</b> 
 
 which happened on 20 June, 2022 at 18:46:09 
 
-Which is 0 years, 0 months, 6 days, 9 hours and 37 minutes since the last refresh! 
+Which is 0 years, 0 months, 6 days, 10 hours and 26 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7341262096 
 
