@@ -1,11 +1,11 @@
-# Last Refreshed - 30 June, 2022 at 00:21:36
+# Last Refreshed - 30 June, 2022 at 01:34:33
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pace Partner Ride: Wandering Flats in Makuri Islands with D. Drops</b> 
 
 which happened on 29 June, 2022 at 15:53:54 
 
-Which is 0 years, 0 months, 0 days, 8 hours and 27 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 9 hours and 40 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7387956936 
 
