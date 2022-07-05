@@ -1,11 +1,11 @@
-# Last Refreshed - 05 July, 2022 at 00:20:55
+# Last Refreshed - 05 July, 2022 at 01:32:48
 The Latest Activity was a EBikeRide - 
 
 <b>Sunday afternoon missing all of the rain!!</b> 
 
 which happened on 03 July, 2022 at 12:05:17 
 
-Which is 0 years, 0 months, 1 days, 12 hours and 15 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 13 hours and 27 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7408765627 
 
