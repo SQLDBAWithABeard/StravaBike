@@ -1,11 +1,11 @@
-# Last Refreshed - 05 July, 2022 at 20:07:51
+# Last Refreshed - 05 July, 2022 at 21:04:08
 The Latest Activity was a EBikeRide - 
 
 <b>Warm and windy ride saw a lot of cows</b> 
 
 which happened on 05 July, 2022 at 16:01:49 
 
-Which is 0 years, 0 months, 0 days, 4 hours and 6 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 5 hours and 2 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7419897377 
 
