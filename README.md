@@ -1,11 +1,11 @@
-# Last Refreshed - 07 July, 2022 at 12:05:12
+# Last Refreshed - 07 July, 2022 at 13:26:32
 The Latest Activity was a EBikeRide - 
 
 <b>Sunshine evening ride with the midges</b> 
 
 which happened on 06 July, 2022 at 18:37:29 
 
-Which is 0 years, 0 months, 0 days, 17 hours and 27 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 49 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7426393740 
 
