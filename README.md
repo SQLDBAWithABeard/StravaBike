@@ -1,11 +1,11 @@
-# Last Refreshed - 08 July, 2022 at 01:33:42
+# Last Refreshed - 08 July, 2022 at 02:47:47
 The Latest Activity was a EBikeRide - 
 
 <b>Afternoon in the sun with big lorries in little lanes so went along the canal</b> 
 
 which happened on 07 July, 2022 at 16:15:55 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 17 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 10 hours and 31 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7431068504 
 
