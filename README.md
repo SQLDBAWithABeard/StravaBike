@@ -1,11 +1,11 @@
-# Last Refreshed - 09 July, 2022 at 23:04:01
+# Last Refreshed - 10 July, 2022 at 00:25:39
 The Latest Activity was a Ride - 
 
 <b>My electric lady wanted to go to the seaside for fish and chips the day before her birthday</b> 
 
 which happened on 08 July, 2022 at 14:50:15 
 
-Which is 0 years, 0 months, 1 days, 8 hours and 13 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 9 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7436810055 
 
