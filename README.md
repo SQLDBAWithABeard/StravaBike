@@ -1,11 +1,11 @@
-# Last Refreshed - 13 July, 2022 at 08:08:06
+# Last Refreshed - 13 July, 2022 at 09:04:10
 The Latest Activity was a EBikeRide - 
 
 <b>Finished off on electric to get home in time for Traci</b> 
 
 which happened on 12 July, 2022 at 18:43:08 
 
-Which is 0 years, 0 months, 0 days, 13 hours and 24 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 14 hours and 21 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7458298179 
 
