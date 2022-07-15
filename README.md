@@ -1,11 +1,11 @@
-# Last Refreshed - 15 July, 2022 at 02:54:13
+# Last Refreshed - 15 July, 2022 at 03:43:30
 The Latest Activity was a Ride - 
 
 <b>Just the right warm slightly too much wind</b> 
 
 which happened on 14 July, 2022 at 17:08:20 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 45 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 10 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7469017027 
 
