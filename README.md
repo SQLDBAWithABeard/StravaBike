@@ -1,11 +1,11 @@
-# Last Refreshed - 16 July, 2022 at 11:03:58
+# Last Refreshed - 16 July, 2022 at 12:04:18
 The Latest Activity was a Ride - 
 
 <b>Get back before it gets too hot</b> 
 
 which happened on 16 July, 2022 at 07:20:23 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 4 hours and 43 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7476222562 
 
