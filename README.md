@@ -1,11 +1,11 @@
-# Last Refreshed - 19 July, 2022 at 00:26:39
+# Last Refreshed - 19 July, 2022 at 01:34:30
 The Latest Activity was a EBikeRide - 
 
 <b>Even on the electric,  don't forget your water bottles </b> 
 
 which happened on 16 July, 2022 at 15:31:49 
 
-Which is 0 years, 0 months, 2 days, 8 hours and 54 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 10 hours and 2 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7478685052 
 
