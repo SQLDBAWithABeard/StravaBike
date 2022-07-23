@@ -1,11 +1,11 @@
-# Last Refreshed - 23 July, 2022 at 13:10:34
+# Last Refreshed - 23 July, 2022 at 14:04:16
 The Latest Activity was a Ride - 
 
 <b>Woke up early, couldn't go back to sleep so went for a ride</b> 
 
 which happened on 23 July, 2022 at 05:55:05 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 15 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 9 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7513335346 
 
