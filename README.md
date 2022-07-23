@@ -1,11 +1,11 @@
-# Last Refreshed - 23 July, 2022 at 03:32:08
+# Last Refreshed - 23 July, 2022 at 04:12:19
 The Latest Activity was a Ride - 
 
 <b>Cool enough to ride but still humid</b> 
 
 which happened on 21 July, 2022 at 17:15:00 
 
-Which is 0 years, 0 months, 1 days, 10 hours and 17 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 10 hours and 57 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7505879966 
 
