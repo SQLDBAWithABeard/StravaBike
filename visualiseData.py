@@ -470,14 +470,14 @@ def GetRideDistanceByYear(activities):
             'VirtualRide_Miles',
             'AllMiles'
     ]]
-    miles.rename(columns={'Ride_Miles' : 'Ride Miles', 'EBike_Miles' : 'E-Bike Miles', 'VirtualRide_Miles' : 'Strava Miles', 'AllMiles' : 'Total Miles'}, inplace=True)
+    miles.rename(columns={'Ride_Miles' : 'Ride Miles', 'EBike_Miles' : 'E-Bike Miles', 'VirtualRide_Miles' : 'Virtual Miles', 'AllMiles' : 'Total Miles'}, inplace=True)
     rides = df[[
             'NoOutsideRides',
             'NoEBikes',
             'NoVirtual',
             'AllRides'
     ]]
-    rides.rename(columns={'NoOutsideRides' : 'Rides', 'NoEBikes' : 'E-Bike', 'NoVirtual' : 'Strava', 'AllRides' : 'Total Rides'}, inplace=True)
+    rides.rename(columns={'NoOutsideRides' : 'Rides', 'NoEBikes' : 'E-Bike', 'NoVirtual' : 'Virtual', 'AllRides' : 'Total Rides'}, inplace=True)
     return miles,rides
 
 def GetRideElevationByYear(activities): 
@@ -511,7 +511,7 @@ def GetRideElevationByYear(activities):
             'Elevation_VirtualRide',
             'AllElevation'
     ]]
-    elevation.rename(columns={'Elevation_Ride' : 'Ride Elevation', 'Elevation_EBike' : 'E-Bike Elevation', 'Elevation_VirtualRide' : 'Strava Elevation', 'AllElevation' : 'Total Elevation'}, inplace=True)
+    elevation.rename(columns={'Elevation_Ride' : 'Ride Elevation', 'Elevation_EBike' : 'E-Bike Elevation', 'Elevation_VirtualRide' : 'Virtual Elevation', 'AllElevation' : 'Total Elevation'}, inplace=True)
     
     return elevation
 

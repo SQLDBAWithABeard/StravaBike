@@ -14,7 +14,7 @@ How many rides have I done each year?
 
 ![Number_of_Rides_each_Year](Number_of_Rides_each_Year.png?raw=true "Number_of_Rides_each_Year")
 
-|   Year |   Rides |   E-Bike |   Strava |   Total Rides |
+|   Year |   Rides |   E-Bike |   Virtual |   Total Rides |
 |-------:|--------:|---------:|---------:|--------------:|
 |   2019 |      36 |        0 |        0 |            36 |
 |   2020 |      44 |        0 |      168 |           212 |
@@ -27,7 +27,7 @@ How many miles have I ridden?
 
 ![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
 
-|   Year |   Ride Miles |   E-Bike Miles |   Strava Miles |   Total Miles |
+|   Year |   Ride Miles |   E-Bike Miles |   Virtual Miles |   Total Miles |
 |-------:|-------------:|---------------:|---------------:|--------------:|
 |   2019 |       474.41 |           0    |           0    |        474.41 |
 |   2020 |       869.54 |           0    |        2004.61 |       2874.15 |
@@ -40,7 +40,7 @@ How many metres have I climbed?
 
 ![Elevation_each_Year](Elevation_each_Year.png?raw=true "Elevation_each_Year")
 
-|   Year |   Ride Elevation |   E-Bike Elevation |   Strava Elevation |   Total Elevation |
+|   Year |   Ride Elevation |   E-Bike Elevation |   Virtual Elevation |   Total Elevation |
 |-------:|-----------------:|-------------------:|-------------------:|------------------:|
 |   2019 |          10362   |                0   |                  0 |           10362   |
 |   2020 |          17818.3 |                0   |              18937 |           36755.3 |
