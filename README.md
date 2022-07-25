@@ -1,11 +1,11 @@
-# Last Refreshed - 25 July, 2022 at 11:04:12
+# Last Refreshed - 25 July, 2022 at 12:00:17
 The Latest Activity was a Ride - 
 
 <b>Warm and windy</b> 
 
 which happened on 24 July, 2022 at 13:21:01 
 
-Which is 0 years, 0 months, 0 days, 21 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 22 hours and 39 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7521259737 
 
@@ -15,11 +15,11 @@ How many rides have I done each year?
 ![Number_of_Rides_each_Year](Number_of_Rides_each_Year.png?raw=true "Number_of_Rides_each_Year")
 
 |   Year |   Rides |   E-Bike |   Virtual |   Total Rides |
-|-------:|--------:|---------:|---------:|--------------:|
-|   2019 |      36 |        0 |        0 |            36 |
-|   2020 |      44 |        0 |      168 |           212 |
-|   2021 |     103 |       18 |       95 |           216 |
-|   2022 |      22 |       48 |        6 |            76 |
+|-------:|--------:|---------:|----------:|--------------:|
+|   2019 |      36 |        0 |         0 |            36 |
+|   2020 |      44 |        0 |       168 |           212 |
+|   2021 |     103 |       18 |        95 |           216 |
+|   2022 |      22 |       48 |         6 |            76 |
 
 ## Distance Travelled
 
@@ -28,11 +28,11 @@ How many miles have I ridden?
 ![Number_of_Miles_each_Year](Number_of_Miles_each_Year.png?raw=true "Number_of_Miles_each_Year")
 
 |   Year |   Ride Miles |   E-Bike Miles |   Virtual Miles |   Total Miles |
-|-------:|-------------:|---------------:|---------------:|--------------:|
-|   2019 |       474.41 |           0    |           0    |        474.41 |
-|   2020 |       869.54 |           0    |        2004.61 |       2874.15 |
-|   2021 |      2317.61 |         349.92 |        1228.45 |       3895.98 |
-|   2022 |       478.33 |        1082.11 |          84.08 |       1644.52 |
+|-------:|-------------:|---------------:|----------------:|--------------:|
+|   2019 |       474.41 |           0    |            0    |        474.41 |
+|   2020 |       869.54 |           0    |         2004.61 |       2874.15 |
+|   2021 |      2317.61 |         349.92 |         1228.45 |       3895.98 |
+|   2022 |       478.33 |        1082.11 |           84.08 |       1644.52 |
 
 ## Elevation Climbed
 
@@ -41,11 +41,11 @@ How many metres have I climbed?
 ![Elevation_each_Year](Elevation_each_Year.png?raw=true "Elevation_each_Year")
 
 |   Year |   Ride Elevation |   E-Bike Elevation |   Virtual Elevation |   Total Elevation |
-|-------:|-----------------:|-------------------:|-------------------:|------------------:|
-|   2019 |          10362   |                0   |                  0 |           10362   |
-|   2020 |          17818.3 |                0   |              18937 |           36755.3 |
-|   2021 |          43499.4 |             9272.8 |              12630 |           65402.2 |
-|   2022 |           8554.2 |            26710.2 |               1821 |           37085.4 |
+|-------:|-----------------:|-------------------:|--------------------:|------------------:|
+|   2019 |          10362   |                0   |                   0 |           10362   |
+|   2020 |          17818.3 |                0   |               18937 |           36755.3 |
+|   2021 |          43499.4 |             9272.8 |               12630 |           65402.2 |
+|   2022 |           8554.2 |            26710.2 |                1821 |           37085.4 |
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
