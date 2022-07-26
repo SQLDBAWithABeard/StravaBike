@@ -1,11 +1,11 @@
-# Last Refreshed - 25 July, 2022 at 23:04:01
+# Last Refreshed - 26 July, 2022 at 00:27:47
 The Latest Activity was a Ride - 
 
 <b>Warm and windy</b> 
 
 which happened on 24 July, 2022 at 13:21:01 
 
-Which is 0 years, 0 months, 1 days, 9 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 11 hours and 6 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7521259737 
 
