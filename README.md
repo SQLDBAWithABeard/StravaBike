@@ -1,11 +1,11 @@
-# Last Refreshed - 20 August, 2022 at 09:34:55
+# Last Refreshed - 20 August, 2022 at 12:44:03
 The Latest Activity was a Ride - 
 
 <b>Friday Afternoon chasing PRs</b> 
 
 which happened on 19 August, 2022 at 16:02:06 
 
-Which is 0 years, 0 months, 0 days, 17 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 20 hours and 41 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7665150783 
 
