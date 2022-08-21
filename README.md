@@ -1,11 +1,11 @@
-# Last Refreshed - 21 August, 2022 at 12:44:02
+# Last Refreshed - 21 August, 2022 at 15:36:09
 The Latest Activity was a Ride - 
 
 <b>Don't let Traci choose the way!!!!</b> 
 
 which happened on 20 August, 2022 at 11:38:22 
 
-Which is 0 years, 0 months, 1 days, 1 hours and 5 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 3 hours and 57 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7669450327 
 
