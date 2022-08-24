@@ -1,11 +1,11 @@
-# Last Refreshed - 24 August, 2022 at 12:45:12
+# Last Refreshed - 24 August, 2022 at 15:37:26
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pace Partner Ride: Triple Flat Loops in Watopia with Diesel</b> 
 
 which happened on 22 August, 2022 at 18:19:06 
 
-Which is 0 years, 0 months, 1 days, 18 hours and 26 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 21 hours and 18 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7681970704 
 
