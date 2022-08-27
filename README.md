@@ -1,11 +1,11 @@
-# Last Refreshed - 26 August, 2022 at 18:39:16
+# Last Refreshed - 27 August, 2022 at 07:33:47
 The Latest Activity was a Ride - 
 
 <b>New bike for Lady day!!</b> 
 
 which happened on 26 August, 2022 at 15:45:15 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 54 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 48 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7704054242 
 
