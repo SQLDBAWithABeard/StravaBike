@@ -1,11 +1,11 @@
-# Last Refreshed - 02 September, 2022 at 18:39:06
+# Last Refreshed - 03 September, 2022 at 07:34:03
 The Latest Activity was a EBikeRide - 
 
 <b>Just about before the sun went down</b> 
 
 which happened on 30 August, 2022 at 18:29:22 
 
-Which is 0 years, 0 months, 3 days, 0 hours and 9 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 13 hours and 4 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7727155178 
 
