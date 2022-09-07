@@ -1,11 +1,11 @@
-# Last Refreshed - 07 September, 2022 at 12:46:05
+# Last Refreshed - 07 September, 2022 at 15:38:20
 The Latest Activity was a Ride - 
 
 <b>After updating T's e-bike firmware. Chased her in the wind!</b> 
 
 which happened on 04 September, 2022 at 11:24:06 
 
-Which is 0 years, 0 months, 3 days, 1 hours and 21 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 4 hours and 14 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7752758656 
 
