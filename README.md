@@ -1,11 +1,11 @@
-# Last Refreshed - 07 September, 2022 at 18:40:08
+# Last Refreshed - 08 September, 2022 at 07:41:21
 The Latest Activity was a Ride - 
 
 <b>Missed all of the rain</b> 
 
 which happened on 07 September, 2022 at 17:42:30 
 
-Which is 0 years, 0 months, 0 days, 0 hours and 57 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 13 hours and 58 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7771015963 
 
