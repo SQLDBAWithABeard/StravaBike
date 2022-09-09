@@ -1,11 +1,11 @@
-# Last Refreshed - 09 September, 2022 at 09:37:33
+# Last Refreshed - 09 September, 2022 at 12:45:57
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Roule Ma Poule in France</b> 
 
 which happened on 08 September, 2022 at 16:23:57 
 
-Which is 0 years, 0 months, 0 days, 17 hours and 13 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 20 hours and 22 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7775586017 
 
