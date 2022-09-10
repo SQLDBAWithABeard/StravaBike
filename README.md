@@ -1,11 +1,11 @@
-# Last Refreshed - 10 September, 2022 at 15:37:35
+# Last Refreshed - 10 September, 2022 at 18:39:48
 The Latest Activity was a Ride - 
 
 <b>Somerset/Devon border climbing, </b> 
 
 which happened on 10 September, 2022 at 12:05:36 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 31 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 34 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7784727349 
 
