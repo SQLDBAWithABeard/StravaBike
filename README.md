@@ -1,11 +1,11 @@
-# Last Refreshed - 30 September, 2022 at 15:40:55
+# Last Refreshed - 30 September, 2022 at 18:42:36
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift The Bell Lap in Crit City</b> 
 
 which happened on 30 September, 2022 at 14:00:04 
 
-Which is 0 years, 0 months, 0 days, 1 hours and 40 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 4 hours and 42 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7889707652 
 
