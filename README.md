@@ -1,11 +1,11 @@
-# Last Refreshed - 03 October, 2022 at 09:41:21
+# Last Refreshed - 03 October, 2022 at 12:46:30
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Workout of the Week | Aerobic Power on Libby Hill After Party in Makuri Islands</b> 
 
 which happened on 02 October, 2022 at 11:36:46 
 
-Which is 0 years, 0 months, 0 days, 22 hours and 4 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 1 hours and 9 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7899353399 
 
