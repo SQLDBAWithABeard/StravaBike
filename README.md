@@ -1,11 +1,11 @@
-# Last Refreshed - 08 October, 2022 at 18:40:38
+# Last Refreshed - 09 October, 2022 at 07:38:03
 The Latest Activity was a Ride - 
 
 <b>Chilly start to the morning. Beautiful though</b> 
 
 which happened on 08 October, 2022 at 07:36:18 
 
-Which is 0 years, 0 months, 0 days, 11 hours and 4 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 0 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7928830555 
 
