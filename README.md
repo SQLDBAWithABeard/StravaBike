@@ -1,11 +1,11 @@
-# Last Refreshed - 16 October, 2022 at 09:38:28
+# Last Refreshed - 16 October, 2022 at 12:45:39
 The Latest Activity was a Ride - 
 
 <b>Ride with Jess</b> 
 
 which happened on 15 October, 2022 at 06:53:30 
 
-Which is 0 years, 0 months, 1 days, 2 hours and 44 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 52 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7965030665 
 
