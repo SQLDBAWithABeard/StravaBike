@@ -1,11 +1,11 @@
-# Last Refreshed - 17 October, 2022 at 18:46:29
+# Last Refreshed - 18 October, 2022 at 07:45:24
 The Latest Activity was a Ride - 
 
 <b>Just beat the rain</b> 
 
 which happened on 16 October, 2022 at 14:03:12 
 
-Which is 0 years, 0 months, 1 days, 4 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 17 hours and 42 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/7972666605 
 
