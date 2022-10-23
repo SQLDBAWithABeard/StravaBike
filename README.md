@@ -1,11 +1,11 @@
-# Last Refreshed - 23 October, 2022 at 07:38:54
+# Last Refreshed - 23 October, 2022 at 09:39:04
 The Latest Activity was a Ride - 
 
 <b>The one where Traci rode in the rain did the first time</b> 
 
 which happened on 22 October, 2022 at 12:25:33 
 
-Which is 0 years, 0 months, 0 days, 19 hours and 13 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 21 hours and 13 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8001872583 
 
