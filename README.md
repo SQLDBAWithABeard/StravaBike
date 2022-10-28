@@ -1,11 +1,11 @@
-# Last Refreshed - 28 October, 2022 at 15:38:34
+# Last Refreshed - 28 October, 2022 at 18:39:12
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pace Partner Ride: Three Little Sisters in Watopia with Maria</b> 
 
 which happened on 28 October, 2022 at 13:08:26 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 30 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 5 hours and 30 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8031751726 
 
