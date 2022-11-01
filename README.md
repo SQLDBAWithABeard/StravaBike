@@ -1,11 +1,11 @@
-# Last Refreshed - 01 November, 2022 at 07:36:53
+# Last Refreshed - 01 November, 2022 at 09:39:33
 The Latest Activity was a Ride - 
 
 <b>Windy, very windy,  first winter bike ride with more climbing than intended!</b> 
 
 which happened on 29 October, 2022 at 14:15:06 
 
-Which is 0 years, 0 months, 2 days, 17 hours and 21 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 19 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8038236176 
 
