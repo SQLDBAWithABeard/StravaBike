@@ -1,11 +1,11 @@
-# Last Refreshed - 02 November, 2022 at 09:36:47
+# Last Refreshed - 02 November, 2022 at 12:46:28
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Grin And Bear It in Innsbruck</b> 
 
 which happened on 01 November, 2022 at 18:00:05 
 
-Which is 0 years, 0 months, 0 days, 15 hours and 36 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 46 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8054097468 
 
