@@ -1,11 +1,11 @@
-# Last Refreshed - 04 November, 2022 at 07:35:15
+# Last Refreshed - 04 November, 2022 at 09:35:10
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pace Partner Ride: Castle to Castle in Makuri Islands with Maria</b> 
 
 which happened on 03 November, 2022 at 16:36:03 
 
-Which is 0 years, 0 months, 0 days, 14 hours and 59 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 16 hours and 59 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8063339610 
 
