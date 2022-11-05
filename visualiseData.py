@@ -390,7 +390,7 @@ def GetRideDistanceByWeek(activities):
     matplotlib.pyplot.gca().xaxis.set_major_locator(matplotlib.dates.MonthLocator())
     matplotlib.pyplot.gca().xaxis.set_major_formatter(matplotlib.dates.DateFormatter("%b %Y"))
     #seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
-    seaborn.barplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
+    seaborn.barplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride' palette='hls') #, marker='o')
     matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Type Of Ride", fontsize=6, title_fontsize=8)
     matplotlib.pyplot.tight_layout()
     title = 'Distance Per Week for {0}'.format(Unique_Year)
