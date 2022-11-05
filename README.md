@@ -1,11 +1,11 @@
-# Last Refreshed - 04 November, 2022 at 18:39:10
+# Last Refreshed - 05 November, 2022 at 07:33:45
 The Latest Activity was a Ride - 
 
 <b>Whilst the sun was still up</b> 
 
 which happened on 04 November, 2022 at 15:41:58 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 57 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 51 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8067854250 
 
