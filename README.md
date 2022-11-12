@@ -1,11 +1,11 @@
-# Last Refreshed - 12 November, 2022 at 07:34:06
+# Last Refreshed - 12 November, 2022 at 09:35:11
 The Latest Activity was a Ride - 
 
 <b>An explore around Lakes Washington and Sammamish</b> 
 
 which happened on 11 November, 2022 at 11:22:58 
 
-Which is 0 years, 0 months, 0 days, 20 hours and 11 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 22 hours and 12 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8104153266 
 
