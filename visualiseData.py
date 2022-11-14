@@ -389,6 +389,8 @@ def GetRideDistanceByWeek(activities):
     seaborn.set(style="darkgrid", context="poster")
     #seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
     # seaborn.barplot(data=dfm, x='distance',y='start_date_local',hue='Type Of Ride', palette='hls') #, marker='o')
+    # get first row using head() function
+    print(dfm.head(1))
     dfm.plot(kind='bar', stacked=True, color=['red', 'skyblue', 'green'])
     matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Type Of Ride", fontsize=6, title_fontsize=8)
     matplotlib.pyplot.tight_layout()
