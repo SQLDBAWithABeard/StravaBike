@@ -1,11 +1,11 @@
-# Last Refreshed - 14 November, 2022 at 15:37:26
+# Last Refreshed - 14 November, 2022 at 18:39:12
 The Latest Activity was a Ride - 
 
 <b>Sunday morning Seattle ride</b> 
 
 which happened on 13 November, 2022 at 06:55:58 
 
-Which is 0 years, 0 months, 1 days, 8 hours and 41 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 11 hours and 43 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8113876835 
 
