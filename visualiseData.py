@@ -407,7 +407,7 @@ def GetRideDistanceByWeek(activities):
     matplotlib.pyplot.yticks(fontsize=8)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=14)
     matplotlib.pyplot.ylabel('Week', fontsize=14)
-    matplotlib.pyplot.show()
+    # matplotlib.pyplot.show()
     image_name = 'Distance_per_Week_For_{0}.png'.format(Unique_Year)
     matplotlib.pyplot.savefig(image_name,dpi=300)
     matplotlib.pyplot.clf()
