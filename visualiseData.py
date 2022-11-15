@@ -374,7 +374,9 @@ def GetRideDistanceByWeek(activities):
     print('Starting the GetRideDistanceByWeek')
     howmany = len(activities.index)
     print('There are {0} activities'.format(howmany))
-    print('There are column names {0}'.format(activities.columns.values))
+    # print('There are column names {0}'.format(activities.columns.values))
+    # print('The first one is {0}'.format(activities.head(1)))
+    
     df = activities.groupby([pandas.Grouper(key='start_date_local', freq='W-MON'),'Year']).agg(
 
             Ride=('distance_miles_Ride', 'sum'),
@@ -387,13 +389,14 @@ def GetRideDistanceByWeek(activities):
     figure.set_size_inches(9, 6)
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    #seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
+    # seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
     # seaborn.barplot(data=dfm, x='distance',y='start_date_local',hue='Type Of Ride', palette='hls') #, marker='o')
     # get first row using head() function
-    print(dfm.head(1))
-    dfm["start_date_local"] = dfm["start_date_local"].astype('datetime64[D]')
-    print(dfm.head(1))
-    dfm.plot(kind='bar', stacked=True, color=['red', 'skyblue', 'green'])
+    # print(dfm.head(1))
+    dfm["start_date_local"] = dfm["start_date_local"].dt.date
+    seaborn.barplot(data=dfm, x='distance',y='start_date_local',hue='Type Of Ride', palette='hls') #, marker='o')
+    # print(dfm.head(1))
+    #dfm.plot(kind='bar', stacked=True, color=['red', 'skyblue', 'green'])
     matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Type Of Ride", fontsize=6, title_fontsize=8)
     matplotlib.pyplot.tight_layout()
     title = 'Distance Per Week for {0}'.format(Unique_Year)
@@ -404,11 +407,11 @@ def GetRideDistanceByWeek(activities):
     matplotlib.pyplot.yticks(fontsize=8)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=14)
     matplotlib.pyplot.ylabel('Week', fontsize=14)
-    #matplotlib.pyplot.show()
+    matplotlib.pyplot.show()
     image_name = 'Distance_per_Week_For_{0}.png'.format(Unique_Year)
     matplotlib.pyplot.savefig(image_name,dpi=300)
     matplotlib.pyplot.clf()
-
+    
 def GetRideDistanceByYear(activities): 
     print('Starting the GetRideDistanceByYear')
     howmany = len(activities.index)
