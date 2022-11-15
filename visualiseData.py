@@ -386,7 +386,7 @@ def GetRideDistanceByWeek(activities):
     dfm = pandas.melt(df.reset_index(), id_vars=['start_date_local','Year'], value_name='distance',value_vars =['Ride','EBike','VirtualRide'],var_name='Type Of Ride')
     Unique_Year = dfm.Year.unique()[0]
     figure = matplotlib.pyplot.gcf()
-    figure.set_size_inches(9, 6)
+    figure.set_size_inches(6, 9)
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
     # seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
