@@ -1,11 +1,11 @@
-# Last Refreshed - 18 November, 2022 at 09:34:34
+# Last Refreshed - 18 November, 2022 at 12:45:10
 The Latest Activity was a Ride - 
 
 <b>Took the bike back to its proper home.  But went the long way!!</b> 
 
 which happened on 14 November, 2022 at 07:34:39 
 
-Which is 0 years, 0 months, 4 days, 1 hours and 59 minutes since the last refresh! 
+Which is 0 years, 0 months, 4 days, 5 hours and 10 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8118336010 
 
