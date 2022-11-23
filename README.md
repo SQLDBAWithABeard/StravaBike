@@ -1,11 +1,11 @@
-# Last Refreshed - 23 November, 2022 at 12:46:02
+# Last Refreshed - 23 November, 2022 at 15:35:07
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - London Loop in London</b> 
 
 which happened on 22 November, 2022 at 17:13:11 
 
-Which is 0 years, 0 months, 0 days, 19 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 22 hours and 21 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8153907032 
 
