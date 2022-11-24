@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Strava",
+            "database": "${workspaceFolder:StravaBike}/strava_temp.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
