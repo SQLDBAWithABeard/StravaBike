@@ -1,11 +1,11 @@
-# Last Refreshed - 27 November, 2022 at 09:33:07
+# Last Refreshed - 27 November, 2022 at 12:42:49
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - SST (Short) in Watopia</b> 
 
 which happened on 26 November, 2022 at 17:50:36 
 
-Which is 0 years, 0 months, 0 days, 15 hours and 42 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 52 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8172315847 
 
