@@ -1,11 +1,11 @@
-# Last Refreshed - 01 December, 2022 at 15:35:14
+# Last Refreshed - 01 December, 2022 at 18:37:03
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Tempus Fugit in Watopia</b> 
 
 which happened on 30 November, 2022 at 17:48:00 
 
-Which is 0 years, 0 months, 0 days, 21 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 0 hours and 49 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8190181780 
 
