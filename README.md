@@ -1,11 +1,11 @@
-# Last Refreshed - 06 December, 2022 at 12:44:18
+# Last Refreshed - 06 December, 2022 at 15:33:56
 The Latest Activity was a Ride - 
 
 <b>Chilly but nice to blow Sunday meetings away</b> 
 
 which happened on 04 December, 2022 at 14:50:43 
 
-Which is 0 years, 0 months, 1 days, 21 hours and 53 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 0 hours and 43 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8207245979 
 
