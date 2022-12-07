@@ -1,11 +1,11 @@
-# Last Refreshed - 07 December, 2022 at 12:42:52
+# Last Refreshed - 07 December, 2022 at 15:33:47
 The Latest Activity was a Ride - 
 
 <b>Shepherd's delight and full moon and WOW new lights are bright</b> 
 
 which happened on 06 December, 2022 at 16:07:16 
 
-Which is 0 years, 0 months, 0 days, 20 hours and 35 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 26 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8215822787 
 
