@@ -1,11 +1,11 @@
-# Last Refreshed - 09 December, 2022 at 15:33:16
+# Last Refreshed - 09 December, 2022 at 18:35:41
 The Latest Activity was a Ride - 
 
 <b>I hate meetings but at least it was dry enough after to ride</b> 
 
 which happened on 07 December, 2022 at 15:52:10 
 
-Which is 0 years, 0 months, 1 days, 23 hours and 41 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 2 hours and 43 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8219902896 
 
