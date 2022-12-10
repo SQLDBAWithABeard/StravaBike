@@ -1,11 +1,11 @@
-# Last Refreshed - 10 December, 2022 at 12:41:36
+# Last Refreshed - 10 December, 2022 at 15:33:20
 The Latest Activity was a Ride - 
 
 <b>Had chores to do. Felt safer on than the bike than the car. </b> 
 
 which happened on 10 December, 2022 at 08:47:47 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 53 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 45 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8230500795 
 
