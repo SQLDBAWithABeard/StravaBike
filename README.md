@@ -1,11 +1,11 @@
-# Last Refreshed - 13 December, 2022 at 09:33:41
+# Last Refreshed - 13 December, 2022 at 12:43:27
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Step By Step in Makuri Islands</b> 
 
 which happened on 12 December, 2022 at 17:19:18 
 
-Which is 0 years, 0 months, 0 days, 16 hours and 14 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 19 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8240472721 
 
