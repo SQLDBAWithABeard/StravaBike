@@ -1,11 +1,11 @@
-# Last Refreshed - 22 December, 2022 at 15:33:59
+# Last Refreshed - 22 December, 2022 at 18:35:08
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pace Partner Ride: Volcano Flat in Watopia with Maria</b> 
 
 which happened on 21 December, 2022 at 18:34:32 
 
-Which is 0 years, 0 months, 0 days, 20 hours and 59 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 0 hours and 0 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8275697484 
 
