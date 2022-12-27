@@ -1,11 +1,11 @@
-# Last Refreshed - 27 December, 2022 at 15:33:17
+# Last Refreshed - 27 December, 2022 at 18:34:23
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pace Partner Ride: Tick Tock in Watopia with Coco</b> 
 
 which happened on 27 December, 2022 at 11:36:07 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 57 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 58 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8297382084 
 
