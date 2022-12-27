@@ -1,11 +1,11 @@
-# Last Refreshed - 27 December, 2022 at 07:33:08
+# Last Refreshed - 27 December, 2022 at 09:33:18
 The Latest Activity was a Ride - 
 
 <b>Back from all of the food</b> 
 
 which happened on 26 December, 2022 at 15:37:39 
 
-Which is 0 years, 0 months, 0 days, 15 hours and 55 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 55 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8293904488 
 
