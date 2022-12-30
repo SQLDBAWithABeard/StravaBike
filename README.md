@@ -1,11 +1,11 @@
-# Last Refreshed - 29 December, 2022 at 18:34:35
+# Last Refreshed - 30 December, 2022 at 07:33:09
 The Latest Activity was a Ride - 
 
 <b>Sneaked out around the showers. The roads were awful. </b> 
 
 which happened on 29 December, 2022 at 16:02:18 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 30 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8307932106 
 
