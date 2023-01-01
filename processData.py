@@ -27,6 +27,7 @@ def generateReadme():
     AllRides20 = AllRides[AllRides['Year'].isin([2020])]
     AllRides21 = AllRides[AllRides['Year'].isin([2021])]
     AllRides22 = AllRides[AllRides['Year'].isin([2022])]
+    AllRides23 = AllRides[AllRides['Year'].isin([2023])]
     RidesandDistances = visualiseData.GetRideDistanceByYear(AllRidesSince19)
     Elevation = visualiseData.GetRideElevationByYear(AllRidesSince19)
     visualiseData.produceAverageSpeedOutside()
@@ -101,6 +102,9 @@ def generateReadme():
         handle.write('## 5 mile buckets outside ?\n')
         handle.write('How many times do I ride in each 5 mile bucket outside??\n\n')
         handle.write('![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")\n\n')
+        handle.write('## Each Week Distance for 2023 ?\n')
+        handle.write('How far did I ride each week in 2023 ??\n\n')
+        handle.write('![Distance_per_Week_For_2023](Distance_per_Week_For_2023.png?raw=true "Distance_per_Week_For_2023")\n\n')
         handle.write('## Each Week Distance for 2022 ?\n')
         handle.write('How far did I ride each week in 2022 ??\n\n')
         handle.write('![Distance_per_Week_For_2022](Distance_per_Week_For_2022.png?raw=true "Distance_per_Week_For_2022")\n\n')
