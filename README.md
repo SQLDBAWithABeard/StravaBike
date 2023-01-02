@@ -1,13 +1,13 @@
-# Last Refreshed - 31 December, 2022 at 18:33:44
-The Latest Activity was a VirtualRide - 
+# Last Refreshed - 02 January, 2023 at 18:22:06
+The Latest Activity was a Ride - 
 
-<b>Zwift - Tempus Fugit in Watopia</b> 
+<b>FIrst ride of the year in the sunshine and the wet!!</b> 
 
-which happened on 31 December, 2022 at 15:25:20 
+which happened on 02 January, 2023 at 12:33:06 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 8 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 5 hours and 49 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/8317190214 
+You can see it here https://www.strava.com/activities/8326353527 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -20,6 +20,7 @@ How many rides have I done each year?
 |   2020 |      44 |        0 |       168 |           212 |
 |   2021 |     103 |       18 |        95 |           216 |
 |   2022 |      73 |       66 |        49 |           188 |
+|   2023 |       1 |        0 |         0 |             1 |
 
 ## Distance Travelled
 
@@ -33,6 +34,7 @@ How many miles have I ridden?
 |   2020 |       869.54 |           0    |         2004.61 |       2874.15 |
 |   2021 |      2317.61 |         349.92 |         1228.45 |       3895.98 |
 |   2022 |      1489.5  |        1363.83 |          561.84 |       3415.17 |
+|   2023 |        26.3  |           0    |            0    |         26.3  |
 
 ## Elevation Climbed
 
@@ -46,6 +48,7 @@ How many metres have I climbed?
 |   2020 |          17818.3 |                0   |               18937 |           36755.3 |
 |   2021 |          43499.4 |             9272.8 |               12630 |           65402.2 |
 |   2022 |          29870.2 |            33654.2 |                8693 |           72217.4 |
+|   2023 |            623   |                0   |                   0 |             623   |
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
@@ -96,6 +99,11 @@ How many times do I ride in each 5 mile bucket for all activities?
 How many times do I ride in each 5 mile bucket outside??
 
 ![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")
+
+## Each Week Distance for 2023 ?
+How far did I ride each week in 2023 ??
+
+![Distance_per_Week_For_2023](Distance_per_Week_For_2023.png?raw=true "Distance_per_Week_For_2023")
 
 ## Each Week Distance for 2022 ?
 How far did I ride each week in 2022 ??
