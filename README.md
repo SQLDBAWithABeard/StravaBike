@@ -1,11 +1,11 @@
-# Last Refreshed - 04 January, 2023 at 07:33:16
+# Last Refreshed - 04 January, 2023 at 09:33:20
 The Latest Activity was a Ride - 
 
 <b>FIrst ride of the year in the sunshine and the wet!!</b> 
 
 which happened on 02 January, 2023 at 12:33:06 
 
-Which is 0 years, 0 months, 1 days, 19 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 21 hours and 0 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8326353527 
 
