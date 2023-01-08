@@ -6,6 +6,7 @@ import matplotlib
 import matplotlib.pylab
 import databaseAccess
 import matplotlib.pyplot as plt
+from IPython.display import display
 
 # py -c 'import visualiseData; visualiseData.getFastestTimes()'
 def getFastestTimes():
@@ -408,9 +409,13 @@ def GetRideDistanceByWeek(activities):
     # seaborn.lineplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride') #, marker='o')
     # seaborn.barplot(data=dfm, x='distance',y='start_date_local',hue='Type Of Ride', palette='hls') #, marker='o')
     # get first row using head() function
-    # print(dfm.head(1))
+    #print(dfm.head(1))
     dfm["start_date_local"] = dfm["start_date_local"].dt.date
-    seaborn.barplot(data=dfm, x='distance',y='start_date_local',hue='Type Of Ride', palette='hls') #, marker='o')
+    # print(dfm)
+
+
+    #display(dfm)
+    seaborn.barplot(data=dfm, x='start_date_local',y='distance',hue='Type Of Ride', palette='hls') #, marker='o')
     # print(dfm.head(1))
     #dfm.plot(kind='bar', stacked=True, color=['red', 'skyblue', 'green'])
     matplotlib.pyplot.legend(bbox_to_anchor=(1.05, 0.5), loc='upper left', title="Type Of Ride", fontsize=6, title_fontsize=8)
@@ -423,7 +428,7 @@ def GetRideDistanceByWeek(activities):
     matplotlib.pyplot.yticks(fontsize=8)
     matplotlib.pyplot.xlabel('Distance (miles)', fontsize=14)
     matplotlib.pyplot.ylabel('Week', fontsize=14)
-    # matplotlib.pyplot.show()
+    matplotlib.pyplot.show()
     image_name = 'Distance_per_Week_For_{0}.png'.format(Unique_Year)
     matplotlib.pyplot.savefig(image_name,dpi=300)
     matplotlib.pyplot.clf()
