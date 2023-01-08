@@ -91,12 +91,15 @@ def produceTimeDistance():
     matplotlib.pyplot.clf()
 
 # py -c 'import visualiseData; visualiseData.produceActivtyHistogram()'
-def produceActivtyHistogram():
-    activities = databaseAccess.getActivityDistances()
+def produceActivtyHistogram(): 
+    print('Starting the produceActivtyHistogram')
+    AllActivities = databaseAccess.getActivityDistances()
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     # Apply the default theme
     seaborn.set_theme()
     seaborn.set(style="darkgrid", context="poster")
-    seaborn.catplot(x="nearest_5miles", y="cnt",  data=activities, kind = "bar")
+    seaborn.catplot(x="nearest_5miles", y="cnt",  data=AllActivities, kind = "bar")
     matplotlib.pyplot.title('Number of Activities per Distance', fontsize=20 ) #, fontweight="bold")
     matplotlib.pyplot.xticks(fontsize=8,rotation=90)
     matplotlib.pyplot.yticks(fontsize=8)
@@ -185,8 +188,10 @@ def produceElapsedTimeDistance():
     matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.savefig('Time_Taken_Distance.png', dpi=300)
     matplotlib.pyplot.clf()
-def produceAverageSpeedOutside():
-    AllActivities = databaseAccess.getActivities()
+def produceAverageSpeedOutside(AllActivities): 
+    print('Starting the produceAverageSpeedOutside')
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
     Run = AllActivities[AllActivities['type'] == 'Run']
@@ -212,8 +217,10 @@ def produceAverageSpeedOutside():
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeedOutSide.png')# , dpi=300)
 
-def produceAverageSpeed():
-    AllActivities = databaseAccess.getActivities()
+def produceAverageSpeed(AllActivities): 
+    print('Starting the produceAverageSpeed')
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
     Run = AllActivities[AllActivities['type'] == 'Run']
@@ -237,8 +244,10 @@ def produceAverageSpeed():
     # Saving the Seaborn Figure:
     plt.savefig('AverageSpeed.png',dpi=300)
 
-def produceAveragePower():
-    AllActivities = databaseAccess.getActivities()
+def produceAveragePower(AllActivities): 
+    print('Starting the produceAveragePower')
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
     Run = AllActivities[AllActivities['type'] == 'Run']
@@ -263,8 +272,10 @@ def produceAveragePower():
     # Saving the Seaborn Figure:
     plt.savefig('AveragePower.png', dpi=300)
 
-def produceAverageCadence():
-    AllActivities = databaseAccess.getActivities()
+def produceAverageCadence(AllActivities): 
+    print('Starting the produceAverageCadence')
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
     Run = AllActivities[AllActivities['type'] == 'Run']
@@ -291,8 +302,10 @@ def produceAverageCadence():
     # Saving the Seaborn Figure:
     plt.savefig('AverageCadence.png',dpi=300)
 
-def produceDistanceByDay():
-    AllActivities = databaseAccess.getActivities()
+def produceDistanceByDay(AllActivities): 
+    print('Starting the produceDistanceByDay')
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
     Run = AllActivities[AllActivities['type'] == 'Run']
@@ -313,7 +326,7 @@ def produceDistanceByDay():
     matplotlib.pyplot.tight_layout()
     howfar =  seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=AllRides, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
-                    palette='pastel',s=10)
+                    palette='bright',hue='start_date_day_of_week',s=10)
     
     howfar.set_titles("{col_name}")  # use this argument literally
     howfar.set_xlabels('Week Day', fontsize=18)
@@ -323,8 +336,10 @@ def produceDistanceByDay():
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDay.png',dpi=300)
 
-def produceDistanceByDayRide():
-    AllActivities = databaseAccess.getActivities()
+def produceDistanceByDayRide(AllActivities): 
+    print('Starting the produceDistanceByDayRide')
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     Ride = AllActivities[AllActivities['type'] == 'Ride']
 
     day_of_week_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ]
@@ -335,7 +350,7 @@ def produceDistanceByDayRide():
     matplotlib.pyplot.tight_layout()
     howfar = seaborn.catplot(x='start_date_day_of_week', y='distance_miles', kind='strip', data=Ride, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
-                    palette='pastel',s=10)
+                    palette='pastel',hue='start_date_day_of_week',s=10)
     howfar.set_titles("{col_name}")  # use this argument literally
     howfar.set_xlabels('Week Day', fontsize=18)
     howfar.set_ylabels('Distance (miles)', fontsize=18)
@@ -343,9 +358,10 @@ def produceDistanceByDayRide():
     # Saving the Seaborn Figure:
     plt.savefig('DistanceByDayRide.png', dpi=300)
 
-def produceCadenceByDay():
+def produceCadenceByDay(AllActivities): 
     print('Starting the produceCadenceByDay')
-    AllActivities = databaseAccess.getActivities()
+    howmany = len(AllActivities.index)
+    print('There are {0} activities'.format(howmany))
     NightWalk = AllActivities[AllActivities['type'] == 'Night Walk']
     Walk = AllActivities[AllActivities['type'] == 'Walk']
     Run = AllActivities[AllActivities['type'] == 'Run']
@@ -362,7 +378,7 @@ def produceCadenceByDay():
     seaborn.set(style="darkgrid", context="poster")
     cadence = seaborn.catplot(x='start_date_day_of_week', y='average_cadence', kind='strip', data=AllRides, 
                     order=day_of_week_order, col='type', height=9, aspect=1, 
-                    palette='pastel',s= 10)
+                    palette='pastel',hue='start_date_day_of_week',s= 10)
     cadence.set_titles("{col_name}")  # use this argument literally
     cadence.set_xlabels('Week Day', fontsize=18)
     cadence.set_ylabels('Average Cadence', fontsize=18)
