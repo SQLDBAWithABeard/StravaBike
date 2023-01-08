@@ -40,6 +40,7 @@ def resetSplits():
     encryptDatabase()
 
 def getLastDate():
+    print('Getting last date')
     decryptDatabase()
     lastActivityDate = '1970-01-01T00:00:00Z'
     conn = sqlite3.connect('strava_temp.sqlite')
@@ -90,6 +91,7 @@ def decryptDatabase():
     if os.path.exists('strava_temp.sqlite'):
         print('Database already decrypted!  Skipping. . .')
     else:
+       # print('Looking for database and decrypting')
         if os.path.exists('strava.sqlite'):
             encFileSize = stat('strava.sqlite').st_size
             with open('strava.sqlite', 'rb') as fIn:
