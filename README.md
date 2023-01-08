@@ -1,11 +1,11 @@
-# Last Refreshed - 08 January, 2023 at 12:41:28
+# Last Refreshed - 08 January, 2023 at 13:21:14
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Race: STAGE 1: FLAT IS FAST—Tick Tock (D) on Tick Tock in Watopia</b> 
 
 which happened on 07 January, 2023 at 13:13:18 
 
-Which is 0 years, 0 months, 0 days, 23 hours and 28 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 0 hours and 7 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8352583648 
 
@@ -55,50 +55,10 @@ How does my average bike speed vary for rides that are outside by distance, by y
 
 ![Average Bike Speed Outside](AverageSpeedOutSide.png?raw=true "Average Bike Speed Outside")
 
-## Average Bike Speed Wherever
-How does my average bike speed vary for rides by distance, by year, and by type of ride?
-
-![AverageSpeed](AverageSpeed.png?raw=true "Average Bike Speed per Distance")
-
-## Average Cadence
-How does my average bike cadence vary for rides by distance, by year, and by type of ride?
-
-![AverageCadence](AverageCadence.png?raw=true "Average Cadence per Distance")
-
-## Average Power
-How does my average bike power vary for rides by distance, by year, and by type of ride?
-
-![AverageCadence](AveragePower.png?raw=true "Average Power per Distance")
-
-## Outside Rides Distance by day
-How far do I ride each day on average?
-
-![DistanceByDayRide](DistanceByDayRide.png?raw=true "DistanceByDayRide")
-
-## Cadence by day
-Does my cadence change by the day of the week?
-
-![CadenceByDay](CadenceByDay.png?raw=true "CadenceByDay")
-
-## Rides by day
-How far do I ride each day by Ride Type, by year, and by type of ride?
-
-![DistanceByDay](DistanceByDay.png?raw=true "DistanceByDay")
-
 ## How Long by How Far
 How far do I ride and how long does it take??
 
 ![Time_Taken_Distance](Time_Taken_Distance.png?raw=true "Time_Taken_Distance")
-
-## 5 mile buckets
-How many times do I ride in each 5 mile bucket for all activities?
-
-![Number_of_Activities_per_Distance](Number_of_Activities_per_Distance.png?raw=true "Number_of_Activities_per_Distance")
-
-## 5 mile buckets outside ?
-How many times do I ride in each 5 mile bucket outside??
-
-![Number_of_Rides_per_Distance](Number_of_Rides_per_Distance.png?raw=true "Number_of_Rides_per_Distance")
 
 ## Each Week Distance for 2023 ?
 How far did I ride each week in 2023 ??
