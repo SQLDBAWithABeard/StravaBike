@@ -43,7 +43,7 @@ def generateReadme():
     # visualiseData.GetRideDistanceByWeek(AllRides19)
     # visualiseData.GetRideDistanceByWeek(AllRides20)
     # visualiseData.GetRideDistanceByWeek(AllRides21)
-    visualiseData.GetRideDistanceByWeek(AllRides22)
+    # visualiseData.GetRideDistanceByWeek(AllRides22)
     visualiseData.GetRideDistanceByWeek(AllRides23)
 
     now = datetime.now()
