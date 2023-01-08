@@ -6,7 +6,7 @@ import matplotlib
 import matplotlib.pylab
 import databaseAccess
 import matplotlib.pyplot as plt
-from IPython.display import display
+#from IPython.display import display
 
 # py -c 'import visualiseData; visualiseData.getFastestTimes()'
 def getFastestTimes():
