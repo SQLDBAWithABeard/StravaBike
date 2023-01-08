@@ -478,14 +478,14 @@ def GetRideDistanceByYear(activities):
             'EBike_Miles',
             'VirtualRide_Miles',
             'AllMiles'
-    ]]
+    ]].copy()
     miles.rename(columns={'Ride_Miles' : 'Ride Miles', 'EBike_Miles' : 'E-Bike Miles', 'VirtualRide_Miles' : 'Virtual Miles', 'AllMiles' : 'Total Miles'}, inplace=True)
     rides = df[[
             'NoOutsideRides',
             'NoEBikes',
             'NoVirtual',
             'AllRides'
-    ]]
+    ]].copy()
     rides.rename(columns={'NoOutsideRides' : 'Rides', 'NoEBikes' : 'E-Bike', 'NoVirtual' : 'Virtual', 'AllRides' : 'Total Rides'}, inplace=True)
     return miles,rides
 
