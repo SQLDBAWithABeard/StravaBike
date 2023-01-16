@@ -1,11 +1,11 @@
-# Last Refreshed - 16 January, 2023 at 07:33:01
+# Last Refreshed - 16 January, 2023 at 09:33:07
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Race: STAGE 1: FLAT IS FAST—Tick Tock (D) on Tick Tock in Watopia</b> 
 
 which happened on 08 January, 2023 at 17:13:15 
 
-Which is 0 years, 0 months, 7 days, 14 hours and 19 minutes since the last refresh! 
+Which is 0 years, 0 months, 7 days, 16 hours and 19 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8359949812 
 
