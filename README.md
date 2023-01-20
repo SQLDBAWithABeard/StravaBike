@@ -1,11 +1,11 @@
-# Last Refreshed - 19 January, 2023 at 18:36:28
+# Last Refreshed - 20 January, 2023 at 07:33:11
 The Latest Activity was a Ride - 
 
 <b>NBD - Short because it's icy - no it doesn't know what colour it is </b> 
 
 which happened on 19 January, 2023 at 14:03:39 
 
-Which is 0 years, 0 months, 0 days, 4 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 29 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8417768746 
 
