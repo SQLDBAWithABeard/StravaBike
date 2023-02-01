@@ -1,11 +1,11 @@
-# Last Refreshed - 31 January, 2023 at 18:34:41
+# Last Refreshed - 01 February, 2023 at 07:32:51
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Tour de Zwift 2023 | Stage 6 | Ride, Standard on Climber's Gambit in Watopia</b> 
 
 which happened on 29 January, 2023 at 17:02:38 
 
-Which is 0 years, 0 months, 2 days, 1 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 14 hours and 30 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8473216745 
 
