@@ -1,11 +1,11 @@
-# Last Refreshed - 03 February, 2023 at 15:33:16
+# Last Refreshed - 03 February, 2023 at 18:34:56
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Tour de Zwift 2023 | Stage 8 | Ride, Standard on Rolling Highlands in </b> 
 
 which happened on 03 February, 2023 at 09:01:34 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 31 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 9 hours and 33 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8497130989 
 
