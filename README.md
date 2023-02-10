@@ -1,11 +1,11 @@
-# Last Refreshed - 10 February, 2023 at 15:33:37
+# Last Refreshed - 10 February, 2023 at 18:35:25
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Country to Coastal in Makuri Islands with Coco</b> 
 
 which happened on 09 February, 2023 at 18:38:11 
 
-Which is 0 years, 0 months, 0 days, 20 hours and 55 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 57 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8533529382 
 
