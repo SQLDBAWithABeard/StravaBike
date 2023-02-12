@@ -1,11 +1,11 @@
-# Last Refreshed - 12 February, 2023 at 07:32:59
+# Last Refreshed - 12 February, 2023 at 12:41:42
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Tour Of Tewit Well in Yorkshire</b> 
 
 which happened on 10 February, 2023 at 18:12:17 
 
-Which is 0 years, 0 months, 1 days, 13 hours and 20 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 18 hours and 29 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8538605115 
 
