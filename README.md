@@ -1,11 +1,11 @@
-# Last Refreshed - 25 February, 2023 at 18:34:43
+# Last Refreshed - 26 February, 2023 at 07:32:53
 The Latest Activity was a Ride - 
 
 <b>Lunch Ride</b> 
 
 which happened on 25 February, 2023 at 11:57:29 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 37 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 19 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8619144864 
 
