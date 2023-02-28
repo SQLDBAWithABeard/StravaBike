@@ -1,11 +1,11 @@
-# Last Refreshed - 28 February, 2023 at 12:43:39
+# Last Refreshed - 28 February, 2023 at 15:34:09
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: 6Points Mallorca Sunday Training Ride (C) on Libby Hill After Party in Richmond</b> 
 
 which happened on 26 February, 2023 at 11:40:26 
 
-Which is 0 years, 0 months, 2 days, 1 hours and 3 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 3 hours and 53 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8625350947 
 
