@@ -1,11 +1,11 @@
-# Last Refreshed - 02 March, 2023 at 09:33:14
+# Last Refreshed - 02 March, 2023 at 12:43:42
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Roll with Castelli Epic (C) on Road to Sky in Watopia</b> 
 
 which happened on 28 February, 2023 at 18:25:49 
 
-Which is 0 years, 0 months, 1 days, 15 hours and 7 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 18 hours and 17 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8637854766 
 
