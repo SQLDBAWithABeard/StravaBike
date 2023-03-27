@@ -1,11 +1,11 @@
-# Last Refreshed - 27 March, 2023 at 09:32:48
+# Last Refreshed - 27 March, 2023 at 15:33:09
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Tour of Watopia 2023 | Stage 3 | Long Route on Quatch Quest in Watopia</b> 
 
 which happened on 26 March, 2023 at 12:03:38 
 
-Which is 0 years, 0 months, 0 days, 21 hours and 29 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 3 hours and 29 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8780748980 
 
