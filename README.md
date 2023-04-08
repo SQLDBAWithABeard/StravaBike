@@ -1,11 +1,11 @@
-# Last Refreshed - 07 April, 2023 at 18:32:48
+# Last Refreshed - 08 April, 2023 at 12:39:10
 The Latest Activity was a Ride - 
 
 <b>That didn't go as planned</b> 
 
 which happened on 07 April, 2023 at 12:40:50 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 51 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 58 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8849383086 
 
