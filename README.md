@@ -1,11 +1,11 @@
-# Last Refreshed - 17 April, 2023 at 18:32:13
+# Last Refreshed - 18 April, 2023 at 09:34:48
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Workout: Aerobic Rev Up on Rolling Highlands in Scotland</b> 
 
 which happened on 17 April, 2023 at 18:01:07 
 
-Which is 0 years, 0 months, 0 days, 0 hours and 31 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 33 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8908098886 
 
