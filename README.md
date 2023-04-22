@@ -1,11 +1,11 @@
-# Last Refreshed - 21 April, 2023 at 18:31:56
+# Last Refreshed - 22 April, 2023 at 09:31:34
 The Latest Activity was a Ride - 
 
 <b>Have gravel bike, got mucky</b> 
 
 which happened on 20 April, 2023 at 15:58:13 
 
-Which is 0 years, 0 months, 1 days, 2 hours and 33 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 17 hours and 33 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8925714466 
 
