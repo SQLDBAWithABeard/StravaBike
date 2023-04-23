@@ -1,11 +1,11 @@
-# Last Refreshed - 22 April, 2023 at 18:31:38
+# Last Refreshed - 23 April, 2023 at 09:31:36
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Downtown Titans in Watopia</b> 
 
 which happened on 22 April, 2023 at 11:59:55 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 31 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 21 hours and 31 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8935758252 
 
