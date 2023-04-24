@@ -1,11 +1,11 @@
-# Last Refreshed - 24 April, 2023 at 09:31:42
+# Last Refreshed - 24 April, 2023 at 18:32:10
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Workout: Orange Unicorn (E) on Park Perimeter Loop in New York</b> 
 
 which happened on 23 April, 2023 at 16:05:02 
 
-Which is 0 years, 0 months, 0 days, 17 hours and 26 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 2 hours and 27 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/8944025523 
 
