@@ -1,11 +1,11 @@
-# Last Refreshed - 04 May, 2023 at 18:31:54
+# Last Refreshed - 05 May, 2023 at 09:32:01
 The Latest Activity was a Ride - 
 
 <b>Weather terrible.  Fresh air required</b> 
 
 which happened on 04 May, 2023 at 15:50:34 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 41 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 41 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9009767865 
 
