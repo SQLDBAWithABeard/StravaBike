@@ -1,11 +1,11 @@
-# Last Refreshed - 05 May, 2023 at 18:31:39
+# Last Refreshed - 06 May, 2023 at 09:31:39
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Zwift Spring Training | VO2 Blast in New York</b> 
 
 which happened on 05 May, 2023 at 16:28:16 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 3 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 3 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9015982742 
 
