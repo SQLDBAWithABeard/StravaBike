@@ -1,11 +1,11 @@
-# Last Refreshed - 06 May, 2023 at 18:31:34
+# Last Refreshed - 07 May, 2023 at 09:31:41
 The Latest Activity was a Ride - 
 
 <b>I'm no king, but I rode with my queen</b> 
 
 which happened on 06 May, 2023 at 13:37:40 
 
-Which is 0 years, 0 months, 0 days, 4 hours and 53 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 19 hours and 54 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9021877014 
 
