@@ -1,11 +1,11 @@
-# Last Refreshed - 09 May, 2023 at 18:31:53
+# Last Refreshed - 10 May, 2023 at 09:31:32
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Tick Tock in Watopia with Maria</b> 
 
 which happened on 09 May, 2023 at 17:14:26 
 
-Which is 0 years, 0 months, 0 days, 1 hours and 17 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 16 hours and 17 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9040637748 
 
