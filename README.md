@@ -1,11 +1,11 @@
-# Last Refreshed - 11 May, 2023 at 18:31:55
+# Last Refreshed - 12 May, 2023 at 09:31:40
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Workout: Over, Under and Beyond on Two Village Loop in Makuri Islands</b> 
 
 which happened on 11 May, 2023 at 18:03:19 
 
-Which is 0 years, 0 months, 0 days, 0 hours and 28 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 28 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9053241167 
 
