@@ -1,11 +1,11 @@
-# Last Refreshed - 31 May, 2023 at 18:31:37
+# Last Refreshed - 01 June, 2023 at 09:31:48
 The Latest Activity was a Ride - 
 
 <b>Awesome signs</b> 
 
 which happened on 28 May, 2023 at 11:52:58 
 
-Which is 0 years, 0 months, 3 days, 6 hours and 38 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 21 hours and 38 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9156968574 
 
