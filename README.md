@@ -1,11 +1,11 @@
-# Last Refreshed - 14 June, 2023 at 18:31:31
+# Last Refreshed - 15 June, 2023 at 09:31:45
 The Latest Activity was a Ride - 
 
 <b>Many many many midges</b> 
 
 which happened on 13 June, 2023 at 18:41:42 
 
-Which is 0 years, 0 months, 0 days, 23 hours and 49 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 14 hours and 50 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9259768831 
 
