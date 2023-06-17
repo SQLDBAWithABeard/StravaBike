@@ -1,11 +1,11 @@
-# Last Refreshed - 16 June, 2023 at 18:31:51
+# Last Refreshed - 17 June, 2023 at 09:31:46
 The Latest Activity was a Ride - 
 
 <b>Evening ride with Roses and Swan stop </b> 
 
 which happened on 15 June, 2023 at 18:59:37 
 
-Which is 0 years, 0 months, 0 days, 23 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 14 hours and 32 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9272471777 
 
