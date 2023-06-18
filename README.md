@@ -1,11 +1,11 @@
-# Last Refreshed - 17 June, 2023 at 18:31:53
+# Last Refreshed - 18 June, 2023 at 09:31:36
 The Latest Activity was a Ride - 
 
 <b>When riding in Prague. You should start in a thunderstorm!!!</b> 
 
 which happened on 17 June, 2023 at 12:35:00 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 56 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 20 hours and 56 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9283707665 
 
