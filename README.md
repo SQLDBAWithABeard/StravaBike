@@ -1,11 +1,11 @@
-# Last Refreshed - 19 June, 2023 at 09:31:53
+# Last Refreshed - 19 June, 2023 at 18:31:50
 The Latest Activity was a Ride - 
 
 <b>Went north by the river today from Prague. Very hot. </b> 
 
 which happened on 18 June, 2023 at 07:31:29 
 
-Which is 0 years, 0 months, 1 days, 2 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 11 hours and 0 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9289144827 
 
