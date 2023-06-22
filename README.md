@@ -1,11 +1,11 @@
-# Last Refreshed - 21 June, 2023 at 18:31:41
+# Last Refreshed - 22 June, 2023 at 09:31:33
 The Latest Activity was a Ride - 
 
 <b>PSConfEU evening ride</b> 
 
 which happened on 19 June, 2023 at 19:13:01 
 
-Which is 0 years, 0 months, 1 days, 23 hours and 18 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 14 hours and 18 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9296885159 
 
