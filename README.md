@@ -1,11 +1,11 @@
-# Last Refreshed - 24 June, 2023 at 18:33:55
+# Last Refreshed - 25 June, 2023 at 09:31:43
 The Latest Activity was a Ride - 
 
 <b>Out for a spin, the drivers were grumpy</b> 
 
 which happened on 24 June, 2023 at 12:52:24 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 41 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 20 hours and 39 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9326002155 
 
