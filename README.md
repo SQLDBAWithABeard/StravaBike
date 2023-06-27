@@ -1,11 +1,11 @@
-# Last Refreshed - 26 June, 2023 at 09:31:58
+# Last Refreshed - 27 June, 2023 at 09:32:00
 The Latest Activity was a Ride - 
 
 <b>Windy sunny Sunday afternoon</b> 
 
 which happened on 25 June, 2023 at 12:41:46 
 
-Which is 0 years, 0 months, 0 days, 20 hours and 50 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 20 hours and 50 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9332742889 
 
