@@ -1,11 +1,11 @@
-# Last Refreshed - 07 July, 2023 at 18:33:54
+# Last Refreshed - 08 July, 2023 at 09:31:34
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Petit Boucle in France with Miguel</b> 
 
 which happened on 04 July, 2023 at 17:07:05 
 
-Which is 0 years, 0 months, 3 days, 1 hours and 26 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 16 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9387857523 
 
