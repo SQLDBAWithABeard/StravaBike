@@ -1,11 +1,11 @@
-# Last Refreshed - 11 July, 2023 at 09:31:51
+# Last Refreshed - 11 July, 2023 at 18:34:02
 The Latest Activity was a Ride - 
 
 <b>Birthday Lady wanted to ride to the seaside, so we rode to the seaside</b> 
 
 which happened on 09 July, 2023 at 12:58:33 
 
-Which is 0 years, 0 months, 1 days, 20 hours and 33 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 5 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9420485720 
 
