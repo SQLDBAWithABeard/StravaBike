@@ -1,11 +1,11 @@
-# Last Refreshed - 14 July, 2023 at 18:33:50
+# Last Refreshed - 15 July, 2023 at 09:31:37
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Climb Portal - Mont Saint-Michel in France</b> 
 
 which happened on 14 July, 2023 at 15:42:34 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 51 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 49 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9450190133 
 
