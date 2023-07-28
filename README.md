@@ -1,11 +1,11 @@
-# Last Refreshed - 27 July, 2023 at 18:32:17
+# Last Refreshed - 28 July, 2023 at 09:31:41
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: The HERD Thursday Social (D) on Tour Of Tewit Well in Yorkshire</b> 
 
 which happened on 27 July, 2023 at 18:20:02 
 
-Which is 0 years, 0 months, 0 days, 0 hours and 12 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 11 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9533018949 
 
