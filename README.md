@@ -1,11 +1,11 @@
-# Last Refreshed - 29 July, 2023 at 18:31:46
+# Last Refreshed - 30 July, 2023 at 09:31:55
 The Latest Activity was a Ride - 
 
 <b>Very windy but T wanted to explore</b> 
 
 which happened on 29 July, 2023 at 13:30:02 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 1 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 20 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9543965403 
 
