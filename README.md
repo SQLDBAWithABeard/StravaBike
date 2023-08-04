@@ -1,11 +1,11 @@
-# Last Refreshed - 03 August, 2023 at 18:31:59
+# Last Refreshed - 04 August, 2023 at 09:31:42
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Stage 1 - ZRS: Podium Rides - Loch Loop  (E) on Loch Loop in Scotland</b> 
 
 which happened on 31 July, 2023 at 16:05:41 
 
-Which is 0 years, 0 months, 3 days, 2 hours and 26 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 17 hours and 26 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9556368618 
 
