@@ -1,11 +1,11 @@
-# Last Refreshed - 04 August, 2023 at 18:31:49
+# Last Refreshed - 05 August, 2023 at 09:31:35
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: EVO CC Flux Ride [1.8 - 2.0w/kg avg] (D) on R.G.V. in France</b> 
 
 which happened on 04 August, 2023 at 17:00:02 
 
-Which is 0 years, 0 months, 0 days, 1 hours and 31 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 16 hours and 31 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9582597333 
 
