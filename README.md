@@ -1,11 +1,11 @@
-# Last Refreshed - 12 August, 2023 at 18:31:52
+# Last Refreshed - 13 August, 2023 at 09:31:52
 The Latest Activity was a VirtualRide - 
 
 <b>Watching the lionesses Zwift - Pacer Group Ride: Watopia's Waistband in Watopia with Bernie</b> 
 
 which happened on 12 August, 2023 at 11:06:18 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 25 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 22 hours and 25 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9631949874 
 
