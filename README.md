@@ -1,11 +1,11 @@
-# Last Refreshed - 20 August, 2023 at 18:32:13
+# Last Refreshed - 21 August, 2023 at 09:31:52
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Glasgow Crit Circuit in Scotland with Bernie</b> 
 
 which happened on 20 August, 2023 at 15:38:23 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 53 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 53 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9686514808 
 
