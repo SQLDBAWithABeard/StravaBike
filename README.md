@@ -1,11 +1,11 @@
-# Last Refreshed - 23 August, 2023 at 18:32:08
+# Last Refreshed - 24 August, 2023 at 09:31:51
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Volcano Circuit in Watopia with Miguel</b> 
 
 which happened on 21 August, 2023 at 18:19:16 
 
-Which is 0 years, 0 months, 2 days, 0 hours and 12 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 15 hours and 12 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9693240718 
 
