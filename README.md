@@ -1,11 +1,11 @@
-# Last Refreshed - 02 September, 2023 at 09:31:48
+# Last Refreshed - 02 September, 2023 at 18:31:51
 The Latest Activity was a EBikeRide - 
 
 <b>Oslo and then gravel. It was beautiful</b> 
 
 which happened on 31 August, 2023 at 10:11:44 
 
-Which is 0 years, 0 months, 1 days, 23 hours and 20 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 8 hours and 20 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9756484181 
 
