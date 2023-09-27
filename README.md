@@ -1,11 +1,11 @@
-# Last Refreshed - 26 September, 2023 at 18:32:20
+# Last Refreshed - 27 September, 2023 at 09:31:51
 The Latest Activity was a Ride - 
 
 <b>No Internet.  Grumpy.  Went for a ride. Felt better</b> 
 
 which happened on 25 September, 2023 at 10:59:23 
 
-Which is 0 years, 0 months, 1 days, 7 hours and 32 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 22 hours and 32 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9917550428 
 
