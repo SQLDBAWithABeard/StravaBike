@@ -1,11 +1,11 @@
-# Last Refreshed - 01 October, 2023 at 18:32:03
+# Last Refreshed - 02 October, 2023 at 09:31:45
 The Latest Activity was a Ride - 
 
 <b>Moonlit start, real quiet.</b> 
 
 which happened on 30 September, 2023 at 06:19:21 
 
-Which is 0 years, 0 months, 1 days, 12 hours and 12 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 3 hours and 12 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9947085085 
 
