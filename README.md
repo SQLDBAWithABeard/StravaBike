@@ -1,11 +1,11 @@
-# Last Refreshed - 07 October, 2023 at 09:31:54
+# Last Refreshed - 07 October, 2023 at 18:31:57
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Tour of Watopia Ride 2023 | Stage 1 | Short on Ocean Lava Cliffside Loop in Watopia</b> 
 
 which happened on 03 October, 2023 at 15:02:22 
 
-Which is 0 years, 0 months, 3 days, 18 hours and 29 minutes since the last refresh! 
+Which is 0 years, 0 months, 4 days, 3 hours and 29 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/9968831618 
 
