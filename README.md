@@ -1,11 +1,11 @@
-# Last Refreshed - 20 October, 2023 at 09:31:54
+# Last Refreshed - 20 October, 2023 at 18:31:54
 The Latest Activity was a Ride - 
 
 <b>Mrs Beard first human only powered ride</b> 
 
 which happened on 08 October, 2023 at 13:12:21 
 
-Which is 0 years, 0 months, 11 days, 20 hours and 19 minutes since the last refresh! 
+Which is 0 years, 0 months, 12 days, 5 hours and 19 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10000375981 
 
