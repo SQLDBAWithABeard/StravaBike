@@ -1,11 +1,11 @@
-# Last Refreshed - 21 October, 2023 at 18:31:51
+# Last Refreshed - 22 October, 2023 at 09:31:44
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Eastern Eight in Watopia</b> 
 
 which happened on 21 October, 2023 at 12:56:17 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 35 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 20 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10077705029 
 
