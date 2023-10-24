@@ -1,11 +1,11 @@
-# Last Refreshed - 24 October, 2023 at 09:31:54
+# Last Refreshed - 24 October, 2023 at 18:32:35
 The Latest Activity was a Ride - 
 
 <b>Afternoon Ride</b> 
 
 which happened on 22 October, 2023 at 13:10:32 
 
-Which is 0 years, 0 months, 1 days, 20 hours and 21 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 5 hours and 22 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10083961490 
 
