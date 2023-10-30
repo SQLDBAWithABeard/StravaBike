@@ -1,11 +1,11 @@
-# Last Refreshed - 29 October, 2023 at 18:31:42
+# Last Refreshed - 30 October, 2023 at 09:31:50
 The Latest Activity was a Ride - 
 
 <b>Windy beat the rain ride</b> 
 
 which happened on 29 October, 2023 at 10:08:07 
 
-Which is 0 years, 0 months, 0 days, 8 hours and 23 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 23 hours and 23 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10125211654 
 
