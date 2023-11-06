@@ -1,11 +1,11 @@
-# Last Refreshed - 05 November, 2023 at 18:31:35
+# Last Refreshed - 06 November, 2023 at 09:31:42
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Z2 Cadence Changes in Watopia</b> 
 
 which happened on 05 November, 2023 at 15:24:52 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 6 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 6 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10165964485 
 
