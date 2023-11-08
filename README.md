@@ -1,11 +1,11 @@
-# Last Refreshed - 07 November, 2023 at 18:32:19
+# Last Refreshed - 08 November, 2023 at 09:31:40
 The Latest Activity was a VirtualRide - 
 
 <b>Shiny new bike earnt. Zwift - The Long Ride in Innsbruck</b> 
 
 which happened on 07 November, 2023 at 16:06:22 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 25 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 25 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10177482039 
 
