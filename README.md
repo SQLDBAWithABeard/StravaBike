@@ -1,11 +1,11 @@
-# Last Refreshed - 13 November, 2023 at 18:32:24
+# Last Refreshed - 14 November, 2023 at 09:31:34
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Stage 1:  World Tour - Movistar Team (E) on 2015 UCI Worlds Course in Richmond</b> 
 
 which happened on 13 November, 2023 at 16:05:01 
 
-Which is 0 years, 0 months, 0 days, 2 hours and 27 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 26 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10211970952 
 
