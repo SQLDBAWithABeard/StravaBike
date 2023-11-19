@@ -1,11 +1,11 @@
-# Last Refreshed - 19 November, 2023 at 09:31:30
+# Last Refreshed - 19 November, 2023 at 18:31:34
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: PACK SUB2 Saturday + KOM After Party (D) on Flatland Loop in Makuri Islands</b> 
 
 which happened on 18 November, 2023 at 15:55:43 
 
-Which is 0 years, 0 months, 0 days, 17 hours and 35 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 2 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10240875363 
 
