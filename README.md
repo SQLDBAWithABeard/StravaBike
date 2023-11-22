@@ -1,11 +1,11 @@
-# Last Refreshed - 21 November, 2023 at 18:33:18
+# Last Refreshed - 22 November, 2023 at 09:31:36
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - EF Pro Cycling's Red Day Workout in Watopia</b> 
 
 which happened on 19 November, 2023 at 17:50:08 
 
-Which is 0 years, 0 months, 2 days, 0 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 15 hours and 41 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10247659035 
 
