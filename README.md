@@ -1,11 +1,11 @@
-# Last Refreshed - 27 November, 2023 at 09:31:41
+# Last Refreshed - 28 November, 2023 at 09:31:34
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Pride Ride (D) on Watopia's Waistband in Watopia</b> 
 
 which happened on 26 November, 2023 at 15:30:02 
 
-Which is 0 years, 0 months, 0 days, 18 hours and 1 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 18 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10285968435 
 
