@@ -1,11 +1,11 @@
-# Last Refreshed - 29 November, 2023 at 18:32:13
+# Last Refreshed - 30 November, 2023 at 18:32:33
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Love Riding's 2.0wkg Coffee Ride on Coast Crusher in Watopia</b> 
 
 which happened on 28 November, 2023 at 17:10:02 
 
-Which is 0 years, 0 months, 1 days, 1 hours and 22 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 1 hours and 22 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10296525644 
 
