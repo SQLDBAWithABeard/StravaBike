@@ -1,11 +1,11 @@
-# Last Refreshed - 01 December, 2023 at 18:32:38
+# Last Refreshed - 02 December, 2023 at 09:31:35
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Feast Fondo on Casse-Pattes in France</b> 
 
 which happened on 01 December, 2023 at 14:02:35 
 
-Which is 0 years, 0 months, 0 days, 4 hours and 30 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 19 hours and 29 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10311605221 
 
