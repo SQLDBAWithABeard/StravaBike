@@ -1,11 +1,11 @@
-# Last Refreshed - 03 December, 2023 at 18:31:40
+# Last Refreshed - 04 December, 2023 at 09:31:43
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: KISS Endurance Ride (D) on R.G.V. in France</b> 
 
 which happened on 03 December, 2023 at 09:04:22 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 27 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 0 hours and 27 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10320566588 
 
