@@ -1,11 +1,11 @@
-# Last Refreshed - 19 December, 2023 at 18:31:38
+# Last Refreshed - 20 December, 2023 at 10:48:53
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Sugar Cookie in Watopia with Maria</b> 
 
 which happened on 19 December, 2023 at 17:21:05 
 
-Which is 0 years, 0 months, 0 days, 1 hours and 10 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 17 hours and 27 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10405845198 
 
