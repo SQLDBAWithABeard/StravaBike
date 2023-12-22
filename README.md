@@ -1,11 +1,11 @@
-# Last Refreshed - 21 December, 2023 at 23:34:10
+# Last Refreshed - 22 December, 2023 at 23:34:14
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: GXY LOOSEY GOOSEY [1.6-2.0WKG] CAT D (D) on R.G.V. in France</b> 
 
 which happened on 20 December, 2023 at 16:45:02 
 
-Which is 0 years, 0 months, 1 days, 6 hours and 49 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 6 hours and 49 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10410848275 
 
