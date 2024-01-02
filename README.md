@@ -1,13 +1,13 @@
-# Last Refreshed - 01 January, 2024 at 23:34:14
+# Last Refreshed - 02 January, 2024 at 23:34:22
 The Latest Activity was a VirtualRide - 
 
-<b>Zwift - Pacer Group Ride: Island Hopper in Makuri Islands with Bernie</b> 
+<b>Zwift - Pacer Group Ride: Triple Flat Loops in Watopia with Bernie</b> 
 
-which happened on 01 January, 2024 at 11:36:02 
+which happened on 02 January, 2024 at 15:35:47 
 
-Which is 0 years, 0 months, 0 days, 11 hours and 58 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 58 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/10472901636 
+You can see it here https://www.strava.com/activities/10480210880 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -21,7 +21,7 @@ How many rides have I done each year?
 |   2021 |     103 |       18 |        95 |           216 |
 |   2022 |      73 |       66 |        49 |           188 |
 |   2023 |      83 |        2 |       105 |           190 |
-|   2024 |       0 |        0 |         1 |             1 |
+|   2024 |       0 |        0 |         2 |             2 |
 
 ## Distance Travelled
 
@@ -36,7 +36,7 @@ How many miles have I ridden?
 |   2021 |      2317.61 |         349.92 |         1228.45 |       3895.98 |
 |   2022 |      1489.5  |        1363.83 |          561.84 |       3415.17 |
 |   2023 |      1662.39 |          45.99 |         1654.89 |       3363.27 |
-|   2024 |         0    |           0    |            8.73 |          8.73 |
+|   2024 |         0    |           0    |           28.06 |         28.06 |
 
 ## Elevation Climbed
 
@@ -51,7 +51,7 @@ How many metres have I climbed?
 |   2021 |          43499.4 |             9272.8 |               12630 |           65402.2 |
 |   2022 |          29870.2 |            33654.2 |                8693 |           72217.4 |
 |   2023 |          31602   |             1099   |               23914 |           56615   |
-|   2024 |              0   |                0   |                 102 |             102   |
+|   2024 |              0   |                0   |                 238 |             238   |
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
