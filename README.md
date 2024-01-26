@@ -1,11 +1,11 @@
-# Last Refreshed - 25 January, 2024 at 23:34:16
+# Last Refreshed - 26 January, 2024 at 23:35:02
 The Latest Activity was a VirtualRide - 
 
 <b>HR2VP - Cycling</b> 
 
 which happened on 25 January, 2024 at 05:07:13 
 
-Which is 0 years, 0 months, 0 days, 18 hours and 27 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 18 hours and 27 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10624641784 
 
