@@ -1,11 +1,11 @@
-# Last Refreshed - 13 February, 2024 at 23:34:00
+# Last Refreshed - 14 February, 2024 at 23:34:14
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: Love Riding's 2.0wkg Coffee Ride (D) on Triple Flat Loops in Watopia</b> 
 
 which happened on 13 February, 2024 at 17:10:02 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 23 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10755209504 
 
