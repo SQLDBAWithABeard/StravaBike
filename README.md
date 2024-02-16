@@ -1,11 +1,11 @@
-# Last Refreshed - 15 February, 2024 at 23:34:07
+# Last Refreshed - 16 February, 2024 at 23:34:43
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Volcano Circuit in Watopia with Bernie</b> 
 
 which happened on 15 February, 2024 at 17:39:36 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 54 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 55 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10768452113 
 
