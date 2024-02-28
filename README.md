@@ -1,11 +1,11 @@
-# Last Refreshed - 27 February, 2024 at 23:35:08
+# Last Refreshed - 28 February, 2024 at 23:33:56
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Volcano Flat in Watopia with Miguel</b> 
 
 which happened on 27 February, 2024 at 17:01:24 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 33 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 32 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10848778653 
 
