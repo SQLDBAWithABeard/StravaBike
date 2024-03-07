@@ -1,11 +1,11 @@
-# Last Refreshed - 06 March, 2024 at 23:33:58
+# Last Refreshed - 07 March, 2024 at 23:34:02
 The Latest Activity was a Ride - 
 
 <b>Sunshine was lovely.  20% was less lovely</b> 
 
 which happened on 06 March, 2024 at 13:38:51 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 55 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 9 hours and 55 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/10903259118 
 
