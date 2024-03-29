@@ -1,11 +1,11 @@
-# Last Refreshed - 28 March, 2024 at 23:34:11
+# Last Refreshed - 29 March, 2024 at 23:34:07
 The Latest Activity was a VirtualRide - 
 
 <b>72 days to go Zwift - Tempo #1 in New York</b> 
 
 which happened on 28 March, 2024 at 15:46:56 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 7 hours and 47 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11056182262 
 
