@@ -1,11 +1,11 @@
-# Last Refreshed - 02 May, 2024 at 23:34:51
+# Last Refreshed - 03 May, 2024 at 23:34:44
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Zwift Pro Training Camp: Jumbo-Visma | Men's Team in Watopia</b> 
 
 which happened on 02 May, 2024 at 17:14:30 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 20 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 20 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11316687502 
 
