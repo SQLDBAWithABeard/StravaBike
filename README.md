@@ -1,11 +1,11 @@
-# Last Refreshed - 05 May, 2024 at 23:34:25
+# Last Refreshed - 06 May, 2024 at 23:34:10
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Climb Portal: Mt Fuji at 100% Elevation in France</b> 
 
 which happened on 05 May, 2024 at 15:34:09 
 
-Which is 0 years, 0 months, 0 days, 8 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 8 hours and 0 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11340287446 
 
