@@ -1,11 +1,11 @@
-# Last Refreshed - 09 May, 2024 at 23:34:23
+# Last Refreshed - 10 May, 2024 at 23:34:13
 The Latest Activity was a Ride - 
 
 <b>Had a bad day? Bike. However,  ride angry and you'll  find yourself further away than you intended!</b> 
 
 which happened on 09 May, 2024 at 16:55:45 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 38 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 38 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11372005187 
 
