@@ -1,11 +1,11 @@
-# Last Refreshed - 28 May, 2024 at 23:34:03
+# Last Refreshed - 29 May, 2024 at 23:34:23
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Tempus Fugit in Watopia with Bernie</b> 
 
 which happened on 28 May, 2024 at 19:37:27 
 
-Which is 0 years, 0 months, 0 days, 3 hours and 56 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 3 hours and 56 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11519799725 
 
