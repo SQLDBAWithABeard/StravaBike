@@ -1,11 +1,11 @@
-# Last Refreshed - 02 June, 2024 at 23:34:03
+# Last Refreshed - 03 June, 2024 at 23:34:13
 The Latest Activity was a Ride - 
 
 <b>gentle Sunday afternoon ride with milkshake</b> 
 
 which happened on 02 June, 2024 at 12:37:18 
 
-Which is 0 years, 0 months, 0 days, 10 hours and 56 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 10 hours and 56 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11556104383 
 
