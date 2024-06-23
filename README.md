@@ -1,11 +1,11 @@
-# Last Refreshed - 22 June, 2024 at 23:34:05
+# Last Refreshed - 23 June, 2024 at 23:34:13
 The Latest Activity was a Ride - 
 
 <b>Up hill and down dale. Into wind and some rain.</b> 
 
 which happened on 22 June, 2024 at 08:07:23 
 
-Which is 0 years, 0 months, 0 days, 15 hours and 26 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 15 hours and 26 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11710626559 
 
