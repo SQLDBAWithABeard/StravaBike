@@ -1,11 +1,11 @@
-# Last Refreshed - 18 July, 2024 at 23:34:26
+# Last Refreshed - 19 July, 2024 at 23:34:00
 The Latest Activity was a Ride - 
 
 <b>Finally sunshine in July!!</b> 
 
 which happened on 18 July, 2024 at 17:42:56 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 51 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 51 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11921472993 
 
