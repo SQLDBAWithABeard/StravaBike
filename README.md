@@ -1,11 +1,11 @@
-# Last Refreshed - 23 July, 2024 at 23:34:37
+# Last Refreshed - 24 July, 2024 at 23:34:00
 The Latest Activity was a Ride - 
 
 <b>Doing the needful and riding in the sunset</b> 
 
 which happened on 23 July, 2024 at 19:17:06 
 
-Which is 0 years, 0 months, 0 days, 4 hours and 17 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 4 hours and 16 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/11963670101 
 
