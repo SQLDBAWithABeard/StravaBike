@@ -1,11 +1,11 @@
-# Last Refreshed - 06 September, 2024 at 23:34:42
+# Last Refreshed - 07 September, 2024 at 23:34:34
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Pacer Group Ride: Greatest London Flat in London with Miguel</b> 
 
 which happened on 06 September, 2024 at 17:08:22 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 26 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 26 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12342393749 
 
