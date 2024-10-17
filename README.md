@@ -1,11 +1,11 @@
-# Last Refreshed - 16 October, 2024 at 23:34:37
+# Last Refreshed - 17 October, 2024 at 23:34:27
 The Latest Activity was a Ride - 
 
 <b>Before the presentation,  go for a ride</b> 
 
 which happened on 16 October, 2024 at 14:26:04 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 8 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 9 hours and 8 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12670082788 
 
