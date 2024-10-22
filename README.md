@@ -1,11 +1,11 @@
-# Last Refreshed - 21 October, 2024 at 23:34:44
+# Last Refreshed - 22 October, 2024 at 23:34:20
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Jungle Circuit in Watopia</b> 
 
 which happened on 20 October, 2024 at 14:51:54 
 
-Which is 0 years, 0 months, 1 days, 8 hours and 42 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 8 hours and 42 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12701802125 
 
