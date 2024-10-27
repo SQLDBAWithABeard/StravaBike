@@ -1,11 +1,11 @@
-# Last Refreshed - 26 October, 2024 at 23:34:23
+# Last Refreshed - 27 October, 2024 at 23:34:18
 The Latest Activity was a Ride - 
 
 <b>Take the Defy out in the sunshine Awesome Poppy Display</b> 
 
 which happened on 26 October, 2024 at 14:33:14 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 1 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 9 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12749643656 
 
