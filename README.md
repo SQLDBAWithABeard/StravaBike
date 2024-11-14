@@ -1,11 +1,11 @@
-# Last Refreshed - 13 November, 2024 at 23:39:09
+# Last Refreshed - 14 November, 2024 at 23:39:24
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: GCN Club Ride (E) on Castle to Castle in Makuri Islands</b> 
 
 which happened on 13 November, 2024 at 18:29:59 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 9 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 9 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12893881520 
 
