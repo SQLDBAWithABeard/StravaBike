@@ -1,11 +1,11 @@
-# Last Refreshed - 17 November, 2024 at 23:34:55
+# Last Refreshed - 18 November, 2024 at 23:34:33
 The Latest Activity was a VirtualRide - 
 
 <b>What else you going to do when it's raining? Watch deadpool and wolverine and ride Zwift - Navig8 in Watopia</b> 
 
 which happened on 17 November, 2024 at 15:28:41 
 
-Which is 0 years, 0 months, 0 days, 8 hours and 6 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 8 hours and 5 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12924061339 
 
