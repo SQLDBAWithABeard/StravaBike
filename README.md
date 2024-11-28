@@ -1,11 +1,11 @@
-# Last Refreshed - 27 November, 2024 at 23:34:41
+# Last Refreshed - 28 November, 2024 at 23:34:34
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: GCN Club Ride (E) on The Fan Flats in Richmond</b> 
 
 which happened on 20 November, 2024 at 18:32:30 
 
-Which is 0 years, 0 months, 7 days, 5 hours and 2 minutes since the last refresh! 
+Which is 0 years, 0 months, 8 days, 5 hours and 2 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/12946518108 
 
