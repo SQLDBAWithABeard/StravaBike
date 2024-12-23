@@ -1,11 +1,11 @@
-# Last Refreshed - 22 December, 2024 at 23:34:03
+# Last Refreshed - 23 December, 2024 at 23:34:03
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: ZSUN Base Builder 2 (D) on Big Flat 8 in Watopia</b> 
 
 which happened on 21 December, 2024 at 14:10:55 
 
-Which is 0 years, 0 months, 1 days, 9 hours and 23 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 9 hours and 23 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/13162100553 
 
