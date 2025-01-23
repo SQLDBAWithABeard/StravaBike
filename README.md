@@ -1,11 +1,11 @@
-# Last Refreshed - 22 January, 2025 at 23:34:04
+# Last Refreshed - 23 January, 2025 at 23:34:05
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: GCN Club Ride (E) on Greater London Flat in London</b> 
 
 which happened on 22 January, 2025 at 18:32:41 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 1 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/13425764531 
 
