@@ -1,11 +1,11 @@
-# Last Refreshed - 30 January, 2025 at 23:33:56
+# Last Refreshed - 31 January, 2025 at 23:33:59
 The Latest Activity was a VirtualRide - 
 
 <b>☁️ Zwift - Pacer Group Ride: Tick Tock in Watopia with Bernie</b> 
 
 which happened on 30 January, 2025 at 15:42:39 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 51 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 7 hours and 51 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/13493663854 
 
