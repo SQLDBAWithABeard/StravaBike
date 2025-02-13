@@ -1,11 +1,11 @@
-# Last Refreshed - 12 February, 2025 at 23:34:03
+# Last Refreshed - 13 February, 2025 at 23:34:13
 The Latest Activity was a VirtualRide - 
 
 <b>☁️ Zwift - Group Ride: Short | Stage 6 | Tour de Zwift on Coast to Coast in Watopia</b> 
 
 which happened on 11 February, 2025 at 16:02:48 
 
-Which is 0 years, 0 months, 1 days, 7 hours and 31 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 7 hours and 31 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/13600601526 
 
