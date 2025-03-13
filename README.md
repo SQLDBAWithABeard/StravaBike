@@ -1,11 +1,11 @@
-# Last Refreshed - 12 March, 2025 at 23:34:38
+# Last Refreshed - 13 March, 2025 at 23:34:11
 The Latest Activity was a VirtualRide - 
 
 <b>🌥️ Zwift - Group Ride: GCN Club Ride (E) on Sand And Sequoias in Watopia</b> 
 
 which happened on 12 March, 2025 at 18:29:59 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 4 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 4 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/13864797586 
 
