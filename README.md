@@ -1,11 +1,11 @@
-# Last Refreshed - 02 April, 2025 at 23:34:17
+# Last Refreshed - 03 April, 2025 at 23:35:23
 The Latest Activity was a Ride - 
 
 <b>🌥️Bit rainy but lovely Ride in Mallorca on holiday  Wednesday Morning Ride</b> 
 
 which happened on 02 April, 2025 at 09:20:59 
 
-Which is 0 years, 0 months, 0 days, 14 hours and 13 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 14 hours and 14 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14057172771 
 
