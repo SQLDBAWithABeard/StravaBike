@@ -1,11 +1,11 @@
-# Last Refreshed - 06 April, 2025 at 23:34:03
+# Last Refreshed - 07 April, 2025 at 23:35:08
 The Latest Activity was a Ride - 
 
 <b>☀️ last day in Mallorca Alcúdia Morning Ride</b> 
 
 which happened on 06 April, 2025 at 10:33:19 
 
-Which is 0 years, 0 months, 0 days, 13 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 13 hours and 1 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14097677873 
 
