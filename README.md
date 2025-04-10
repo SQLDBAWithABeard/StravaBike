@@ -1,11 +1,11 @@
-# Last Refreshed - 09 April, 2025 at 23:34:31
+# Last Refreshed - 10 April, 2025 at 23:34:43
 The Latest Activity was a VirtualRide - 
 
 <b>🌤️ Zwift - Group Ride: GCN Club Ride (E) on Loch Loop in Scotland</b> 
 
 which happened on 09 April, 2025 at 18:30:00 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 4 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 4 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14129765806 
 
