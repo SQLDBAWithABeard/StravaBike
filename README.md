@@ -1,11 +1,11 @@
-# Last Refreshed - 27 April, 2025 at 23:35:04
+# Last Refreshed - 28 April, 2025 at 23:34:39
 The Latest Activity was a Ride - 
 
 <b>☀️ Wonderful afternoon Ride and food and beer with Roman and Dzeko</b> 
 
 which happened on 27 April, 2025 at 13:04:23 
 
-Which is 0 years, 0 months, 0 days, 10 hours and 30 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 10 hours and 30 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14303570929 
 
