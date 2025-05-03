@@ -1,11 +1,11 @@
-# Last Refreshed - 02 May, 2025 at 23:34:45
+# Last Refreshed - 03 May, 2025 at 23:34:26
 The Latest Activity was a Ride - 
 
 <b>🌥️ Friday Afternoon Sunshine Ride</b> 
 
 which happened on 02 May, 2025 at 17:47:02 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 47 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14356891446 
 
