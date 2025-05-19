@@ -1,11 +1,11 @@
-# Last Refreshed - 18 May, 2025 at 23:34:58
+# Last Refreshed - 19 May, 2025 at 23:35:04
 The Latest Activity was a Ride - 
 
 <b>⛅ Somerset Morning Ride</b> 
 
 which happened on 18 May, 2025 at 10:52:57 
 
-Which is 0 years, 0 months, 0 days, 12 hours and 42 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 12 hours and 42 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14518038675 
 
