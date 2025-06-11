@@ -1,11 +1,11 @@
-# Last Refreshed - 10 June, 2025 at 23:35:21
+# Last Refreshed - 11 June, 2025 at 23:35:58
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Group Ride: The XP Express on Gotham Grind in New York</b> 
 
 which happened on 10 June, 2025 at 17:15:00 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 20 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 20 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14756742634 
 
