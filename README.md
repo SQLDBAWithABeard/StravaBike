@@ -1,11 +1,11 @@
-# Last Refreshed - 20 June, 2025 at 23:36:04
+# Last Refreshed - 21 June, 2025 at 23:35:00
 The Latest Activity was a Ride - 
 
 <b>⛅ Nice and cool Morning Ride</b> 
 
 which happened on 18 June, 2025 at 05:41:12 
 
-Which is 0 years, 0 months, 2 days, 17 hours and 54 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 17 hours and 53 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/14835750312 
 
