@@ -1,11 +1,11 @@
-# Last Refreshed - 13 August, 2025 at 23:36:02
+# Last Refreshed - 14 August, 2025 at 23:35:31
 The Latest Activity was a Ride - 
 
 <b>☁️ Gently, hoping some fitness returns Wednesday Afternoon Ride</b> 
 
 which happened on 13 August, 2025 at 16:11:28 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 24 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 7 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/15446652641 
 
