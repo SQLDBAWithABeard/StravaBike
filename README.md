@@ -1,11 +1,11 @@
-# Last Refreshed - 22 August, 2025 at 23:34:29
+# Last Refreshed - 23 August, 2025 at 23:34:47
 The Latest Activity was a Ride - 
 
 <b>🌤️ Magic blowy up Tyres on Friday Afternoon Ride</b> 
 
 which happened on 22 August, 2025 at 16:47:42 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 46 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 47 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/15549248802 
 
