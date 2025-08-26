@@ -1,11 +1,11 @@
-# Last Refreshed - 25 August, 2025 at 23:35:05
+# Last Refreshed - 26 August, 2025 at 23:34:20
 The Latest Activity was a Ride - 
 
 <b>☀️ the one with the roses Monday Evening Ride</b> 
 
 which happened on 25 August, 2025 at 18:00:56 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 34 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 33 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/15583856179 
 
