@@ -1,13 +1,13 @@
-# Last Refreshed - 29 August, 2025 at 23:34:22
-The Latest Activity was a Ride - 
+# Last Refreshed - 30 August, 2025 at 23:34:04
+The Latest Activity was a VirtualRide - 
 
-<b>🌥️ Friday ends the week is not the weekend Ride</b> 
+<b>🌦️ Zwift - Pacer Group Ride: Greatest London Flat in London with Bernie</b> 
 
-which happened on 29 August, 2025 at 17:41:03 
+which happened on 30 August, 2025 at 16:52:34 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 53 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 41 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/15629022405 
+You can see it here https://www.strava.com/activities/15639709882 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -22,7 +22,7 @@ How many rides have I done each year?
 |   2022 |      73 |       66 |        49 |           188 |
 |   2023 |      83 |        2 |       105 |           190 |
 |   2024 |     140 |        0 |       139 |           279 |
-|   2025 |      53 |        0 |        76 |           129 |
+|   2025 |      53 |        0 |        77 |           130 |
 
 ## Distance Travelled
 
@@ -38,7 +38,7 @@ How many miles have I ridden?
 |   2022 |      1489.5  |        1363.83 |          561.84 |       3415.17 |
 |   2023 |      1662.39 |          45.99 |         1654.89 |       3363.27 |
 |   2024 |      1922.48 |           0    |         2290.34 |       4212.82 |
-|   2025 |       948.53 |           0    |         1362.35 |       2310.88 |
+|   2025 |       948.53 |           0    |         1378.66 |       2327.19 |
 
 ## Elevation Climbed
 
@@ -54,7 +54,7 @@ How many metres have I climbed?
 |   2022 |          29870.2 |            33654.2 |              8693   |           72217.4 |
 |   2023 |          31602   |             1099   |             23914   |           56615   |
 |   2024 |          33822.7 |                0   |             28689.2 |           62511.9 |
-|   2025 |          14263.8 |                0   |             19080   |           33343.8 |
+|   2025 |          14263.8 |                0   |             19261   |           33524.8 |
 
 ## Average Bike Speed Outside
 How does my average bike speed vary for rides that are outside by distance, by year, and by type of ride?
