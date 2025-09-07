@@ -1,11 +1,11 @@
-# Last Refreshed - 06 September, 2025 at 23:34:16
+# Last Refreshed - 07 September, 2025 at 23:34:17
 The Latest Activity was a Ride - 
 
 <b>☁️ windy Saturday Lunch Ride</b> 
 
 which happened on 06 September, 2025 at 11:16:35 
 
-Which is 0 years, 0 months, 0 days, 12 hours and 17 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 12 hours and 17 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/15715748862 
 
