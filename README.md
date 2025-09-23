@@ -1,11 +1,11 @@
-# Last Refreshed - 22 September, 2025 at 23:34:13
+# Last Refreshed - 23 September, 2025 at 23:34:14
 The Latest Activity was a Ride - 
 
 <b>🌤️ Let's Ride in three countries he thought.  Morning Ride</b> 
 
 which happened on 21 September, 2025 at 07:29:58 
 
-Which is 0 years, 0 months, 1 days, 16 hours and 4 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 16 hours and 4 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/15888894087 
 
