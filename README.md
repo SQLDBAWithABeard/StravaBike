@@ -1,11 +1,11 @@
-# Last Refreshed - 12 October, 2025 at 23:34:18
+# Last Refreshed - 13 October, 2025 at 23:34:14
 The Latest Activity was a Ride - 
 
 <b>⛅ So nice to be back in the saddle even if I couldn't find my head unit</b> 
 
 which happened on 12 October, 2025 at 14:09:23 
 
-Which is 0 years, 0 months, 0 days, 9 hours and 24 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 9 hours and 24 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16119605212 
 
