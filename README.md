@@ -1,11 +1,11 @@
-# Last Refreshed - 17 October, 2025 at 23:34:11
+# Last Refreshed - 18 October, 2025 at 23:34:09
 The Latest Activity was a VirtualRide - 
 
 <b>⛅ Sweaty in Barcelona Zwift - Pacer Group Ride: Tempus Fugit in Watopia with Bernie</b> 
 
 which happened on 15 October, 2025 at 04:53:50 
 
-Which is 0 years, 0 months, 2 days, 18 hours and 40 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 18 hours and 40 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16144987892 
 
