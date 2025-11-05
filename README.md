@@ -1,11 +1,11 @@
-# Last Refreshed - 04 November, 2025 at 23:35:05
+# Last Refreshed - 05 November, 2025 at 23:35:08
 The Latest Activity was a VirtualRide - 
 
 <b>☀️ Zwift - Race: Stage 5 - Zwift Unlocked - Race (E) on The Double Borough in New York</b> 
 
 which happened on 04 November, 2025 at 17:14:19 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 20 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 20 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16354521924 
 
