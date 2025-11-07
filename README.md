@@ -1,11 +1,11 @@
-# Last Refreshed - 06 November, 2025 at 23:34:52
+# Last Refreshed - 07 November, 2025 at 23:34:17
 The Latest Activity was a VirtualRide - 
 
 <b>🌥️ Zwift - Green to Screen in New York</b> 
 
 which happened on 06 November, 2025 at 16:34:48 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 0 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 59 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16375857583 
 
