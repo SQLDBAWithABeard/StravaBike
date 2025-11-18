@@ -1,11 +1,11 @@
-# Last Refreshed - 17 November, 2025 at 23:35:21
+# Last Refreshed - 18 November, 2025 at 23:34:03
 The Latest Activity was a VirtualRide - 
 
 <b>⛅ Zwift - Scotland</b> 
 
 which happened on 17 November, 2025 at 16:41:46 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 53 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 6 hours and 52 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16486391360 
 
