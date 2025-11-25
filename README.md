@@ -1,11 +1,11 @@
-# Last Refreshed - 24 November, 2025 at 23:35:09
+# Last Refreshed - 25 November, 2025 at 23:35:02
 The Latest Activity was a VirtualRide - 
 
 <b>Zwift - Spinfinity Ultra in New York</b> 
 
 which happened on 22 November, 2025 at 15:35:31 
 
-Which is 0 years, 0 months, 2 days, 7 hours and 59 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 7 hours and 59 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16535647391 
 
