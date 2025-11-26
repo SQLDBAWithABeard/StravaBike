@@ -1,13 +1,13 @@
-# Last Refreshed - 25 November, 2025 at 23:35:02
-The Latest Activity was a VirtualRide - 
+# Last Refreshed - 26 November, 2025 at 23:34:42
+The Latest Activity was a Ride - 
 
-<b>Zwift - Spinfinity Ultra in New York</b> 
+<b>gym</b> 
 
-which happened on 22 November, 2025 at 15:35:31 
+which happened on 26 November, 2025 at 05:32:07 
 
-Which is 0 years, 0 months, 3 days, 7 hours and 59 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 2 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/16535647391 
+You can see it here https://www.strava.com/activities/16569103466 
 
 ## Number of Rides
 How many rides have I done each year?
@@ -22,7 +22,7 @@ How many rides have I done each year?
 |   2022 |      73 |       66 |        49 |           188 |
 |   2023 |      83 |        2 |       105 |           190 |
 |   2024 |     140 |        0 |       139 |           279 |
-|   2025 |      68 |        0 |       101 |           169 |
+|   2025 |      69 |        0 |       101 |           170 |
 
 ## Distance Travelled
 
@@ -38,7 +38,7 @@ How many miles have I ridden?
 |   2022 |      1489.5  |        1363.83 |          561.84 |       3415.17 |
 |   2023 |      1662.39 |          45.99 |         1654.89 |       3363.27 |
 |   2024 |      1922.48 |           0    |         2290.34 |       4212.82 |
-|   2025 |      1245.11 |           0    |         1737.51 |       2982.62 |
+|   2025 |      1251.95 |           0    |         1737.51 |       2989.46 |
 
 ## Elevation Climbed
 
