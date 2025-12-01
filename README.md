@@ -1,11 +1,11 @@
-# Last Refreshed - 30 November, 2025 at 23:35:02
+# Last Refreshed - 01 December, 2025 at 23:36:11
 The Latest Activity was a VirtualRide - 
 
 <b>⛅ Zwift - Group Ride: Off The MAAP 2025: Stage 1 on Keith Hill After Party in London</b> 
 
 which happened on 30 November, 2025 at 16:00:29 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 34 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 7 hours and 35 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16612466222 
 
