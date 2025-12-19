@@ -1,11 +1,11 @@
-# Last Refreshed - 18 December, 2025 at 23:35:58
+# Last Refreshed - 19 December, 2025 at 23:35:21
 The Latest Activity was a VirtualRide - 
 
 <b>🌥️ Zwift - Group Ride: GXY LOOSEY GOOSEY [1.6-2.0WKG] CAT D (D) on Big Flat 8 in Watopia</b> 
 
 which happened on 17 December, 2025 at 16:44:59 
 
-Which is 0 years, 0 months, 1 days, 6 hours and 50 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 6 hours and 50 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16769400847 
 
