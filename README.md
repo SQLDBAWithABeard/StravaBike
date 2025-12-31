@@ -1,11 +1,11 @@
-# Last Refreshed - 30 December, 2025 at 23:36:04
+# Last Refreshed - 31 December, 2025 at 23:36:02
 The Latest Activity was a VirtualRide - 
 
 <b>☁️ 392 - 504 #festive500 completed! Zwift - Loch Loop in Scotland</b> 
 
 which happened on 30 December, 2025 at 10:21:44 
 
-Which is 0 years, 0 months, 0 days, 13 hours and 14 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 13 hours and 14 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/16884713422 
 
