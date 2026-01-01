@@ -1,13 +1,13 @@
-# Last Refreshed - 31 December, 2025 at 23:36:02
+# Last Refreshed - 01 January, 2026 at 23:36:30
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ 392 - 504 #festive500 completed! Zwift - Loch Loop in Scotland</b> 
+<b>⛅ Zwift - Group Ride: GXY HIGH LOOSEY GOOSEY [1.9-2.3WKG] CAT D (D) on Toefield Tornado in New York</b> 
 
-which happened on 30 December, 2025 at 10:21:44 
+which happened on 01 January, 2026 at 16:45:00 
 
-Which is 0 years, 0 months, 1 days, 13 hours and 14 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 51 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/16884713422 
+You can see it here https://www.strava.com/activities/16905266607 
 
 ## Number of Rides
 How many rides have I done each year?
