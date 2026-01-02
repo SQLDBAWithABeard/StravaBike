@@ -1,13 +1,13 @@
-# Last Refreshed - 01 January, 2026 at 23:36:30
+# Last Refreshed - 02 January, 2026 at 23:35:44
 The Latest Activity was a VirtualRide - 
 
-<b>⛅ Zwift - Group Ride: GXY HIGH LOOSEY GOOSEY [1.9-2.3WKG] CAT D (D) on Toefield Tornado in New York</b> 
+<b>🌥️ Zwift - Tair Dringfa Fechan in Watopia</b> 
 
-which happened on 01 January, 2026 at 16:45:00 
+which happened on 02 January, 2026 at 14:53:57 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 51 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 41 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/16905266607 
+You can see it here https://www.strava.com/activities/16914046269 
 
 ## Number of Rides
 How many rides have I done each year?
