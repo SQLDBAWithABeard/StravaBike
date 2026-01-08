@@ -1,13 +1,13 @@
-# Last Refreshed - 07 January, 2026 at 23:36:25
+# Last Refreshed - 08 January, 2026 at 23:35:21
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Turf N Surf in Makuri Islands</b> 
+<b>🌥️ Zwift - Group Ride: GXY HIGH LOOSEY GOOSEY [1.9-2.3WKG] CAT D (D) on Bon Voyage in France</b> 
 
-which happened on 06 January, 2026 at 16:51:04 
+which happened on 08 January, 2026 at 16:44:59 
 
-Which is 0 years, 0 months, 1 days, 6 hours and 45 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 50 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/16958985708 
+You can see it here https://www.strava.com/activities/16981382192 
 
 ## Number of Rides
 How many rides have I done each year?
