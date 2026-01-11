@@ -1,13 +1,13 @@
-# Last Refreshed - 10 January, 2026 at 23:36:00
+# Last Refreshed - 11 January, 2026 at 23:36:09
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands</b> 
+<b>☁️ Zwift - Volcano Circuit in Watopia</b> 
 
-which happened on 10 January, 2026 at 16:00:45 
+which happened on 11 January, 2026 at 15:09:08 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 35 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 27 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17003647147 
+You can see it here https://www.strava.com/activities/17013581966 
 
 ## Number of Rides
 How many rides have I done each year?
