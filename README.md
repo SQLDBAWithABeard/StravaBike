@@ -1,13 +1,13 @@
-# Last Refreshed - 12 January, 2026 at 23:34:40
+# Last Refreshed - 13 January, 2026 at 23:35:17
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Volcano Circuit in Watopia</b> 
+<b>⛅ Zwift - Hell of the North in France</b> 
 
-which happened on 11 January, 2026 at 15:09:08 
+which happened on 13 January, 2026 at 16:21:21 
 
-Which is 0 years, 0 months, 1 days, 8 hours and 25 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 13 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17013581966 
+You can see it here https://www.strava.com/activities/17036719852 
 
 ## Number of Rides
 How many rides have I done each year?
