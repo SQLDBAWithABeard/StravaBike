@@ -1,11 +1,11 @@
-# Last Refreshed - 21 January, 2026 at 23:39:58
+# Last Refreshed - 22 January, 2026 at 23:37:47
 The Latest Activity was a VirtualRide - 
 
 <b>⛅ Zwift - Hell of the North in France</b> 
 
 which happened on 13 January, 2026 at 16:21:21 
 
-Which is 0 years, 0 months, 8 days, 7 hours and 18 minutes since the last refresh! 
+Which is 0 years, 0 months, 9 days, 7 hours and 16 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/17036719852 
 
