@@ -1,11 +1,11 @@
-# Last Refreshed - 29 January, 2026 at 23:40:45
+# Last Refreshed - 30 January, 2026 at 23:40:34
 The Latest Activity was a VirtualRide - 
 
 <b>🌥️ Zwift - Group Ride: Standard - Stage 3 - Tour de Zwift on Yorkshire Double Loop in Yorkshire</b> 
 
 which happened on 24 January, 2026 at 18:01:20 
 
-Which is 0 years, 0 months, 5 days, 5 hours and 39 minutes since the last refresh! 
+Which is 0 years, 0 months, 6 days, 5 hours and 39 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/17164425925 
 
