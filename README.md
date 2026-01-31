@@ -1,13 +1,13 @@
-# Last Refreshed - 30 January, 2026 at 23:40:34
+# Last Refreshed - 31 January, 2026 at 23:38:54
 The Latest Activity was a VirtualRide - 
 
-<b>🌥️ Zwift - Group Ride: Standard - Stage 3 - Tour de Zwift on Yorkshire Double Loop in Yorkshire</b> 
+<b>⛅ Zwift - Greatest London Flat in London</b> 
 
-which happened on 24 January, 2026 at 18:01:20 
+which happened on 31 January, 2026 at 14:12:55 
 
-Which is 0 years, 0 months, 6 days, 5 hours and 39 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 9 hours and 25 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17164425925 
+You can see it here https://www.strava.com/activities/17239248042 
 
 ## Number of Rides
 How many rides have I done each year?
