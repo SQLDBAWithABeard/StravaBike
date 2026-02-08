@@ -1,13 +1,13 @@
-# Last Refreshed - 07 February, 2026 at 23:43:57
+# Last Refreshed - 08 February, 2026 at 23:43:47
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Ive had better ideas - Zwift - Tour of Fire and Ice in Watopia</b> 
+<b>🌥️ Zwift - Richmond Rollercoaster in Richmond</b> 
 
-which happened on 07 February, 2026 at 13:39:37 
+which happened on 08 February, 2026 at 16:09:34 
 
-Which is 0 years, 0 months, 0 days, 10 hours and 4 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 34 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17318938505 
+You can see it here https://www.strava.com/activities/17331443959 
 
 ## Number of Rides
 How many rides have I done each year?
