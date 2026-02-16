@@ -1,13 +1,13 @@
-# Last Refreshed - 15 February, 2026 at 23:41:27
+# Last Refreshed - 16 February, 2026 at 23:42:34
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Knights of the Roundabout in France</b> 
+<b>🌥️ Zwift - Ocean Lava Cliffside Loop in Watopia</b> 
 
-which happened on 14 February, 2026 at 15:51:40 
+which happened on 16 February, 2026 at 17:42:52 
 
-Which is 0 years, 0 months, 1 days, 7 hours and 49 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 5 hours and 59 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17397601650 
+You can see it here https://www.strava.com/activities/17418699343 
 
 ## Number of Rides
 How many rides have I done each year?
