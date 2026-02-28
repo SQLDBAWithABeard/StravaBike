@@ -1,13 +1,13 @@
-# Last Refreshed - 27 February, 2026 at 23:39:44
+# Last Refreshed - 28 February, 2026 at 23:38:33
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Kaze Kicker in Makuri Islands</b> 
+<b>☁️ spin the legs Zwift - Flat Route in Watopia</b> 
 
-which happened on 25 February, 2026 at 17:10:09 
+which happened on 28 February, 2026 at 15:12:23 
 
-Which is 0 years, 0 months, 2 days, 6 hours and 29 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 26 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17521034855 
+You can see it here https://www.strava.com/activities/17554642271 
 
 ## Number of Rides
 How many rides have I done each year?
