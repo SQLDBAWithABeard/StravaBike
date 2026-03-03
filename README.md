@@ -1,13 +1,13 @@
-# Last Refreshed - 02 March, 2026 at 23:41:34
+# Last Refreshed - 03 March, 2026 at 23:41:07
 The Latest Activity was a Ride - 
 
-<b>🌥️ A horse a cat and the moon  Monday Afternoon Ride</b> 
+<b>☁️ animals and moon Tuesday Evening Ride</b> 
 
-which happened on 02 March, 2026 at 16:57:55 
+which happened on 03 March, 2026 at 18:02:32 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 5 hours and 38 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17578816386 
+You can see it here https://www.strava.com/activities/17592017174 
 
 ## Number of Rides
 How many rides have I done each year?
