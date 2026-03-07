@@ -1,13 +1,13 @@
-# Last Refreshed - 06 March, 2026 at 23:40:41
-The Latest Activity was a Ride - 
+# Last Refreshed - 07 March, 2026 at 23:38:35
+The Latest Activity was a VirtualRide - 
 
-<b>☀️ Sod it, the suns shining Wednesday Afternoon Ride</b> 
+<b>☁️ Zwift - Shisa Shakedown in Makuri Islands</b> 
 
-which happened on 04 March, 2026 at 16:30:59 
+which happened on 07 March, 2026 at 14:22:59 
 
-Which is 0 years, 0 months, 2 days, 7 hours and 9 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 9 hours and 15 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17603702703 
+You can see it here https://www.strava.com/activities/17638349565 
 
 ## Number of Rides
 How many rides have I done each year?
