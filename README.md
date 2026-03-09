@@ -1,13 +1,13 @@
-# Last Refreshed - 08 March, 2026 at 23:39:51
+# Last Refreshed - 09 March, 2026 at 23:41:38
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Shisa Shakedown in Makuri Islands</b> 
+<b>☀️ Zwift - Hudson Hustle in New York</b> 
 
-which happened on 07 March, 2026 at 14:22:59 
+which happened on 09 March, 2026 at 17:18:23 
 
-Which is 0 years, 0 months, 1 days, 9 hours and 16 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 23 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17638349565 
+You can see it here https://www.strava.com/activities/17662591781 
 
 ## Number of Rides
 How many rides have I done each year?
