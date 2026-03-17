@@ -1,11 +1,11 @@
-# Last Refreshed - 16 March, 2026 at 23:42:08
+# Last Refreshed - 17 March, 2026 at 23:44:03
 The Latest Activity was a VirtualRide - 
 
 <b>☀️ Zwift - Hudson Hustle in New York</b> 
 
 which happened on 09 March, 2026 at 17:18:23 
 
-Which is 0 years, 0 months, 7 days, 6 hours and 23 minutes since the last refresh! 
+Which is 0 years, 0 months, 8 days, 6 hours and 25 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/17662591781 
 
