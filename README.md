@@ -1,13 +1,13 @@
-# Last Refreshed - 04 April, 2026 at 23:43:30
+# Last Refreshed - 05 April, 2026 at 23:45:36
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Flat Out Fast in Watopia</b> 
+<b>🌥️ Zwift - Group Ride: WOW - High Speed Ride on TT bikes with draft (D)</b> 
 
-which happened on 03 April, 2026 at 16:19:02 
+which happened on 05 April, 2026 at 13:45:37 
 
-Which is 0 years, 0 months, 1 days, 7 hours and 24 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 9 hours and 59 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/17964331152 
+You can see it here https://www.strava.com/activities/17988382905 
 
 ## Number of Rides
 How many rides have I done each year?
