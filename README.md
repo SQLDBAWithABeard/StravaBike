@@ -1,13 +1,13 @@
-# Last Refreshed - 18 April, 2026 at 23:46:08
-The Latest Activity was a VirtualRide - 
+# Last Refreshed - 19 April, 2026 at 23:46:28
+The Latest Activity was a Ride - 
 
-<b>☁️ When you think your bike is ready but after a day in the office looking at sunshine it is not Zwift - Foundations</b> 
+<b>⛅ Shakedown - Sunday Lunch Ride</b> 
 
-which happened on 18 April, 2026 at 16:40:31 
+which happened on 19 April, 2026 at 12:54:01 
 
-Which is 0 years, 0 months, 0 days, 7 hours and 5 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 10 hours and 52 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/18161016876 
+You can see it here https://www.strava.com/activities/18171233972 
 
 ## Number of Rides
 How many rides have I done each year?
