@@ -1,13 +1,13 @@
-# Last Refreshed - 05 May, 2026 at 23:48:03
+# Last Refreshed - 06 May, 2026 at 23:48:30
 The Latest Activity was a VirtualRide - 
 
-<b>🌦️ Zwift - Cool down - Pacer Group Ride with Bernie</b> 
+<b>⛅ Things to do before meeting   Zwift - Over Under's 12 + 10</b> 
 
-which happened on 04 May, 2026 at 14:28:15 
+which happened on 06 May, 2026 at 16:45:30 
 
-Which is 0 years, 0 months, 1 days, 9 hours and 19 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 3 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/18372085076 
+You can see it here https://www.strava.com/activities/18401092597 
 
 ## Number of Rides
 How many rides have I done each year?
