@@ -1,11 +1,11 @@
-# Last Refreshed - 28 May, 2026 at 23:54:44
+# Last Refreshed - 29 May, 2026 at 23:54:46
 The Latest Activity was a Ride - 
 
 <b>Rhein but with Würste and Eis ☀️ Thursday Morning Ride</b> 
 
 which happened on 28 May, 2026 at 10:46:49 
 
-Which is 0 years, 0 months, 0 days, 13 hours and 7 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 13 hours and 7 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/18689211556 
 
