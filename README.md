@@ -1,13 +1,13 @@
-# Last Refreshed - 17 June, 2026 at 00:00:06
+# Last Refreshed - 19 June, 2026 at 00:04:56
 The Latest Activity was a Ride - 
 
-<b>Hot and sticky ☁️ Monday Afternoon Ride</b> 
+<b>It hasn't got cool 🌥️ Thursday Afternoon Ride</b> 
 
-which happened on 15 June, 2026 at 16:23:54 
+which happened on 18 June, 2026 at 17:57:49 
 
-Which is 0 years, 0 months, 1 days, 7 hours and 36 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 6 hours and 7 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/18931443937 
+You can see it here https://www.strava.com/activities/18974778936 
 
 ## Number of Rides
 How many rides have I done each year?
