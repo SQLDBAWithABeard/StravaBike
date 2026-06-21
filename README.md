@@ -1,11 +1,11 @@
-# Last Refreshed - 20 June, 2026 at 23:52:40
+# Last Refreshed - 21 June, 2026 at 23:56:14
 The Latest Activity was a Ride - 
 
 <b>It hasn't got cool 🌥️ Thursday Afternoon Ride</b> 
 
 which happened on 18 June, 2026 at 17:57:49 
 
-Which is 0 years, 0 months, 2 days, 5 hours and 54 minutes since the last refresh! 
+Which is 0 years, 0 months, 3 days, 5 hours and 58 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/18974778936 
 
