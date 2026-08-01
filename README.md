@@ -1,13 +1,13 @@
-# Last Refreshed - 31 July, 2026 at 23:50:03
+# Last Refreshed - 01 August, 2026 at 23:49:27
 The Latest Activity was a Ride - 
 
-<b>☀️ Friday Afternoon Wedding Anniversary Ride</b> 
+<b>☀️ To the airfield on our anniversary Saturday Morning Ride</b> 
 
-which happened on 31 July, 2026 at 17:28:28 
+which happened on 01 August, 2026 at 09:36:56 
 
-Which is 0 years, 0 months, 0 days, 6 hours and 21 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 14 hours and 12 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/19546751867 
+You can see it here https://www.strava.com/activities/19554807770 
 
 ## Number of Rides
 How many rides have I done each year?
