@@ -1,13 +1,13 @@
-# Last Refreshed - 13 August, 2026 at 23:46:56
+# Last Refreshed - 14 August, 2026 at 23:39:12
 The Latest Activity was a VirtualRide - 
 
-<b>🌥️ Zwift - Group Workout: GCN: Ride with Lorraine and Dan</b> 
+<b>☁️ Zwift - Flat Route in Watopia</b> 
 
-which happened on 13 August, 2026 at 12:04:24 
+which happened on 14 August, 2026 at 12:07:08 
 
-Which is 0 years, 0 months, 0 days, 11 hours and 42 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 11 hours and 32 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/19724114713 
+You can see it here https://www.strava.com/activities/19737822888 
 
 ## Number of Rides
 How many rides have I done each year?
