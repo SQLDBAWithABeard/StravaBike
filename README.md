@@ -1,13 +1,13 @@
-# Last Refreshed - 16 August, 2026 at 23:37:35
+# Last Refreshed - 17 August, 2026 at 23:39:11
 The Latest Activity was a Ride - 
 
-<b>⛅ Saturday Afternoon with T's newly bled squeaky brakes</b> 
+<b>⛅ Monday with the Trek (before T gets new bike)</b> 
 
-which happened on 15 August, 2026 at 10:49:40 
+which happened on 17 August, 2026 at 15:27:55 
 
-Which is 0 years, 0 months, 1 days, 12 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 11 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/19753252887 
+You can see it here https://www.strava.com/activities/19781967722 
 
 ## Number of Rides
 How many rides have I done each year?
