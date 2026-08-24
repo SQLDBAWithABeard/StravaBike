@@ -1,11 +1,11 @@
-# Last Refreshed - 23 August, 2026 at 23:38:29
+# Last Refreshed - 24 August, 2026 at 23:39:06
 The Latest Activity was a Ride - 
 
 <b>☀️ Cheddar Gorge and a Deep Ford Cycling</b> 
 
 which happened on 22 August, 2026 at 08:15:53 
 
-Which is 0 years, 0 months, 1 days, 15 hours and 22 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 15 hours and 23 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/19849505547 
 
