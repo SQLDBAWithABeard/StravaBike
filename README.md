@@ -1,13 +1,13 @@
-# Last Refreshed - 28 August, 2026 at 23:35:53
-The Latest Activity was a Ride - 
+# Last Refreshed - 29 August, 2026 at 23:36:04
+The Latest Activity was a VirtualRide - 
 
-<b>☀️ Cheddar Gorge and a Deep Ford Cycling</b> 
+<b>☁️ Zwift - Group Ride: Bicycle Way of Life Saturday Ride (D)</b> 
 
-which happened on 22 August, 2026 at 08:15:53 
+which happened on 29 August, 2026 at 16:00:32 
 
-Which is 0 years, 0 months, 6 days, 15 hours and 20 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 35 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/19849505547 
+You can see it here https://www.strava.com/activities/19951195780 
 
 ## Number of Rides
 How many rides have I done each year?
