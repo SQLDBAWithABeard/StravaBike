@@ -1,13 +1,13 @@
-# Last Refreshed - 30 August, 2026 at 23:36:02
-The Latest Activity was a VirtualRide - 
+# Last Refreshed - 31 August, 2026 at 23:35:45
+The Latest Activity was a Ride - 
 
-<b>☁️ Zwift - Group Ride: LGBTQz Ride with Pride  (E)</b> 
+<b>🌥️ Cycling</b> 
 
-which happened on 30 August, 2026 at 15:30:00 
+which happened on 31 August, 2026 at 10:55:06 
 
-Which is 0 years, 0 months, 0 days, 8 hours and 6 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 12 hours and 40 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/19965254958 
+You can see it here https://www.strava.com/activities/19975013130 
 
 ## Number of Rides
 How many rides have I done each year?
