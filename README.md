@@ -1,13 +1,13 @@
-# Last Refreshed - 11 September, 2026 at 23:35:48
+# Last Refreshed - 12 September, 2026 at 23:36:03
 The Latest Activity was a Ride - 
 
-<b>⛅ Hot Fuzz quotes all around</b> 
+<b>🌥️ The windy one with the shouty drivers</b> 
 
-which happened on 06 September, 2026 at 08:18:58 
+which happened on 12 September, 2026 at 14:56:59 
 
-Which is 0 years, 0 months, 5 days, 15 hours and 16 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 8 hours and 39 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/20061768437 
+You can see it here https://www.strava.com/activities/20146460099 
 
 ## Number of Rides
 How many rides have I done each year?
