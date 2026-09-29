@@ -1,11 +1,11 @@
-# Last Refreshed - 28 September, 2026 at 23:38:24
+# Last Refreshed - 29 September, 2026 at 23:36:46
 The Latest Activity was a Ride - 
 
 <b>🌤️ Sunday showing the bike the sights of Barcelona</b> 
 
 which happened on 27 September, 2026 at 07:12:55 
 
-Which is 0 years, 0 months, 1 days, 16 hours and 25 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 16 hours and 23 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/20346060995 
 
