@@ -1,13 +1,13 @@
-# Last Refreshed - 02 October, 2026 at 23:37:28
+# Last Refreshed - 04 October, 2026 at 00:18:35
 The Latest Activity was a Ride - 
 
-<b>☁️ Show the bike Barcelona from up high post #Fabcon</b> 
+<b>🌦️ Rode up the mountain for a view of the clouds then got absolutely soaked</b> 
 
-which happened on 02 October, 2026 at 17:42:26 
+which happened on 03 October, 2026 at 08:30:27 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 55 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 15 hours and 48 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/20423214005 
+You can see it here https://www.strava.com/activities/20434725204 
 
 ## Number of Rides
 How many rides have I done each year?
