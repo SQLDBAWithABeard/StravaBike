@@ -1,11 +1,11 @@
-# Last Refreshed - 04 October, 2026 at 23:38:40
+# Last Refreshed - 05 October, 2026 at 23:37:14
 The Latest Activity was a Ride - 
 
 <b>🌦️ Rode up the mountain for a view of the clouds then got absolutely soaked</b> 
 
 which happened on 03 October, 2026 at 08:30:27 
 
-Which is 0 years, 0 months, 1 days, 15 hours and 8 minutes since the last refresh! 
+Which is 0 years, 0 months, 2 days, 15 hours and 6 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/20434725204 
 
