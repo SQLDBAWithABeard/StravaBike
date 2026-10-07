@@ -1,13 +1,13 @@
-# Last Refreshed - 06 October, 2026 at 23:39:38
+# Last Refreshed - 07 October, 2026 at 23:39:16
 The Latest Activity was a Ride - 
 
-<b>☁️ Back before the rain in Spain</b> 
+<b>☀️ Gentle post work spin.  Amazing gate.  Terrible flood damage</b> 
 
-which happened on 06 October, 2026 at 17:45:36 
+which happened on 07 October, 2026 at 16:09:47 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 54 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 29 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/20478087903 
+You can see it here https://www.strava.com/activities/20491555926 
 
 ## Number of Rides
 How many rides have I done each year?
