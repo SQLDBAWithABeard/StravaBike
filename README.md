@@ -1,13 +1,13 @@
-# Last Refreshed - 02 November, 2026 at 23:34:40
+# Last Refreshed - 03 November, 2026 at 23:35:02
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Rolling Base Ride</b> 
+<b>☀️ Because sometimes the best thing to do is to exercise Zwift - Eggum Coastal in Video</b> 
 
-which happened on 10 October, 2026 at 14:51:25 
+which happened on 03 November, 2026 at 12:04:48 
 
-Which is 0 years, 0 months, 23 days, 8 hours and 43 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 11 hours and 30 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/20529904224 
+You can see it here https://www.strava.com/activities/20841977738 
 
 ## Number of Rides
 How many rides have I done each year?
