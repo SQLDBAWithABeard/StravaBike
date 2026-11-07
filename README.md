@@ -1,11 +1,11 @@
-# Last Refreshed - 06 November, 2026 at 23:34:26
+# Last Refreshed - 07 November, 2026 at 23:34:30
 The Latest Activity was a VirtualRide - 
 
 <b>⛅How are you feeling Rob? Yeah still not right.   Zwift - Sa Calobra in Video</b> 
 
 which happened on 06 November, 2026 at 17:47:04 
 
-Which is 0 years, 0 months, 0 days, 5 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 5 hours and 47 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/20885488199 
 
