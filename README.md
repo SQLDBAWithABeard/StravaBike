@@ -1,13 +1,13 @@
-# Last Refreshed - 09 November, 2026 at 23:34:41
+# Last Refreshed - 18 November, 2026 at 11:12:46
 The Latest Activity was a VirtualRide - 
 
-<b>⛅How are you feeling Rob? Yeah still not right.   Zwift - Sa Calobra in Video</b> 
+<b>⛅ Zwift - Pacer Group Ride with Bernie</b> 
 
-which happened on 06 November, 2026 at 17:47:04 
+which happened on 17 November, 2026 at 16:52:32 
 
-Which is 0 years, 0 months, 3 days, 5 hours and 47 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 18 hours and 20 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/20885488199 
+You can see it here https://www.strava.com/activities/21024090648 
 
 ## Number of Rides
 How many rides have I done each year?
