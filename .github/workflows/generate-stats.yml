@@ -9,7 +9,7 @@ jobs:
   Stats:
     runs-on: ubuntu-24.04
     permissions:
-      contents: read
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python ${{ matrix.python-version }}
@@ -46,7 +46,6 @@ jobs:
         run: |
           git config --global user.name 'GithubBot'
           git config --global user.email 'mrrobsewell@outlook.com'
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN_GITHUB }}@github.com/${{ github.repository }}
           #git diff-index --quiet HEAD || git commit --allow-empty -am "Automated changes"
           git add .
           git commit -m 'I am AutoBot and I Auto'
