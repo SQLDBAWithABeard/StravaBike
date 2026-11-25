@@ -1,13 +1,13 @@
-# Last Refreshed - 25 November, 2026 at 05:36:04
+# Last Refreshed - 25 November, 2026 at 23:34:45
 The Latest Activity was a VirtualRide - 
 
-<b>☁️ Zwift - Group Ride: (Rubber-Banded) Ride with James' Friends! (D)</b> 
+<b>🌤️ Zwift - Pacer Group Ride with Miguel</b> 
 
-which happened on 22 November, 2026 at 13:29:59 
+which happened on 25 November, 2026 at 16:21:59 
 
-Which is 0 years, 0 months, 2 days, 16 hours and 6 minutes since the last refresh! 
+Which is 0 years, 0 months, 0 days, 7 hours and 12 minutes since the last refresh! 
 
-You can see it here https://www.strava.com/activities/21085129153 
+You can see it here https://www.strava.com/activities/21121718801 
 
 ## Number of Rides
 How many rides have I done each year?
