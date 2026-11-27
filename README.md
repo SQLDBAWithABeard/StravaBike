@@ -1,11 +1,11 @@
-# Last Refreshed - 26 November, 2026 at 23:35:08
+# Last Refreshed - 27 November, 2026 at 23:34:38
 The Latest Activity was a VirtualRide - 
 
 <b>☀️ Zwift - Group Ride: Eric Min Thanksgiving Day Ride</b> 
 
 which happened on 26 November, 2026 at 13:00:00 
 
-Which is 0 years, 0 months, 0 days, 10 hours and 35 minutes since the last refresh! 
+Which is 0 years, 0 months, 1 days, 10 hours and 34 minutes since the last refresh! 
 
 You can see it here https://www.strava.com/activities/21131711267 
 
